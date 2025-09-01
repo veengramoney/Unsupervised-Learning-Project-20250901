@@ -1,0 +1,3001 @@
+user_id,anime_id,rating,genre,type,genre_encoded,type_encoded
+27973,9989,8,"Drama, Slice of Life, Supernatural",TV,855,5
+50603,6007,7,"Fantasy, Historical, Romance",OVA,870,3
+27254,2109,7,"Action, Adventure, Game, Mecha, School, Sci-Fi, Shounen",TV,93,5
+53284,72,9,"Action, Comedy, School",TV,186,5
+17373,8074,6,"Action, Ecchi, Horror, Supernatural",TV,265,5
+25063,8408,10,"Action, Comedy, Supernatural",Special,201,4
+64277,2993,8,"Comedy, Ecchi, Fantasy, Harem, Romance, School, Shounen, Vampire",TV,566,5
+58073,1902,5,"Comedy, Fantasy",OVA,621,3
+46063,71,8,"Action, Comedy, Mecha, Military, Sci-Fi",TV,173,5
+59553,1575,10,"Action, Mecha, Military, School, Sci-Fi, Super Power",TV,324,5
+54171,20,9,"Action, Comedy, Martial Arts, Shounen, Super Power",TV,170,5
+2115,18045,8,"Drama, Romance, School",Special,830,4
+14333,17729,6,"Drama, Harem, Psychological, Romance, School",TV,787,5
+32708,30240,9,"Comedy, Ecchi, Romance, School, Seinen",TV,601,5
+69020,19815,7,"Adventure, Comedy, Ecchi, Fantasy, Game, Supernatural",TV,399,5
+2458,9756,8,"Drama, Magic, Psychological, Thriller",TV,806,5
+16830,13851,9,"Comedy, Ecchi, Harem, Romance, School, Sci-Fi, Shounen",OVA,580,3
+50000,3515,8,"Action, Fantasy, Shounen, Super Power",OVA,287,3
+7605,4898,9,"Action, Comedy, Demons, Fantasy, Historical, Shounen, Supernatural",TV,121,5
+31202,9471,7,"Comedy, School, Super Power",OVA,735,3
+57429,22199,8,"Action, Adventure, Fantasy",TV,73,5
+59035,417,6,"Action, Fantasy, Magic",TV,277,5
+529,9253,10,"Sci-Fi, Thriller",TV,957,5
+9931,5958,8,"Comedy, Ecchi, Harem, Romance, Sci-Fi, Shounen, Supernatural",TV,586,5
+67593,139,10,"Action, Adventure, Shounen, Super Power",OVA,111,3
+20761,31240,7,"Drama, Fantasy, Psychological, Thriller",TV,776,5
+51893,2237,7,"Comedy, Mystery",Special,678,4
+50221,1998,7,"Adventure, Music, Police, Romance, Sci-Fi",Music,480,1
+69849,268,8,"Adventure, Comedy, Ecchi",OVA,398,3
+3476,1132,5,"Action, Adventure, Comedy, Drama, Fantasy, Shounen",TV,8,5
+28871,14227,8,"Comedy, Romance, School, Shoujo, Slice of Life",TV,703,5
+47832,21743,8,"Action, Historical, Shoujo",TV,303,5
+38664,3298,10,"Adventure, Comedy, Drama, Fantasy, Romance, Shoujo",TV,393,5
+9120,22961,10,"Romance, Slice of Life",OVA,951,3
+19890,9624,5,"Ecchi, Parody, Romance, Seinen",TV,861,5
+2298,19511,7,"Action, Comedy, Martial Arts, Shounen, Super Power",Special,170,4
+73362,4903,9,"Comedy, Ecchi, School, Seinen",TV,611,5
+35669,23281,8,"Action, Police, Psychological, Sci-Fi",TV,358,5
+21337,1887,8,"Comedy, Parody, School, Slice of Life",TV,693,5
+72430,16498,7,"Action, Drama, Fantasy, Shounen, Super Power",TV,220,5
+35406,22535,10,"Action, Drama, Horror, Psychological, Sci-Fi, Seinen",TV,229,5
+24438,21353,7,"Action, Comedy, Sci-Fi, Shounen, Super Power, Supernatural",TV,195,5
+41448,15225,9,"Comedy, Harem, Romance, School, Seinen, Supernatural",TV,645,5
+43521,26243,6,"Action, Drama, Shounen, Supernatural, Vampire",TV,256,5
+52212,5355,6,"Action, Historical, Martial Arts, Samurai, Super Power",TV,297,5
+52570,763,7,"Action, Adventure, Comedy, Mecha, Sci-Fi",TV,41,5
+8115,12053,7,"Action, Psychological, Sci-Fi",Movie,359,0
+33159,205,9,"Action, Adventure, Comedy, Historical, Samurai, Shounen",TV,39,5
+19602,14713,8,"Comedy, Demons, Fantasy, Romance, Shoujo, Supernatural",TV,494,5
+59325,94,8,"Action, Drama, Mecha, Military, Romance, Sci-Fi, Space",TV,236,5
+14409,14349,9,"Adventure, Comedy, Fantasy, Magic, School",Movie,410,0
+6467,1426,6,"Action, Adventure, Comedy, Shounen",TV,45,5
+3627,13171,8,"Comedy, Supernatural",Movie,753,0
+17274,3092,7,"Comedy, Drama, Romance, Shounen Ai",TV,544,5
+24611,1840,7,"Action, Adventure, Comedy, Ecchi, Fantasy, Harem, Magic, Romance, School",TV,18,5
+57516,1066,7,"Comedy, Parody",Special,687,4
+68265,164,9,"Action, Adventure, Fantasy",Movie,73,0
+70077,6573,9,"Action, Mystery, Sci-Fi, Super Power",TV,351,5
+3378,4063,10,"Action, Comedy, Ecchi, Harem, Super Power",TV,141,5
+27718,186,7,"Action, Cars, Drama, Seinen, Sports",TV,116,5
+50877,1482,8,"Action, Adventure, Comedy, Shounen",TV,45,5
+53356,450,6,"Adventure, Demons, Drama, Fantasy, Historical, Romance, Shounen, Supernatural",Movie,436,0
+16137,272,8,"Action, Drama, Mystery",TV,245,5
+11077,487,6,"Comedy, Ecchi, Fantasy, Harem, Romance, School",TV,564,5
+11290,458,5,"Comedy, Ecchi, Magic, Sci-Fi, Seinen",OVA,596,3
+17490,6325,5,"Action, Comedy, Martial Arts, Shounen, Super Power",Movie,170,0
+56354,6325,6,"Action, Comedy, Martial Arts, Shounen, Super Power",Movie,170,0
+352,3342,8,"Action, Horror, Sci-Fi, Shoujo Ai, Supernatural",TV,312,5
+3469,10163,10,"Action, Mystery, Super Power, Thriller",TV,355,5
+773,934,8,"Horror, Mystery, Psychological, Supernatural, Thriller",TV,903,5
+23221,7472,10,"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen",Movie,162,0
+19764,15225,9,"Comedy, Harem, Romance, School, Seinen, Supernatural",TV,645,5
+29215,4107,10,"Action, Comedy, Mecha",Movie,171,0
+46733,11235,9,"Comedy, Romance, School, Slice of Life",TV,707,5
+59419,2530,7,"Hentai, Yuri",OVA,897,3
+51021,10620,7,"Action, Mystery, Psychological, Shounen, Supernatural, Thriller",TV,348,5
+17221,121,10,"Action, Adventure, Comedy, Drama, Fantasy, Magic, Military, Shounen",TV,7,5
+15340,26243,6,"Action, Drama, Shounen, Supernatural, Vampire",TV,256,5
+8115,18041,8,"Action, Comedy, Drama, Magic, Seinen",TV,127,5
+24690,3457,9,"Drama, Mystery, Romance, Shoujo, Supernatural, Vampire",TV,822,5
+23454,232,8,"Adventure, Comedy, Drama, Fantasy, Magic, Romance, School, Shoujo",TV,390,5
+10882,1192,7,"Horror, Psychological, Supernatural",Movie,910,0
+8228,5998,10,Fantasy,Movie,866,0
+63169,1575,8,"Action, Mecha, Military, School, Sci-Fi, Super Power",TV,324,5
+22831,16199,7,"Military, School",Special,921,4
+64293,8074,9,"Action, Ecchi, Horror, Supernatural",TV,265,5
+6167,514,3,"Drama, Horror, Magic, Psychological, Romance, Supernatural",OVA,800,3
+61641,721,8,"Comedy, Fantasy, Magic, Romance",TV,626,5
+56487,14741,9,"Comedy, Drama, Romance, School, Slice of Life",TV,539,5
+45041,30,9,"Action, Dementia, Drama, Mecha, Psychological, Sci-Fi",TV,202,5
+12954,459,7,"Action, Adventure, Comedy, Fantasy, Shounen, Super Power",Movie,34,0
+47457,16417,8,"Comedy, Slice of Life",TV,751,5
+55316,1594,10,"Horror, Mystery, Psychological, Supernatural",TV,902,5
+25143,81,9,"Adventure, Drama, Mecha, Military, Romance, Sci-Fi",OVA,450,3
+18975,26243,9,"Action, Drama, Shounen, Supernatural, Vampire",TV,256,5
+64126,11933,9,"Comedy, Historical, Romance",TV,655,5
+68286,9919,10,"Action, Demons, Fantasy, Shounen, Supernatural",TV,207,5
+35010,22535,9,"Action, Drama, Horror, Psychological, Sci-Fi, Seinen",TV,229,5
+67478,15323,8,"Action, Adventure, Comedy, Drama, Fantasy, Shounen, Super Power",Special,9,4
+55135,22297,9,"Action, Fantasy, Magic, Shounen, Supernatural",TV,281,5
+63057,23755,9,"Action, Adventure, Ecchi, Fantasy, Shounen, Supernatural",TV,72,5
+56820,252,7,"Drama, Magic, Military, Mystery, Psychological, Shounen, Supernatural",TV,805,5
+44661,15225,8,"Comedy, Harem, Romance, School, Seinen, Supernatural",TV,645,5
+38681,14345,7,"Action, Psychological, Sci-Fi, Seinen",TV,360,5
+50000,4107,9,"Action, Comedy, Mecha",Movie,171,0
+40298,9515,6,"Comedy, Ecchi, Supernatural",OVA,620,3
+53698,10834,6,"Comedy, Romance, School, Super Power",Special,709,4
+40280,3493,4,Adventure,TV,379,5
+60673,6574,9,"Comedy, Seinen, Slice of Life",TV,744,5
+67749,17265,8,"Action, Adventure, Fantasy, Game, Magic, Shounen",TV,74,5
+43198,15487,6,"Comedy, School, Shounen, Sports",Special,732,4
+16515,15085,9,"Fantasy, Josei, Mystery, Romance",TV,873,5
+71658,13403,10,"Comedy, Shounen, Supernatural",Special,750,4
+59538,238,7,"Action, Adventure, Martial Arts, Shounen, Super Power",TV,102,5
+32068,199,9,"Adventure, Drama, Supernatural",Movie,458,0
+16665,836,5,"Comedy, Drama, Harem, Romance, Slice of Life",TV,517,5
+60739,1731,7,"Action, Adventure, Fantasy, Magic, Martial Arts, Shounen",OVA,81,3
+56893,10202,7,"Action, Adventure, Comedy, Kids, Super Power",OVA,40,3
+32141,5114,9,"Action, Adventure, Drama, Fantasy, Magic, Military, Shounen",TV,59,5
+73501,168,7,"Action, Adventure, Drama, Sci-Fi, Super Power",TV,69,5
+41573,371,8,"Comedy, Drama, Fantasy, Magic, Shoujo",Movie,512,0
+34391,5914,7,"Comedy, Ecchi, Shoujo Ai, Slice of Life",TV,618,5
+45169,4186,5,"Action, Adventure, Fantasy, School, Sci-Fi",TV,89,5
+72317,23251,8,"Comedy, Shounen, Supernatural",TV,750,5
+59396,165,8,"Action, Drama, Mecha, Music, Mystery, Psychological, Romance, Sci-Fi",TV,239,5
+31410,1519,7,"Action, Seinen",TV,370,5
+22491,2034,7,"Comedy, Romance, Shoujo",TV,715,5
+16135,10928,8,"Comedy, Romance",OVA,697,3
+36582,223,10,"Adventure, Comedy, Fantasy, Martial Arts, Shounen, Super Power",TV,412,5
+70235,527,9,"Action, Adventure, Comedy, Fantasy, Kids",TV,23,5
+69439,2034,8,"Comedy, Romance, Shoujo",TV,715,5
+12747,641,7,"Comedy, Ecchi, Romance, Shounen",Special,606,4
+24168,21327,10,"Comedy, School, Shounen, Slice of Life",TV,731,5
+8600,4224,8,"Comedy, Romance, School, Slice of Life",TV,707,5
+22501,7674,9,"Comedy, Romance, Shounen",TV,716,5
+4324,32681,8,"Action, Adventure, Comedy, Space",TV,48,5
+69802,2403,7,"Comedy, Ecchi, School",TV,610,5
+10075,10721,5,"Comedy, Drama, Mystery, Psychological",TV,528,5
+16938,10790,7,"Action, Comedy, Ecchi, Harem, Magic, Supernatural",TV,139,5
+2290,995,9,"Action, Comedy, Shounen, Sports",OVA,197,3
+13235,121,10,"Action, Adventure, Comedy, Drama, Fantasy, Magic, Military, Shounen",TV,7,5
+51428,5420,8,"Drama, Fantasy",TV,768,5
+57620,3298,8,"Adventure, Comedy, Drama, Fantasy, Romance, Shoujo",TV,393,5
+49221,2927,5,"Drama, Romance, School",TV,830,5
+23702,853,7,"Comedy, Harem, Romance, School, Shoujo",TV,646,5
+52068,4789,8,"Drama, Mystery, Romance, Supernatural",TV,823,5
+5934,3467,7,"Comedy, Romance",TV,697,5
+29100,31043,10,"Mystery, Psychological, Seinen, Supernatural",TV,930,5
+24171,6747,7,"Action, Supernatural, Vampire",TV,378,5
+24851,51,6,"Action, Drama, Romance, Shoujo, Supernatural",OVA,249,3
+954,31280,9,"Game, Psychological",Movie,886,0
+1634,237,8,"Adventure, Drama, Mecha, Romance, Sci-Fi",TV,451,5
+5543,705,7,"Adventure, Comedy, Magic, Sci-Fi",Movie,423,0
+9367,482,7,"Action, Comedy, Fantasy, Game, Shounen",TV,150,5
+60416,849,10,"Comedy, Mystery, Parody, School, Sci-Fi, Slice of Life",TV,680,5
+22868,9253,8,"Sci-Fi, Thriller",TV,957,5
+60081,101,8,"Drama, Romance, Slice of Life, Supernatural",TV,844,5
+45909,30296,6,"Action, Ecchi, Fantasy, Romance, School",TV,257,5
+34972,27991,7,"Action, Super Power, Supernatural",TV,375,5
+5131,2158,8,"Action, Drama, Military, Sci-Fi, Space",TV,244,5
+9380,10620,10,"Action, Mystery, Psychological, Shounen, Supernatural, Thriller",TV,348,5
+23326,2593,7,"Action, Mystery, Supernatural, Thriller",Movie,357,0
+32919,18393,9,"Action, Adventure, Comedy, Fantasy, Magic, Shounen",OVA,25,3
+27532,1303,9,"Action, Drama, Sci-Fi",OVA,251,3
+33216,9330,7,"Action, Magic, Romance, School, Seinen, Supernatural",TV,318,5
+30125,8937,8,"Action, Magic, Sci-Fi, Super Power",TV,319,5
+53698,11235,6,"Comedy, Romance, School, Slice of Life",TV,707,5
+1058,3455,10,"Comedy, Ecchi, Harem, Romance, School, Sci-Fi",TV,579,5
+42136,2236,10,"Adventure, Drama, Romance, Sci-Fi",Movie,454,0
+45885,770,7,"Drama, Sci-Fi",OVA,851,3
+35147,7593,8,"Comedy, Ecchi, Harem, Romance, School, Seinen",TV,581,5
+34325,9617,9,"Comedy, Music, Slice of Life",Movie,677,0
+47717,2126,7,"Action, Adventure, Comedy, Shounen, Supernatural",OVA,47,3
+18777,199,9,"Adventure, Drama, Supernatural",Movie,458,0
+35707,23283,9,"Psychological, Thriller",TV,941,5
+1835,6704,5,"Action, Adventure, Ecchi, Fantasy",Special,71,4
+46048,317,8,"Action, Fantasy, Super Power",Movie,289,0
+23972,10161,7,"Action, Sci-Fi",TV,365,5
+35505,11061,9,"Action, Adventure, Shounen, Super Power",TV,111,5
+41337,6007,7,"Fantasy, Historical, Romance",OVA,870,3
+8703,857,7,"Action, Comedy, Ecchi, Shounen, Sports",TV,147,5
+7143,1292,4,"Action, Adventure, Samurai",TV,107,5
+4064,30795,5,"Comedy, Seinen, Slice of Life",TV,744,5
+7776,149,3,"Action, Drama, Fantasy, Mystery, Romance, Shoujo, Shounen Ai, Supernatural",TV,215,5
+60082,404,8,"Action, Adventure, Comedy, Ecchi, Fantasy, Seinen",OVA,19,3
+41758,2904,10,"Action, Drama, Mecha, Military, Sci-Fi, Super Power",TV,238,5
+38184,1889,9,"Mystery, Psychological, Supernatural, Thriller",TV,931,5
+65721,3167,9,"Sci-Fi, Slice of Life",ONA,956,2
+58795,2175,8,"Adventure, Drama, Fantasy",Movie,439,0
+35371,15451,7,"Action, Comedy, Demons, Ecchi, Harem, Romance, School",TV,119,5
+59761,1575,6,"Action, Mecha, Military, School, Sci-Fi, Super Power",TV,324,5
+5930,232,9,"Adventure, Comedy, Drama, Fantasy, Magic, Romance, School, Shoujo",TV,390,5
+10463,5526,6,"Comedy, Fantasy, Kids",Movie,625,0
+64542,1487,5,"Adventure, Comedy, Fantasy, Game, Magic, Sci-Fi",Special,403,4
+53198,13115,7,"Action, Drama, Historical, Josei, Samurai, Supernatural",TV,222,5
+14679,3956,4,"Comedy, Parody",Special,687,4
+46055,896,10,"Adventure, Comedy, Fantasy, Sci-Fi, Shounen",Movie,415,0
+43812,30250,10,"Action, Ecchi, School, Shounen",OVA,270,3
+19237,13759,10,"Comedy, Drama, Romance, School, Slice of Life",TV,539,5
+31794,10573,7,"Shounen, Sports",OVA,958,3
+53403,6213,10,"Action, Sci-Fi, Super Power",TV,369,5
+17088,16417,7,"Comedy, Slice of Life",TV,751,5
+26577,186,9,"Action, Cars, Drama, Seinen, Sports",TV,116,5
+26162,245,10,"Comedy, Drama, School, Shounen, Slice of Life",TV,549,5
+4437,24687,7,"Adventure, Fantasy, Historical, Mystery, Seinen, Slice of Life, Supernatural",Special,464,4
+57557,1050,5,"Adventure, Comedy, Sci-Fi, Shounen",TV,430,5
+51098,68,8,"Adventure, Comedy, Sci-Fi, Shounen, Super Power",TV,431,5
+23743,1007,8,"Comedy, Martial Arts, Romance, Shounen",OVA,669,3
+64269,1231,4,"Action, Adventure, Comedy, Harem, Mecha, Sci-Fi",TV,37,5
+45184,25879,10,"Comedy, Romance, Slice of Life",TV,720,5
+65147,9041,7,"Action, Comedy, Harem, Mecha, Sci-Fi",TV,160,5
+14557,24703,9,"Action, Comedy, Demons, Ecchi, Harem, Romance, School",TV,119,5
+11499,11441,4,"Action, Drama, Historical, Samurai, Shounen",OVA,224,3
+17119,31442,7,"Action, Comedy, Fantasy, Slice of Life, Supernatural",TV,159,5
+51269,1569,7,"Comedy, Drama, Romance, School",TV,534,5
+28453,2035,7,"Drama, Historical, Romance, Seinen, Slice of Life",TV,796,5
+12005,10790,7,"Action, Comedy, Ecchi, Harem, Magic, Supernatural",TV,139,5
+21622,889,8,"Action, Seinen",TV,370,5
+64606,2889,7,"Action, Adventure, Shounen, Supernatural",Movie,112,0
+8428,776,6,"Comedy, Drama, Romance, Shounen, Slice of Life",TV,546,5
+57502,856,10,"Action, Drama, Fantasy, Sci-Fi",TV,218,5
+57143,13939,9,"Action, Game, Romance, School, Sci-Fi",OVA,293,3
+48482,4059,10,"Drama, Romance, School, Slice of Life",Special,836,4
+42867,11757,5,"Action, Adventure, Fantasy, Game, Romance",TV,75,5
+45872,3901,7,"Action, Comedy, Historical, Mystery, Seinen, Supernatural",Special,161,4
+39909,13429,8,Sci-Fi,Special,954,4
+72403,12859,10,"Action, Adventure, Comedy, Drama, Fantasy, Shounen",Movie,8,0
+35037,7337,10,"Comedy, Historical, Parody",Movie,654,0
+29349,5355,6,"Action, Historical, Martial Arts, Samurai, Super Power",TV,297,5
+32063,10110,7,"Comedy, Ecchi, Harem, Romance, School",TV,578,5
+26115,20057,7,"Comedy, Sci-Fi, Space",TV,742,5
+48215,11013,10,"Comedy, Romance, Shounen, Supernatural",TV,719,5
+18588,15225,10,"Comedy, Harem, Romance, School, Seinen, Supernatural",TV,645,5
+39178,11757,8,"Action, Adventure, Fantasy, Game, Romance",TV,75,5
+18399,22199,9,"Action, Adventure, Fantasy",TV,73,5
+39090,20517,6,"Comedy, Drama, Romance, School, Slice of Life, Supernatural",Special,540,4
+43625,9925,9,School,Special,952,4
+12454,26055,8,"Action, Adventure, Drama, Shounen, Supernatural",TV,70,5
+7219,834,7,"Adventure, Comedy, Drama, Fantasy, Shounen, Supernatural",Special,395,4
+47612,3407,8,"Action, Sci-Fi",TV,365,5
+53864,30355,8,"Comedy, School, Slice of Life",TV,733,5
+54898,18799,6,"Action, Music, Seinen, Supernatural",Music,347,1
+18060,20787,7,"Action, Mystery, Sci-Fi, Seinen",TV,350,5
+1078,449,7,"Adventure, Comedy, Demons, Drama, Historical, Romance, Shounen, Supernatural",Movie,382,0
+58967,6444,8,"Adventure, Fantasy, Shounen, Supernatural",TV,475,5
+47618,534,9,"Adventure, Comedy, Demons, Fantasy, Magic",TV,383,5
+57960,513,8,"Adventure, Fantasy, Romance, Sci-Fi",Movie,472,0
+71633,72,10,"Action, Comedy, School",TV,186,5
+23794,4382,9,"Comedy, Mystery, Parody, Romance, School, Sci-Fi, Slice of Life",TV,679,5
+73012,10087,8,"Action, Fantasy, Supernatural",TV,290,5
+42334,14741,9,"Comedy, Drama, Romance, School, Slice of Life",TV,539,5
+7325,3784,8,"Action, Mecha, Sci-Fi",Movie,337,0
+39712,5958,9,"Comedy, Ecchi, Harem, Romance, Sci-Fi, Shounen, Supernatural",TV,586,5
+16131,2904,9,"Action, Drama, Mecha, Military, Sci-Fi, Super Power",TV,238,5
+70103,19,7,"Drama, Horror, Mystery, Police, Psychological, Seinen, Thriller",TV,801,5
+51400,120,9,"Comedy, Drama, Fantasy, Romance, Shoujo, Slice of Life",TV,513,5
+8336,855,8,"Drama, Romance, School, Shoujo Ai",TV,833,5
+14994,33028,9,"Action, Horror, Mystery, Psychological",TV,307,5
+69103,32013,7,"Comedy, School, Slice of Life",TV,733,5
+47786,74,9,"Comedy, Magic, School, Shoujo",TV,666,5
+39695,894,6,"Adventure, Comedy, Fantasy, Sci-Fi, Shounen",Movie,415,0
+28627,2924,7,"Drama, Mystery, Romance",TV,821,5
+72465,10418,7,"Action, Horror, Sci-Fi",OVA,311,3
+23784,9834,7,"Comedy, Sci-Fi, Shounen",TV,739,5
+22123,2787,7,"Action, Drama, Fantasy, Romance, School, Supernatural",TV,216,5
+14090,68,8,"Adventure, Comedy, Sci-Fi, Shounen, Super Power",TV,431,5
+13052,1080,9,"Action, Drama, Military, Psychological, Sci-Fi, Space",OVA,242,3
+48628,226,10,"Action, Drama, Horror, Psychological, Romance, Seinen, Supernatural",TV,228,5
+43641,10163,8,"Action, Mystery, Super Power, Thriller",TV,355,5
+3657,1078,9,Comedy,Movie,489,0
+24581,339,8,"Dementia, Drama, Mystery, Psychological, Sci-Fi, Supernatural",TV,757,5
+42905,27601,8,"Comedy, Drama, Romance, School, Slice of Life",Special,539,4
+19930,528,9,"Action, Adventure, Comedy, Drama, Fantasy, Kids",Movie,6,0
+5053,9201,6,"Action, Comedy, Ecchi, Shounen, Sports",OVA,147,3
+7824,1495,7,"Drama, Sci-Fi, Space",OVA,853,3
+71821,3225,8,"Comedy, School, Slice of Life",TV,733,5
+63739,12467,8,"Ecchi, Romance, School, Seinen",TV,863,5
+5025,2144,8,"Action, Adventure",Movie,1,0
+17660,24919,6,"Action, Sci-Fi, Seinen",Movie,366,0
+60463,264,9,"Comedy, Shounen, Sports",Special,749,4
+69177,5060,8,"Comedy, Historical, Parody",ONA,654,2
+68839,12729,5,"Comedy, Demons, Ecchi, Romance, School",OVA,492,3
+57657,9834,9,"Comedy, Sci-Fi, Shounen",TV,739,5
+70161,8074,6,"Action, Ecchi, Horror, Supernatural",TV,265,5
+50014,358,7,"Drama, Romance, Sci-Fi",OVA,838,3
+7045,107,9,"Adventure, Comedy, Fantasy, Sci-Fi, Shounen",TV,415,5
+28183,2104,7,"Comedy, Parody, Romance, School",TV,689,5
+13984,2595,4,"Drama, Ecchi, Romance, School",TV,767,5
+24517,5958,9,"Comedy, Ecchi, Harem, Romance, Sci-Fi, Shounen, Supernatural",TV,586,5
+54868,10638,8,"Comedy, Sci-Fi, Seinen",Special,738,4
+7012,225,6,"Action, Adventure, Comedy, Fantasy, Magic, Sci-Fi, Shounen, Super Power",TV,24,5
+4276,13851,8,"Comedy, Ecchi, Harem, Romance, School, Sci-Fi, Shounen",OVA,580,3
+54452,10396,6,"Action, Comedy, Martial Arts",TV,166,5
+21268,408,5,"Action, Adventure, Drama, Fantasy, Sci-Fi",OVA,62,3
+71901,1195,6,"Action, Adventure, Comedy, Ecchi, Fantasy, Harem, Magic, Romance, School",TV,18,5
+51021,1,9,"Action, Adventure, Comedy, Drama, Sci-Fi, Space",TV,14,5
+46659,15699,8,"Comedy, Parody, Sci-Fi",TV,694,5
+73276,30307,7,"Comedy, Ecchi, Fantasy, Harem, Romance, Seinen",TV,568,5
+57462,4038,7,"Action, Comedy, Shounen, Supernatural",TV,199,5
+29514,10444,8,"Action, Adventure, Comedy, Fantasy, Shounen",TV,33,5
+1396,565,9,"Action, Adventure, Drama, Historical, Military, Sci-Fi",Movie,64,0
+38672,899,8,"Adventure, Comedy, Fantasy, Sci-Fi, Shounen",Movie,415,0
+15533,21855,8,"Comedy, Mystery, Supernatural",TV,686,5
+15135,28223,8,"Drama, Game, Mystery, Psychological, Thriller",TV,783,5
+67798,9181,10,"Comedy, Ecchi, Harem, School, Sci-Fi, Shounen",TV,590,5
+19104,10800,9,"Drama, Game, Josei, Slice of Life, Sports",TV,782,5
+18030,10800,10,"Drama, Game, Josei, Slice of Life, Sports",TV,782,5
+7729,4282,9,"Action, Drama, Mystery, Romance, Supernatural, Thriller",Movie,246,0
+17013,9041,6,"Action, Comedy, Harem, Mecha, Sci-Fi",TV,160,5
+51418,254,10,"Comedy, Slice of Life",OVA,751,3
+44094,24075,9,"Adventure, Mystery, School, Sci-Fi, Super Power, Supernatural",TV,483,5
+32236,8525,8,"Comedy, Harem, Romance, Shounen, Supernatural",TV,651,5
+7225,513,9,"Adventure, Fantasy, Romance, Sci-Fi",Movie,472,0
+35664,24765,8,"Horror, Mystery, Psychological, School, Slice of Life",TV,901,5
+37319,22319,7,"Action, Drama, Horror, Mystery, Psychological, Seinen, Supernatural",TV,227,5
+66005,21939,9,"Adventure, Fantasy, Historical, Mystery, Seinen, Slice of Life, Supernatural",TV,464,5
+49208,72,9,"Action, Comedy, School",TV,186,5
+32584,10162,8,"Josei, Slice of Life",TV,911,5
+34843,6033,10,"Action, Adventure, Comedy, Fantasy, Martial Arts, Shounen, Super Power",TV,27,5
+36059,13659,8,"Comedy, Seinen, Slice of Life",TV,744,5
+15715,22147,5,"Comedy, Magic",TV,662,5
+57964,3358,7,"Comedy, Drama, Martial Arts",TV,524,5
+29612,63,7,"Comedy, Ecchi, Harem, Romance, Sci-Fi",TV,585,5
+24631,513,10,"Adventure, Fantasy, Romance, Sci-Fi",Movie,472,0
+15398,157,9,"Comedy, Ecchi, Fantasy, Harem, Magic, Romance, School, Shounen, Super Power, Supernatural",TV,562,5
+54420,185,7,"Action, Cars, Drama, Seinen, Sports",TV,116,5
+5527,5772,7,"Comedy, Ecchi, Harem, Romance",Special,577,4
+65206,10165,8,"Comedy, School, Slice of Life",TV,733,5
+8002,210,6,"Comedy, Fantasy, Martial Arts, Slice of Life",TV,627,5
+61388,5681,8,"Comedy, Sci-Fi",Movie,737,0
+71014,392,9,"Action, Comedy, Demons, Fantasy, Martial Arts, School, Shounen",TV,122,5
+36655,3470,8,"Comedy, Romance, School, Shoujo",TV,702,5
+73416,356,10,"Action, Fantasy, Magic, Romance, Supernatural",TV,280,5
+47832,9989,9,"Drama, Slice of Life, Supernatural",TV,855,5
+3286,14921,8,"Fantasy, Magic",TV,876,5
+62250,317,7,"Action, Fantasy, Super Power",Movie,289,0
+57768,21995,8,"Comedy, Drama, Romance, School, Shoujo, Slice of Life",TV,537,5
+58216,32282,8,"Ecchi, School, Shounen",TV,864,5
+27157,3265,7,"Comedy, Magic, Romance, Shoujo",Special,665,4
+60310,5152,10,"Action, Adventure, Comedy, Fantasy",Special,22,4
+55616,8915,7,"Action, Historical, Mystery, Supernatural",TV,300,5
+52956,2251,8,"Action, Comedy, Historical, Mystery, Seinen, Supernatural",TV,161,5
+6036,861,9,"Comedy, Drama, Mystery, Psychological, Supernatural",TV,529,5
+39820,5958,9,"Comedy, Ecchi, Harem, Romance, Sci-Fi, Shounen, Supernatural",TV,586,5
+37033,2904,7,"Action, Drama, Mecha, Military, Sci-Fi, Super Power",TV,238,5
+33452,15059,8,"Action, Cars, Drama, Seinen, Sports",TV,116,5
+1473,16894,10,"Comedy, School, Shounen, Sports",TV,732,5
+10104,10302,7,"Action, Comedy, Fantasy, Kids",Special,151,4
+14805,29093,7,Drama,Special,764,4
+46731,3470,8,"Comedy, Romance, School, Shoujo",TV,702,5
+6417,4415,9,"Adventure, Fantasy",TV,461,5
+49471,9202,7,"Action, Ecchi, Seinen, Super Power, Supernatural",OVA,271,3
+51506,89,7,"Drama, Mecha, Military, Sci-Fi, Space",TV,808,5
+47456,8068,8,"Demons, Supernatural",Special,763,4
+50265,68,8,"Adventure, Comedy, Sci-Fi, Shounen, Super Power",TV,431,5
+14925,9936,6,"Action, Ecchi, Harem, Martial Arts, School, Super Power",TV,261,5
+73031,8074,6,"Action, Ecchi, Horror, Supernatural",TV,265,5
+50896,578,9,"Drama, Historical",Movie,790,0
+37607,777,10,"Action, Horror, Military, Seinen, Supernatural, Vampire",OVA,306,3
+66112,6862,10,"Comedy, Music, School, Slice of Life",Special,675,4
+42466,18245,9,"Drama, Music, Romance, Slice of Life",TV,817,5
+65745,1074,4,"Adventure, Comedy, Game, Shounen",OVA,418,3
+35036,412,10,"Comedy, Ecchi, Slice of Life",TV,619,5
+20290,13331,9,"Action, Adventure, Seinen",TV,109,5
+42888,3467,10,"Comedy, Romance",TV,697,5
+33055,3673,8,"Action, Adventure, Mystery",TV,106,5
+46141,10495,8,"Comedy, School, Shoujo Ai, Slice of Life",TV,729,5
+32225,2963,6,"Comedy, School, Slice of Life",TV,733,5
+3315,11013,8,"Comedy, Romance, Shounen, Supernatural",TV,719,5
+23146,10418,7,"Action, Horror, Sci-Fi",OVA,311,3
+47421,10119,7,"Comedy, School, Shounen, Slice of Life",OVA,731,3
+25920,9253,10,"Sci-Fi, Thriller",TV,957,5
+38423,23283,10,"Psychological, Thriller",TV,941,5
+4715,9181,6,"Comedy, Ecchi, Harem, School, Sci-Fi, Shounen",TV,590,5
+40321,2201,6,"Action, Adventure, Drama, Fantasy, Kids",Movie,58,0
+57081,9919,7,"Action, Demons, Fantasy, Shounen, Supernatural",TV,207,5
+50100,1117,10,"Adventure, Comedy, Drama, Fantasy, Kids",Movie,389,0
+13707,21327,7,"Comedy, School, Shounen, Slice of Life",TV,731,5
+17869,1689,6,"Drama, Romance, Slice of Life",Movie,843,0
+56757,15979,4,"Comedy, Slice of Life",ONA,751,2
+6978,272,8,"Action, Drama, Mystery",TV,245,5
+7198,641,4,"Comedy, Ecchi, Romance, Shounen",Special,606,4
+44715,8795,9,"Action, Comedy, Ecchi, Parody, Supernatural",TV,143,5
+35379,239,9,"Drama, Mystery, Sci-Fi, Supernatural, Thriller",TV,824,5
+41859,23251,10,"Comedy, Shounen, Supernatural",TV,750,5
+51138,376,10,"Drama, Ecchi, Horror, Psychological, Supernatural",Special,766,4
+67635,2775,7,"Action, Horror, Mecha, Psychological, Sci-Fi",OVA,305,3
+56512,3782,8,"Action, Mystery, Romance, Supernatural, Thriller",Movie,349,0
+51194,1575,9,"Action, Mecha, Military, School, Sci-Fi, Super Power",TV,324,5
+43503,16894,9,"Comedy, School, Shounen, Sports",TV,732,5
+40183,12729,6,"Comedy, Demons, Ecchi, Romance, School",OVA,492,3
+14739,19759,4,"Action, Comedy, Shounen",Special,196,4
+43466,10110,10,"Comedy, Ecchi, Harem, Romance, School",TV,578,5
+34553,225,7,"Action, Adventure, Comedy, Fantasy, Magic, Sci-Fi, Shounen, Super Power",TV,24,5
+51700,866,8,"Adventure, Comedy, Fantasy, Magic, Shounen",Movie,411,0
+20467,1815,8,"Action, Fantasy, Supernatural",Movie,290,0
+37776,157,6,"Comedy, Ecchi, Fantasy, Harem, Magic, Romance, School, Shounen, Super Power, Supernatural",TV,562,5
+53034,150,10,"Action, Drama, Horror, Military, Mystery, Supernatural, Vampire",TV,226,5
+29757,7724,10,"Mystery, Supernatural, Thriller, Vampire",TV,937,5
+71256,21437,10,"Action, Mecha, Sci-Fi",TV,337,5
+22004,1222,9,"Drama, Romance, Shoujo, Slice of Life",TV,841,5
+10065,4224,10,"Comedy, Romance, School, Slice of Life",TV,707,5
+30738,3457,10,"Drama, Mystery, Romance, Shoujo, Supernatural, Vampire",TV,822,5
+45270,25285,10,"Action, Ecchi, Fantasy, School, Supernatural",Special,259,4
+27219,16918,9,"Comedy, School, Shounen, Slice of Life",TV,731,5
+38768,6045,8,"Romance, School, Shoujo, Slice of Life",TV,947,5
+19384,12467,7,"Ecchi, Romance, School, Seinen",TV,863,5
+6111,18523,7,"Action, Comedy, Fantasy, Parody, Shounen",TV,155,5
+15533,14353,8,"Drama, Game, Mystery, Psychological, Thriller",Movie,783,0
+54562,270,7,"Action, Horror, Seinen, Supernatural, Vampire",TV,314,5
+56141,8630,9,"Action, Comedy, Romance, School",TV,183,5
+17363,6164,7,"Romance, Shoujo Ai, Slice of Life",TV,950,5
+59870,25397,7,"Action, Ecchi, Harem, Romance, School, Supernatural",TV,264,5
+73070,17637,8,Slice of Life,ONA,960,2
+7773,197,7,"Comedy, Ecchi, Romance, School, Sci-Fi",TV,600,5
+37144,270,8,"Action, Horror, Seinen, Supernatural, Vampire",TV,314,5
+31515,855,7,"Drama, Romance, School, Shoujo Ai",TV,833,5
+11528,317,7,"Action, Fantasy, Super Power",Movie,289,0
+63290,16498,10,"Action, Drama, Fantasy, Shounen, Super Power",TV,220,5
+11604,16668,8,"Action, Mecha, Space",TV,341,5
+16205,4725,7,"Action, Super Power, Supernatural, Thriller",TV,376,5
+4831,65,8,"Action, Comedy, Drama, Magic, Seinen",TV,127,5
+54553,1190,8,"Adventure, Comedy, Shounen, Sports",OVA,433,3
+8554,24415,9,"Comedy, School, Shounen, Sports",TV,732,5
+33570,1498,7,"Action, Comedy, Fantasy, Shounen, Supernatural, Vampire",TV,158,5
+11400,23605,10,Action,ONA,0,2
+46109,1195,7,"Action, Adventure, Comedy, Ecchi, Fantasy, Harem, Magic, Romance, School",TV,18,5
+39309,21105,9,"Comedy, Romance, Shounen Ai",TV,717,5
+72035,15037,9,"Horror, Mystery",OVA,900,3
+18270,19815,8,"Adventure, Comedy, Ecchi, Fantasy, Game, Supernatural",TV,399,5
+56778,11111,9,"Horror, Mystery, School, Supernatural, Thriller",TV,905,5
+26485,5204,6,"Action, Magic, Mystery, Romance, Supernatural, Thriller",Movie,317,0
+61236,6347,9,"Comedy, Romance, School, Super Power",TV,709,5
+25818,442,8,"Adventure, Comedy, Drama, Historical, Shounen, Supernatural",Movie,396,0
+57213,28891,10,"Comedy, Drama, School, Shounen, Sports",TV,550,5
+53695,199,7,"Adventure, Drama, Supernatural",Movie,458,0
+59571,15379,8,"Comedy, Drama, Romance, School",TV,534,5
+38400,4224,9,"Comedy, Romance, School, Slice of Life",TV,707,5
+12061,32935,8,"Comedy, Drama, School, Shounen, Sports",TV,550,5
+22011,6707,7,"Action, Comedy, Demons, Fantasy, Shounen, Supernatural",TV,123,5
+62445,1575,8,"Action, Mecha, Military, School, Sci-Fi, Super Power",TV,324,5
+54858,9253,8,"Sci-Fi, Thriller",TV,957,5
+48639,153,9,"Action, Adventure, Fantasy, Magic, Supernatural",TV,85,5
+63398,22147,7,"Comedy, Magic",TV,662,5
+54115,5680,8,"Comedy, Music, School, Slice of Life",TV,675,5
+53700,28025,5,"Comedy, Mystery, Supernatural",TV,686,5
+16410,10713,9,"Action, Mystery, Super Power, Supernatural",Movie,354,0
+10811,1532,10,"Comedy, Drama, Romance, Shoujo, Shounen Ai, Slice of Life",TV,542,5
+30574,11665,7,"Drama, Fantasy, Shoujo, Slice of Life, Supernatural",TV,781,5
+61708,4382,10,"Comedy, Mystery, Parody, Romance, School, Sci-Fi, Slice of Life",TV,679,5
+20889,31223,7,"Action, Game, School, Sci-Fi",TV,294,5
+60240,14397,8,"Drama, Game, Josei, Slice of Life, Sports",TV,782,5
+31508,5680,9,"Comedy, Music, School, Slice of Life",TV,675,5
+53458,1465,7,"Action, Mecha, School, Sci-Fi, Seinen",TV,336,5
+25055,3121,7,"Comedy, Ecchi, School",OVA,610,3
+61346,13125,7,"Drama, Horror, Mystery, Sci-Fi, Supernatural",TV,803,5
+19367,16498,8,"Action, Drama, Fantasy, Shounen, Super Power",TV,220,5
+58839,11235,10,"Comedy, Romance, School, Slice of Life",TV,707,5
+44376,7647,10,"Comedy, Romance, Seinen",TV,713,5
+59665,10793,9,"Action, Drama, Sci-Fi, Super Power",TV,253,5
+12125,355,7,"Action, Drama, Fantasy, Romance, School, Supernatural",TV,216,5
+44835,8937,9,"Action, Magic, Sci-Fi, Super Power",TV,319,5
+15629,27,8,"Action, Supernatural, Vampire",TV,378,5
+4605,20047,7,"Comedy, Romance, School, Seinen, Shoujo Ai, Slice of Life",TV,700,5
+3124,8516,7,"Comedy, Romance, School, Super Power",TV,709,5
+17604,23701,7,"Comedy, Romance, School, Slice of Life",OVA,707,3
+42635,1503,5,"Adventure, Comedy, Fantasy, Magic, Parody, Seinen",Special,408,4
+71870,3782,8,"Action, Mystery, Romance, Supernatural, Thriller",Movie,349,0
+37251,1575,10,"Action, Mecha, Military, School, Sci-Fi, Super Power",TV,324,5
+2249,14967,9,"Comedy, Harem, Romance, School, Seinen, Slice of Life",TV,644,5
+34972,1092,7,"Action, Adventure, Drama, Mecha, Military, Sci-Fi, Space",Movie,65,0
+52698,395,6,"Action, Drama, Horror, Psychological, Sci-Fi, Supernatural",TV,230,5
+17160,202,8,"Action, Adventure, Drama, Fantasy, Mystery, Sci-Fi",TV,61,5
+52023,2107,8,"Action, Adventure, Fantasy, Shounen",Movie,92,0
+16779,28907,10,"Action, Adventure, Fantasy, Military",TV,88,5
+55346,1303,8,"Action, Drama, Sci-Fi",OVA,251,3
+39535,987,5,"Action, Adventure, Comedy, Fantasy, Martial Arts, Shounen, Super Power",Special,27,4
+19001,6213,8,"Action, Sci-Fi, Super Power",TV,369,5
+33103,10897,8,"Comedy, Romance, School, Seinen, Slice of Life",OVA,701,3
+49359,356,8,"Action, Fantasy, Magic, Romance, Supernatural",TV,280,5
+48142,3166,8,"Action, Fantasy, Horror, Sci-Fi",TV,276,5
+52377,23847,7,"Comedy, Drama, Romance, School",TV,534,5
+21922,3328,6,"Comedy, Ecchi, Magic",OVA,594,3
+40819,8038,8,"Comedy, Josei, Music, Romance",Special,658,4
+6166,8857,8,"Comedy, School, Slice of Life",OVA,733,3
+4254,2418,7,"Action, Adventure, Historical, Samurai",Movie,96,0
+57479,14811,8,"Comedy, School, Slice of Life",TV,733,5
+62297,19163,10,"Comedy, Harem, Mecha, Romance, School, Sci-Fi",TV,637,5
+65559,2385,7,"Comedy, Fantasy, Shounen",Movie,632,0
+57648,789,7,"Drama, Fantasy, Psychological, Supernatural",TV,774,5
+29710,449,5,"Adventure, Comedy, Demons, Drama, Historical, Romance, Shounen, Supernatural",Movie,382,0
+45927,199,7,"Adventure, Drama, Supernatural",Movie,458,0
+58236,5040,8,"Psychological, Seinen, Sports",TV,940,5
+55310,13145,10,"Action, Adventure, Demons, Game, Shounen",TV,54,5
+57479,609,7,"Drama, Romance, Sci-Fi",OVA,838,3
+14307,14833,8,"Adventure, Demons, Fantasy, Historical, Romance",TV,438,5
+40474,7724,7,"Mystery, Supernatural, Thriller, Vampire",TV,937,5
+70252,1366,8,"Adventure, Comedy, Mystery, Police, Shounen",Movie,427,0
+38016,60,6,"Action, Demons, Historical, Romance, Supernatural",TV,208,5
+53352,2236,9,"Adventure, Drama, Romance, Sci-Fi",Movie,454,0
+53501,2593,9,"Action, Mystery, Supernatural, Thriller",Movie,357,0
+45134,246,7,"Adventure, Comedy, Fantasy, Romance, Shounen",TV,414,5
+40675,2926,8,"Drama, Romance, School",TV,830,5
+26610,2923,7,"Comedy, Magic, School, Shoujo",TV,666,5
+7670,7817,7,"Comedy, Ecchi, Romance, School, Seinen",TV,601,5
+31955,2393,10,"Adventure, Comedy, Fantasy, Kids",Movie,405,0
+64964,13601,9,"Action, Police, Psychological, Sci-Fi",TV,358,5
+63686,10711,7,"Comedy, School",ONA,724,2
+54651,9253,4,"Sci-Fi, Thriller",TV,957,5
+15582,11783,7,"Action, Adventure, Fantasy, Magic",TV,80,5
+42841,28391,10,"Drama, School, Sci-Fi, Sports",TV,848,5
+34328,2924,7,"Drama, Mystery, Romance",TV,821,5
+56131,24455,8,"Adventure, Ecchi, Fantasy, Harem, Romance",TV,459,5
+12269,22319,10,"Action, Drama, Horror, Mystery, Psychological, Seinen, Supernatural",TV,227,5
+59450,521,5,"Adventure, Comedy, Magic, Romance, Shoujo",TV,422,5
+20244,18679,9,"Action, Comedy, School, Super Power",TV,191,5
+64526,6880,10,"Action, Horror, Sci-Fi",TV,311,5
+19593,198,7,"Action, Mystery, Super Power",TV,353,5
+25171,4214,10,"Comedy, Ecchi, Fantasy, Harem, Romance, School, Vampire",TV,567,5
+16338,15,8,"Action, Comedy, Shounen, Sports",TV,197,5
+61877,11123,7,"Comedy, Drama, Romance, Shounen Ai",TV,544,5
+8058,901,5,"Adventure, Comedy, Fantasy, Sci-Fi, Shounen",Movie,415,0
+21976,651,1,"Comedy, Hentai, Romance",OVA,653,3
+31091,6682,3,"Action, Ecchi, Super Power, Supernatural",TV,272,5
+65739,355,8,"Action, Drama, Fantasy, Romance, School, Supernatural",TV,216,5
+65346,23283,9,"Psychological, Thriller",TV,941,5
+17765,18115,9,"Action, Adventure, Fantasy, Magic, Shounen",TV,84,5
+49127,2251,7,"Action, Comedy, Historical, Mystery, Seinen, Supernatural",TV,161,5
+7136,3091,7,"Comedy, Drama, Mystery, Psychological, Supernatural",TV,529,5
+14061,4151,7,"Action, Adventure, Historical, Samurai, Supernatural",TV,98,5
+54082,1699,10,"Drama, Fantasy, Historical, Romance",TV,769,5
+19211,7054,9,"Comedy, Romance, School, Shoujo",TV,702,5
+11315,138,8,"Action, Adventure, Shounen, Super Power",OVA,111,3
+58076,4705,7,Music,Music,922,1
+46864,10793,8,"Action, Drama, Sci-Fi, Super Power",TV,253,5
+47636,6675,9,"Action, Cars, Sci-Fi, Sports",Movie,117,0
+23291,9919,9,"Action, Demons, Fantasy, Shounen, Supernatural",TV,207,5
+30565,11313,7,"Drama, Romance, School, Shounen",OVA,835,3
+11412,1536,6,"Action, Comedy, Fantasy, School, Shounen, Supernatural",TV,157,5
+17088,58,6,"Adventure, Drama, Horror, Mecha, Military, Romance, Sci-Fi, Space",TV,447,5
+24401,1335,6,"Comedy, Mecha, Sci-Fi",Special,672,4
+66327,2562,8,"Drama, Game, Mystery, Thriller",TV,784,5
+16620,13331,9,"Action, Adventure, Seinen",TV,109,5
+61547,1686,8,"Action, Adventure, Super Power",Movie,115,0
+52745,12069,8,"Comedy, Drama, Shounen, Sports",Special,555,4
+34901,24365,8,"Comedy, School, Seinen",Special,725,4
+16133,17074,9,"Comedy, Mystery, Romance, Supernatural, Vampire",TV,684,5
+63488,4789,9,"Drama, Mystery, Romance, Supernatural",TV,823,5
+33650,2167,8,"Comedy, Drama, Romance, School, Slice of Life, Supernatural",TV,540,5
+48105,15881,5,"Comedy, Ecchi",Special,558,4
+3154,22319,9,"Action, Drama, Horror, Mystery, Psychological, Seinen, Supernatural",TV,227,5
+57410,20047,9,"Comedy, Romance, School, Seinen, Shoujo Ai, Slice of Life",TV,700,5
+16080,11933,7,"Comedy, Historical, Romance",TV,655,5
+17578,14893,8,"Comedy, Ecchi, Romance",OVA,598,3
+52032,523,5,"Adventure, Comedy, Supernatural",Movie,435,0
+50669,4224,10,"Comedy, Romance, School, Slice of Life",TV,707,5
+2562,31737,7,"Comedy, Ecchi, Fantasy, Harem, Romance, School, Sci-Fi, Supernatural",TV,565,5
+7993,2367,6,"Comedy, Ecchi, Magic, School",TV,595,5
+64698,22199,4,"Action, Adventure, Fantasy",TV,73,5
+39405,71,9,"Action, Comedy, Mecha, Military, Sci-Fi",TV,173,5
+35342,4725,7,"Action, Super Power, Supernatural, Thriller",TV,376,5
+54873,1690,6,"Drama, Mecha, Psychological, Sci-Fi",TV,809,5
+22382,243,6,"Comedy, Music, Romance, Shoujo, Shounen Ai",TV,674,5
+6848,325,10,"Drama, Romance, Shoujo, Slice of Life",TV,841,5
+44053,22199,8,"Action, Adventure, Fantasy",TV,73,5
+47716,17082,7,"Comedy, School, Shounen, Slice of Life",TV,731,5
+22314,46,7,"Drama, Historical, Samurai, Shounen",Movie,797,0
+66061,741,4,"Comedy, Drama, Hentai, Romance, Yaoi",OVA,520,3
+68742,1889,9,"Mystery, Psychological, Supernatural, Thriller",TV,931,5
+57213,1365,6,"Adventure, Mystery, Police, Shounen",Movie,481,0
+54766,8440,7,Comedy,Special,489,4
+33172,7082,7,"Comedy, Magic, School, Shoujo",TV,666,5
+23997,52,7,"Comedy, Drama, Sci-Fi, Shounen, Sports",TV,553,5
+28719,264,9,"Comedy, Shounen, Sports",Special,749,4
+10560,2759,8,"Action, Mecha, Sci-Fi",Movie,337,0
+10512,834,8,"Adventure, Comedy, Drama, Fantasy, Shounen, Supernatural",Special,395,4
+3187,22319,8,"Action, Drama, Horror, Mystery, Psychological, Seinen, Supernatural",TV,227,5
+2119,2251,9,"Action, Comedy, Historical, Mystery, Seinen, Supernatural",TV,161,5
+50375,28907,8,"Action, Adventure, Fantasy, Military",TV,88,5
+41114,9201,7,"Action, Comedy, Ecchi, Shounen, Sports",OVA,147,3
+79,11111,9,"Horror, Mystery, School, Supernatural, Thriller",TV,905,5
+28234,164,9,"Action, Adventure, Fantasy",Movie,73,0
+957,11887,7,"Comedy, Drama, Romance, School, Slice of Life, Supernatural",TV,540,5
+3976,1519,7,"Action, Seinen",TV,370,5
+44940,240,8,"Comedy, Parody, Slice of Life",TV,696,5
+42405,11887,8,"Comedy, Drama, Romance, School, Slice of Life, Supernatural",TV,540,5
+41845,4975,7,"Harem, Mystery, Psychological, Sci-Fi, Supernatural",TV,890,5
+37597,269,6,"Action, Comedy, Shounen, Super Power, Supernatural",TV,198,5
+21131,934,8,"Horror, Mystery, Psychological, Supernatural, Thriller",TV,903,5
+5616,4059,8,"Drama, Romance, School, Slice of Life",Special,836,4
+16138,72,9,"Action, Comedy, School",TV,186,5
+48845,17777,5,"Comedy, Ecchi, Romance, Shounen, Supernatural",TV,607,5
+28761,2301,6,"Action, Mecha, Sci-Fi, Shounen",OVA,339,3
+56582,7337,8,"Comedy, Historical, Parody",Movie,654,0
+5554,3230,9,"Adventure, Comedy, Fantasy",TV,402,5
+18376,27899,9,"Action, Drama, Horror, Mystery, Psychological, Seinen, Supernatural",TV,227,5
+22386,1535,8,"Mystery, Police, Psychological, Supernatural, Thriller",TV,927,5
+41108,1117,8,"Adventure, Comedy, Drama, Fantasy, Kids",Movie,389,0
+68110,1110,10,"Adventure, Comedy, Magic, Romance, Shoujo",TV,422,5
+57529,477,6,"Fantasy, Sci-Fi, Shounen, Slice of Life",TV,879,5
+18156,2001,10,"Action, Adventure, Comedy, Mecha, Sci-Fi",TV,41,5
+10750,949,10,"Action, Comedy, Drama, Mecha, Military, Sci-Fi, Shounen, Space",OVA,129,3
+27665,249,8,"Action, Adventure, Comedy, Demons, Fantasy, Magic, Romance, Shounen, Supernatural",TV,3,5
+28622,3572,9,"Action, Mecha, Military, Music, Romance, Sci-Fi, Space",TV,321,5
+13026,431,10,"Adventure, Drama, Fantasy, Romance",Movie,442,0
+6024,4382,6,"Comedy, Mystery, Parody, Romance, School, Sci-Fi, Slice of Life",TV,679,5
+18051,30925,6,"Adventure, Sci-Fi",ONA,485,2
+52045,10934,7,"Comedy, Ecchi, Romance, Shounen, Supernatural, Vampire",OVA,608,3
+6127,1015,9,Comedy,Special,489,4
+10231,2034,7,"Comedy, Romance, Shoujo",TV,715,5
+33631,10719,8,"Comedy, Ecchi, Harem, Romance, School, Seinen, Slice of Life",TV,582,5
+38536,8465,5,"Comedy, Ecchi, Fantasy, Magic, Shounen",Special,571,4
+56590,10582,7,"Comedy, Demons, Ecchi, Fantasy, Romance, Seinen",OVA,490,3
+55369,11061,10,"Action, Adventure, Shounen, Super Power",TV,111,5
+56446,10536,6,"Comedy, Romance, Shoujo",Special,715,4
+3154,264,10,"Comedy, Shounen, Sports",Special,749,4
+60586,12231,7,"Action, Adventure, Comedy, Fantasy, Martial Arts, Sci-Fi, Shounen, Super Power",Special,26,4
+35488,10897,7,"Comedy, Romance, School, Seinen, Slice of Life",OVA,701,3
+40280,6336,10,"Action, Drama, Mecha, Military, Sci-Fi, Space",OVA,237,3
+25628,527,7,"Action, Adventure, Comedy, Fantasy, Kids",TV,23,5
+71438,1210,6,"Comedy, Drama, Psychological, Romance",TV,531,5
+46010,5081,10,"Mystery, Romance, Supernatural, Vampire",TV,933,5
+60917,4719,5,"Action, Adventure, Ecchi, Fantasy",TV,71,5
+12082,469,8,"Comedy, Romance, School, Shounen, Vampire",TV,706,5
+57033,1689,8,"Drama, Romance, Slice of Life",Movie,843,0
+34364,68,6,"Adventure, Comedy, Sci-Fi, Shounen, Super Power",TV,431,5
+28200,5530,8,"Adventure, Fantasy, Mystery, Shounen, Supernatural",TV,470,5
+54825,610,7,"Comedy, Drama, Ecchi, Supernatural",TV,505,5
+288,150,7,"Action, Drama, Horror, Military, Mystery, Supernatural, Vampire",TV,226,5
+29272,1750,5,"Comedy, Ecchi, Romance, Supernatural",Special,609,4
+49186,5074,8,"Action, Comedy, Sci-Fi",TV,193,5
+61963,22043,8,"Action, Adventure, Comedy, Fantasy, Magic, Shounen",TV,25,5
+36602,10719,7,"Comedy, Ecchi, Harem, Romance, School, Seinen, Slice of Life",TV,582,5
+40429,834,8,"Adventure, Comedy, Drama, Fantasy, Shounen, Supernatural",Special,395,4
+24832,1535,5,"Mystery, Police, Psychological, Supernatural, Thriller",TV,927,5
+25497,20931,7,"Comedy, Slice of Life",TV,751,5
+71724,14027,9,"Comedy, Romance, School, Seinen",OVA,699,3
+68915,6746,7,"Action, Mystery, Supernatural",TV,356,5
+13719,223,7,"Adventure, Comedy, Fantasy, Martial Arts, Shounen, Super Power",TV,412,5
+3592,18679,8,"Action, Comedy, School, Super Power",TV,191,5
+12105,23847,8,"Comedy, Drama, Romance, School",TV,534,5
+56688,1195,8,"Action, Adventure, Comedy, Ecchi, Fantasy, Harem, Magic, Romance, School",TV,18,5
+52217,3667,7,"Action, Ecchi, Magic, Military, Sci-Fi",TV,266,5
+19756,1579,6,"Comedy, Drama, Harem, Magic, Music, Romance, School, Shoujo",TV,516,5
+17872,4214,2,"Comedy, Ecchi, Fantasy, Harem, Romance, School, Vampire",TV,567,5
+65589,26349,8,"Comedy, Seinen, Slice of Life",TV,744,5
+44106,419,5,"Adventure, Comedy, Historical, Shounen, Supernatural",TV,420,5
+42381,24833,9,"Action, Comedy, School, Shounen",TV,187,5
+7639,12753,7,"Action, Game, Mystery, Shounen",TV,292,5
+862,17895,8,"Comedy, Romance, Seinen",TV,713,5
+68564,9608,8,Comedy,OVA,489,3
+30487,10805,6,"Comedy, Music, Shounen, Supernatural",OVA,676,3
+65842,14741,7,"Comedy, Drama, Romance, School, Slice of Life",TV,539,5
+13852,11741,10,"Action, Fantasy, Supernatural, Thriller",TV,291,5
+20250,8634,9,"Comedy, Romance, Yaoi",OVA,723,3
+12557,9581,9,"Comedy, Ecchi, School",Special,610,4
+11557,8560,10,"Romance, School, Shoujo",OVA,945,3
+17337,6896,9,Comedy,Special,489,4
+52300,6787,7,"Action, Drama, Fantasy, Shoujo, Supernatural",OVA,219,3
+15444,34240,8,"Music, Sci-Fi",Music,924,1
+23008,261,6,"Comedy, Harem, Romance, Slice of Life",TV,652,5
+43758,7338,9,"Action, Mystery, Sci-Fi, Super Power",Special,351,4
+25132,14511,8,"Comedy, School, Slice of Life",TV,733,5
+27585,21843,8,"Action, Adventure, Demons, Fantasy, Magic, Supernatural",TV,52,5
+40984,2476,10,"Drama, Harem, Romance, School",TV,788,5
+45768,6746,10,"Action, Mystery, Supernatural",TV,356,5
+61576,28927,8,"Action, Drama, Shounen, Supernatural, Vampire",TV,256,5
+58736,443,6,"Comedy, Ecchi, Romance, Sci-Fi",OVA,604,3
+28116,133,6,"Comedy, Ecchi, Romance, School, Slice of Life",TV,603,5
+31698,26351,4,"Comedy, Romance, School, Seinen, Slice of Life",TV,701,5
+6124,513,8,"Adventure, Fantasy, Romance, Sci-Fi",Movie,472,0
+49811,10162,9,"Josei, Slice of Life",TV,911,5
+49899,16894,10,"Comedy, School, Shounen, Sports",TV,732,5
+65680,11703,8,"Action, Comedy, School, Shounen, Super Power, Supernatural",TV,190,5
+7602,5342,6,"Action, Mecha, Supernatural",TV,342,5
+39419,31405,6,"Drama, Historical, Military",TV,791,5
+21700,9202,9,"Action, Ecchi, Seinen, Super Power, Supernatural",OVA,271,3
+27050,28223,7,"Drama, Game, Mystery, Psychological, Thriller",TV,783,5
+63972,45,9,"Action, Adventure, Comedy, Historical, Romance, Samurai",TV,38,5
+32385,31637,9,"Action, Adventure, Fantasy, Military",TV,88,5
+21669,9309,9,Hentai,OVA,893,3
+44647,9736,9,"Comedy, Demons, Ecchi, Fantasy, Romance, Seinen",TV,490,5
+68168,3503,6,"Comedy, Ecchi, Harem, Romance, School, Shounen, Slice of Life, Supernatural",TV,584,5
+65405,28223,10,"Drama, Game, Mystery, Psychological, Thriller",TV,783,5
+35272,10155,7,"Action, Adventure, Fantasy, Magic",TV,80,5
+47832,23673,7,"Comedy, Romance, School, Shoujo",TV,702,5
+10016,20507,9,"Action, Adventure, Shounen, Supernatural",TV,112,5
+66316,2602,7,"Comedy, Ecchi, School, Shounen, Sports",TV,613,5
+16287,14227,6,"Comedy, Romance, School, Shoujo, Slice of Life",TV,703,5
+32421,3342,9,"Action, Horror, Sci-Fi, Shoujo Ai, Supernatural",TV,312,5
+29200,269,9,"Action, Comedy, Shounen, Super Power, Supernatural",TV,198,5
+36407,11111,8,"Horror, Mystery, School, Supernatural, Thriller",TV,905,5
+36663,9919,9,"Action, Demons, Fantasy, Shounen, Supernatural",TV,207,5
+22989,11013,8,"Comedy, Romance, Shounen, Supernatural",TV,719,5
+24755,264,8,"Comedy, Shounen, Sports",Special,749,4
+40977,7311,9,"Comedy, Mystery, Romance, School, Sci-Fi, Supernatural",Movie,683,0
+4063,31043,10,"Mystery, Psychological, Seinen, Supernatural",TV,930,5
+58951,6702,8,"Action, Adventure, Comedy, Fantasy, Magic, Shounen",TV,25,5
+65607,4835,9,"Action, Comedy, Shounen, Super Power, Supernatural",Movie,198,0
+34920,649,6,"Comedy, Ecchi, Harem, Romance",TV,577,5
+37886,11577,7,"Sci-Fi, Thriller",Movie,957,0
+63054,29101,6,Ecchi,Special,856,4
+28416,27833,8,"Action, Mystery, Supernatural",TV,356,5
+18487,6045,8,"Romance, School, Shoujo, Slice of Life",TV,947,5
+43505,31630,5,"Comedy, Drama, Mystery, Police",TV,527,5
+69736,6114,9,"Drama, Historical, Seinen, Thriller",TV,798,5
+17095,15605,5,"Harem, Romance, Shoujo",TV,892,5
+70830,482,7,"Action, Comedy, Fantasy, Game, Shounen",TV,150,5
+19384,28907,8,"Action, Adventure, Fantasy, Military",TV,88,5
+73203,6547,7,"Action, Comedy, Drama, School, Supernatural",TV,132,5
+50757,133,8,"Comedy, Ecchi, Romance, School, Slice of Life",TV,603,5
+12531,4214,7,"Comedy, Ecchi, Fantasy, Harem, Romance, School, Vampire",TV,567,5
+148,22319,7,"Action, Drama, Horror, Mystery, Psychological, Seinen, Supernatural",TV,227,5
+4533,6045,7,"Romance, School, Shoujo, Slice of Life",TV,947,5
+35560,31764,8,"Action, Adventure, Fantasy, Military",TV,88,5
+5053,789,6,"Drama, Fantasy, Psychological, Supernatural",TV,774,5
+25423,10092,9,"Action, Mecha, Military, Shounen",Movie,328,0
+57453,7785,1,"Mystery, Psychological, Romance",TV,928,5
+65255,21635,6,"Comedy, School, Slice of Life",Special,733,4
+4541,16498,10,"Action, Drama, Fantasy, Shounen, Super Power",TV,220,5
+49314,25283,7,"Action, Drama, Fantasy, Magic, School",TV,214,5
+31823,21939,8,"Adventure, Fantasy, Historical, Mystery, Seinen, Slice of Life, Supernatural",TV,464,5
+24456,6713,7,"Comedy, Music",OVA,673,3
+27551,902,6,"Adventure, Comedy, Fantasy, Sci-Fi, Shounen",Movie,415,0
+23919,9736,6,"Comedy, Demons, Ecchi, Fantasy, Romance, Seinen",TV,490,5
+51142,546,10,"Drama, Romance, School, Supernatural",TV,837,5
+62012,905,6,"Adventure, Comedy, Fantasy, Sci-Fi, Shounen",Movie,415,0
+28187,2993,8,"Comedy, Ecchi, Fantasy, Harem, Romance, School, Shounen, Vampire",TV,566,5
+70337,4382,8,"Comedy, Mystery, Parody, Romance, School, Sci-Fi, Slice of Life",TV,679,5
+28186,10805,7,"Comedy, Music, Shounen, Supernatural",OVA,676,3
+10931,4703,6,"Fantasy, Kids, Magic, Romance, Shoujo, Super Power",Movie,874,0
+56300,918,9,"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen",TV,162,5
+47282,8074,7,"Action, Ecchi, Horror, Supernatural",TV,265,5
+38382,30654,7,"Action, Comedy, School, Shounen",TV,187,5
+70586,7769,7,"Comedy, Parody, Romance",TV,688,5
+73324,8986,10,"Action, Demons, Horror, Supernatural",OVA,209,3
+8520,32182,9,"Action, Comedy, Slice of Life, Supernatural",TV,200,5
+28729,3089,8,"Drama, Military",Movie,810,0
+33147,25397,9,"Action, Ecchi, Harem, Romance, School, Supernatural",TV,264,5
+7870,6164,8,"Romance, Shoujo Ai, Slice of Life",TV,950,5
+567,5203,8,"Fantasy, Slice of Life",TV,883,5
+31626,22071,6,"Comedy, Romance, Slice of Life",Special,720,4
+10806,2579,7,"Adventure, Historical, Kids, Romance",TV,477,5
+60326,33161,7,"Comedy, Romance, School",OVA,698,3
+7143,125,8,"Comedy, Romance, School",TV,698,5
+54517,13055,7,"Comedy, Ecchi, Horror, Romance, Shounen, Supernatural",OVA,593,3
+72724,537,5,"Action, Adventure, Martial Arts, Sci-Fi",OVA,101,3
+21943,2001,9,"Action, Adventure, Comedy, Mecha, Sci-Fi",TV,41,5
+2379,4053,7,"Comedy, School, Shounen, Sports",OVA,732,3
+57823,30240,8,"Comedy, Ecchi, Romance, School, Seinen",TV,601,5
+26819,318,6,"Comedy, Ecchi, Harem, Romance, Sci-Fi",TV,585,5
+3676,2150,8,"Adventure, Comedy, Fantasy, Kids, Slice of Life",TV,406,5
+35175,21863,6,"Comedy, Ecchi, Harem, Seinen, Slice of Life",TV,592,5
+45978,11665,9,"Drama, Fantasy, Shoujo, Slice of Life, Supernatural",TV,781,5
+55400,6,5,"Action, Comedy, Sci-Fi",TV,193,5
+61761,9253,8,"Sci-Fi, Thriller",TV,957,5
+31010,14075,9,"Action, Drama, Fantasy, Magic, Mystery, Psychological, Shounen",TV,213,5
+28593,253,8,"Comedy, School, Slice of Life",TV,733,5
+62873,23281,9,"Action, Police, Psychological, Sci-Fi",TV,358,5
+3214,16009,9,"Fantasy, Mystery",TV,878,5
+59818,12685,8,"Comedy, Fantasy, Parody",OVA,628,3
+43324,19369,8,"Comedy, Fantasy, Harem, Parody",TV,624,5
+53076,1519,7,"Action, Seinen",TV,370,5
+24823,896,5,"Adventure, Comedy, Fantasy, Sci-Fi, Shounen",Movie,415,0
+29623,801,8,"Action, Mecha, Military, Mystery, Police, Sci-Fi, Seinen",TV,322,5
+6299,2966,9,"Adventure, Fantasy, Historical, Romance",TV,465,5
+59248,2167,8,"Comedy, Drama, Romance, School, Slice of Life, Supernatural",TV,540,5
+44778,20159,9,"Action, Adventure, Comedy, Fantasy, Kids",Special,23,4
+60656,3784,7,"Action, Mecha, Sci-Fi",Movie,337,0
+6255,3092,9,"Comedy, Drama, Romance, Shounen Ai",TV,544,5
+13112,5680,7,"Comedy, Music, School, Slice of Life",TV,675,5
+73460,28,7,"Comedy, Shounen",TV,747,5
+67516,634,8,"Drama, Psychological, Romance, Seinen",TV,826,5
+64382,3652,5,"Comedy, Mystery, Psychological, Supernatural, Thriller",OVA,682,3
+69230,28495,8,"Action, Mecha, Sci-Fi, Seinen, Space",Movie,338,0
+35292,8479,6,"Comedy, Historical, Parody",ONA,654,2
+61965,27787,8,"Comedy, Harem, Romance, School, Shounen",TV,647,5
+7752,4970,3,"Action, Adventure, Samurai",Movie,107,0
+66773,2904,8,"Action, Drama, Mecha, Military, Sci-Fi, Super Power",TV,238,5
+64222,392,8,"Action, Comedy, Demons, Fantasy, Martial Arts, School, Shounen",TV,122,5
+49208,1342,5,"Action, Drama, Horror",OVA,225,3
+58843,356,8,"Action, Fantasy, Magic, Romance, Supernatural",TV,280,5
+64318,19769,7,"Action, Fantasy, Magic",TV,277,5
+13103,20787,9,"Action, Mystery, Sci-Fi, Seinen",TV,350,5
+71239,1519,9,"Action, Seinen",TV,370,5
+12874,603,9,"Action, Comedy, Fantasy, Magic, Shoujo",TV,154,5
+33606,18679,8,"Action, Comedy, School, Super Power",TV,191,5
+7938,450,7,"Adventure, Demons, Drama, Fantasy, Historical, Romance, Shounen, Supernatural",Movie,436,0
+22187,6361,7,"Drama, Music",Special,814,4
+48058,10396,6,"Action, Comedy, Martial Arts",TV,166,5
+9047,22199,7,"Action, Adventure, Fantasy",TV,73,5
+10826,74,6,"Comedy, Magic, School, Shoujo",TV,666,5
+47849,401,8,"Drama, Historical, Romance, Samurai, Shounen",OVA,795,3
+50765,5,10,"Action, Drama, Mystery, Sci-Fi, Space",Movie,247,0
+39117,10793,8,"Action, Drama, Sci-Fi, Super Power",TV,253,5
+64714,9969,10,"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen",TV,162,5
+67372,8246,10,"Action, Comedy, Martial Arts, Shounen, Super Power",Movie,170,0
+41437,19285,9,"Action, Drama, Fantasy, Shounen, Super Power",Special,220,4
+41629,2966,8,"Adventure, Fantasy, Historical, Romance",TV,465,5
+59648,4214,6,"Comedy, Ecchi, Fantasy, Harem, Romance, School, Vampire",TV,567,5
+34259,24833,8,"Action, Comedy, School, Shounen",TV,187,5
+45562,15225,6,"Comedy, Harem, Romance, School, Seinen, Supernatural",TV,645,5
+33161,9062,7,"Action, Comedy, School, Supernatural",Special,192,4
+34575,12365,10,"Comedy, Drama, Romance, Shounen",TV,543,5
+21923,12031,9,"Action, Historical, Military, Seinen",TV,299,5
+21511,24765,5,"Horror, Mystery, Psychological, School, Slice of Life",TV,901,5
+3092,11843,10,"Comedy, School, Shounen, Slice of Life",TV,731,5
+28238,18671,8,"Comedy, Drama, Romance, School, Slice of Life",TV,539,5
+47777,1689,8,"Drama, Romance, Slice of Life",Movie,843,0
+32395,9332,7,"Action, Adventure, Fantasy, Game, Sci-Fi",OVA,76,3
+61943,8525,9,"Comedy, Harem, Romance, Shounen, Supernatural",TV,651,5
+60675,1046,8,"Adventure, Comedy, Fantasy",TV,402,5
+52101,8857,7,"Comedy, School, Slice of Life",OVA,733,3
+64004,22877,10,"Action, Comedy, Ecchi, Fantasy, Harem, Romance, School, Supernatural",TV,137,5
+12874,25303,8,"Shounen, Sports",OVA,958,3
+66873,31245,8,"Romance, School",Movie,943,0
+44627,1021,9,"Drama, Music, Romance, Shoujo",TV,816,5
+30352,937,4,"Action, Adventure, Mecha, Police, Sci-Fi",OVA,103,3
+30468,16592,7,"Action, Horror, Mystery, Psychological",TV,307,5
+32663,22071,5,"Comedy, Romance, Slice of Life",Special,720,4
+13298,189,9,"Comedy, Ecchi, Harem, Romance, Shounen, Slice of Life",TV,588,5
+9106,7817,9,"Comedy, Ecchi, Romance, School, Seinen",TV,601,5
+20584,30544,10,"Action, Comedy, Ecchi, Fantasy, Harem, Romance, School, Sci-Fi, Supernatural",TV,136,5
+5693,594,9,"Action, Adventure, Comedy, Shounen, Super Power",Special,46,4
+19962,889,9,"Action, Seinen",TV,370,5
+56463,31704,10,"Action, Comedy, Parody, Sci-Fi, Seinen, Super Power, Supernatural",OVA,181,3
+49864,393,9,"Adventure, Drama, Fantasy, Mecha, Romance, Sci-Fi, Shoujo",Movie,441,0
+59484,4415,7,"Adventure, Fantasy",TV,461,5
+28594,1639,1,"Hentai, Yaoi",OVA,896,3
+54511,59,10,"Comedy, Drama, Ecchi, Romance, Sci-Fi, Seinen",TV,503,5
+67030,16099,4,Comedy,Special,489,4
+17815,27881,10,Hentai,OVA,893,3
+565,4872,1,"Comedy, Parody, School",OVA,690,3
+10765,3503,10,"Comedy, Ecchi, Harem, Romance, School, Shounen, Slice of Life, Supernatural",TV,584,5
+46109,23277,7,"Comedy, Ecchi, Harem, Romance, School",TV,578,5
+24783,853,10,"Comedy, Harem, Romance, School, Shoujo",TV,646,5
+23063,4181,9,"Drama, Fantasy, Romance, Slice of Life, Supernatural",TV,779,5
+34184,4898,7,"Action, Comedy, Demons, Fantasy, Historical, Shounen, Supernatural",TV,121,5
+31035,26055,9,"Action, Adventure, Drama, Shounen, Supernatural",TV,70,5
+37956,8424,8,"Comedy, Ecchi, Harem, School",TV,589,5
+37969,28249,6,"Action, Adventure, Drama, Fantasy, Historical, Shounen",TV,57,5
+69125,6773,7,"Action, Drama, Fantasy, Romance, Supernatural",TV,217,5
+39758,11553,6,"Comedy, Romance, School, Slice of Life",Special,707,4
+59833,3167,10,"Sci-Fi, Slice of Life",ONA,956,2
+10722,670,8,"Drama, Romance, Slice of Life",TV,843,5
+3362,2593,8,"Action, Mystery, Supernatural, Thriller",Movie,357,0
+18319,11741,8,"Action, Fantasy, Supernatural, Thriller",TV,291,5
+40117,10294,7,"Action, Super Power, Supernatural",Movie,375,0
+56187,22877,6,"Action, Comedy, Ecchi, Fantasy, Harem, Romance, School, Supernatural",TV,137,5
+30741,9253,10,"Sci-Fi, Thriller",TV,957,5
+39414,16417,8,"Comedy, Slice of Life",TV,751,5
+7511,23289,9,"Comedy, Romance, School",TV,698,5
+32520,2001,9,"Action, Adventure, Comedy, Mecha, Sci-Fi",TV,41,5
+60387,4981,7,"Action, Adventure, Drama, Psychological, Sci-Fi",TV,68,5
+53401,812,3,"Adventure, Drama, Magic, Sci-Fi",TV,448,5
+37870,13659,7,"Comedy, Seinen, Slice of Life",TV,744,5
+31631,741,7,"Comedy, Drama, Hentai, Romance, Yaoi",OVA,520,3
+1287,30205,8,"Action, Comedy, Shounen, Sports",TV,197,5
+66718,7054,10,"Comedy, Romance, School, Shoujo",TV,702,5
+70347,28805,8,"Adventure, Supernatural",Movie,488,0
+10523,10152,8,"Romance, Shoujo",Special,949,4
+44929,12135,6,"Adventure, Psychological, Sci-Fi",OVA,484,3
+42762,9982,7,"Comedy, Ecchi, Fantasy, Magic, Shounen",OVA,571,3
+19011,2581,9,"Action, Drama, Mecha, Military, Sci-Fi, Space",TV,237,5
+6592,1663,8,"Adventure, Drama, Historical, Slice of Life",TV,446,5
+30573,31680,8,"Comedy, Drama, Romance, Shounen Ai, Slice of Life",TV,545,5
+63451,2907,7,"Comedy, Sci-Fi",TV,737,5
+27672,10719,7,"Comedy, Ecchi, Harem, Romance, School, Seinen, Slice of Life",TV,582,5
+59653,1094,7,"Action, Adventure, Comedy, Fantasy, Shounen, Super Power",Special,34,4
+45871,368,5,Hentai,OVA,893,3
+13564,20785,8,"Magic, Romance, School, Sci-Fi, Supernatural",TV,915,5
+14981,1,10,"Action, Adventure, Comedy, Drama, Sci-Fi, Space",TV,14,5
+50518,50,5,"Comedy, Magic, Romance, Seinen, Supernatural",TV,664,5
+44471,11111,8,"Horror, Mystery, School, Supernatural, Thriller",TV,905,5
+26418,263,10,"Comedy, Drama, Shounen, Sports",TV,555,5
+57462,153,7,"Action, Adventure, Fantasy, Magic, Supernatural",TV,85,5
+3614,28927,8,"Action, Drama, Shounen, Supernatural, Vampire",TV,256,5
+16796,1575,9,"Action, Mecha, Military, School, Sci-Fi, Super Power",TV,324,5
+14427,792,6,"Adventure, Comedy, Shounen",Movie,432,0
+31151,8630,9,"Action, Comedy, Romance, School",TV,183,5
+63593,1241,7,"Drama, Mecha, Military, Sci-Fi, Space",OVA,808,3
+28508,71,9,"Action, Comedy, Mecha, Military, Sci-Fi",TV,173,5
+21932,11111,7,"Horror, Mystery, School, Supernatural, Thriller",TV,905,5
+24508,8424,8,"Comedy, Ecchi, Harem, School",TV,589,5
+57488,21677,6,"Action, Mecha, Romance, Sci-Fi, Space",TV,334,5
+31174,28891,9,"Comedy, Drama, School, Shounen, Sports",TV,550,5
+19627,8525,8,"Comedy, Harem, Romance, Shounen, Supernatural",TV,651,5
+48522,19,10,"Drama, Horror, Mystery, Police, Psychological, Seinen, Thriller",TV,801,5
+54226,24687,8,"Adventure, Fantasy, Historical, Mystery, Seinen, Slice of Life, Supernatural",Special,464,4
+64766,4382,7,"Comedy, Mystery, Parody, Romance, School, Sci-Fi, Slice of Life",TV,679,5
+20501,24705,7,"Action, Comedy, Fantasy, Romance, School, Shounen",TV,156,5
+14238,1281,9,"Horror, Mystery, Supernatural",TV,907,5
+62152,4835,9,"Action, Comedy, Shounen, Super Power, Supernatural",Movie,198,0
+8047,1691,7,"Action, Fantasy, Magic, Romance, Shounen",TV,278,5
+25051,3572,8,"Action, Mecha, Military, Music, Romance, Sci-Fi, Space",TV,321,5
+40261,5163,10,"Comedy, Ecchi, Slice of Life",Special,619,4
+56310,8675,6,"Comedy, School, Shounen, Slice of Life",TV,731,5
+18579,534,10,"Adventure, Comedy, Demons, Fantasy, Magic",TV,383,5
+40243,1,7,"Action, Adventure, Comedy, Drama, Sci-Fi, Space",TV,14,5
+61007,12565,7,"Action, Fantasy, Magic, Romance, Shounen, Supernatural",OVA,279,3
+32858,9936,8,"Action, Ecchi, Harem, Martial Arts, School, Super Power",TV,261,5
+54027,3086,7,"Action, Fantasy, Sci-Fi",OVA,284,3
+32398,6702,8,"Action, Adventure, Comedy, Fantasy, Magic, Shounen",TV,25,5
+7953,1195,7,"Action, Adventure, Comedy, Ecchi, Fantasy, Harem, Magic, Romance, School",TV,18,5
+23791,8460,8,"Action, Shounen, Supernatural",OVA,374,3
+34375,441,9,"Dementia, Drama, Fantasy, Romance, Shoujo",Movie,754,0
+28270,27633,8,"Comedy, Romance, School",Special,698,4
+30703,744,7,"Comedy, Romance, Sci-Fi, Shounen",TV,711,5
+63249,11917,9,"Comedy, Drama, Sports",OVA,557,3
+56412,9741,7,"Comedy, Ecchi, Romance, Seinen",OVA,605,3
+50853,2386,7,"Comedy, Fantasy, Shounen, Sports",Movie,633,0
+33172,21681,7,"Comedy, School, Seinen, Slice of Life",TV,726,5
+36586,355,7,"Action, Drama, Fantasy, Romance, School, Supernatural",TV,216,5
+19721,2970,6,"Adventure, Fantasy, Magic, Shounen",TV,468,5
+37286,25159,6,"Comedy, Romance, School, Slice of Life, Supernatural",TV,708,5
+57327,9513,8,"Action, Comedy, Demons, School, Shounen, Supernatural",TV,124,5
+47112,10719,8,"Comedy, Ecchi, Harem, Romance, School, Seinen, Slice of Life",TV,582,5
+55628,5365,10,Drama,Movie,764,0
+51134,899,6,"Adventure, Comedy, Fantasy, Sci-Fi, Shounen",Movie,415,0
+23485,9750,9,"Comedy, Ecchi, Romance, Shounen, Supernatural, Vampire",TV,608,5
+71713,20,7,"Action, Comedy, Martial Arts, Shounen, Super Power",TV,170,5
+41207,3901,8,"Action, Comedy, Historical, Mystery, Seinen, Supernatural",Special,161,4
+21435,6682,7,"Action, Ecchi, Super Power, Supernatural",TV,272,5
+66563,24439,7,"Action, Fantasy, Shounen, Super Power, Supernatural, Vampire",TV,288,5
+9050,90,8,"Action, Drama, Mecha, Military, Sci-Fi, Space",TV,237,5
+36797,10161,7,"Action, Sci-Fi",TV,365,5
+11536,16335,6,"Action, Mecha, Military, Sci-Fi",Special,326,4
+44562,11617,6,"Comedy, Demons, Ecchi, Harem, Romance, School",TV,491,5
+32934,323,7,"Drama, Mystery, Police, Psychological, Supernatural, Thriller",TV,820,5
+58710,199,9,"Adventure, Drama, Supernatural",Movie,458,0
+69684,22877,8,"Action, Comedy, Ecchi, Fantasy, Harem, Romance, School, Supernatural",TV,137,5
+7942,10849,6,Music,Music,922,1
+66058,2904,9,"Action, Drama, Mecha, Military, Sci-Fi, Super Power",TV,238,5
+35049,10793,9,"Action, Drama, Sci-Fi, Super Power",TV,253,5
+49471,1007,8,"Comedy, Martial Arts, Romance, Shounen",OVA,669,3
+6280,5060,7,"Comedy, Historical, Parody",ONA,654,2
+13265,26055,8,"Action, Adventure, Drama, Shounen, Supernatural",TV,70,5
+58839,2408,10,"Action, Adventure, Comedy, Drama, Sci-Fi, Shounen",Movie,13,0
+11398,272,7,"Action, Drama, Mystery",TV,245,5
+6917,7088,7,"Action, Comedy, Ecchi, Fantasy, Harem, Magic, School, Shounen",TV,135,5
+20027,7817,7,"Comedy, Ecchi, Romance, School, Seinen",TV,601,5
+24072,7088,7,"Action, Comedy, Ecchi, Fantasy, Harem, Magic, School, Shounen",TV,135,5
+47277,10083,10,"Horror, Mystery, Supernatural, Vampire",Special,909,4
+11466,2001,10,"Action, Adventure, Comedy, Mecha, Sci-Fi",TV,41,5
+21511,11981,9,"Drama, Magic, Psychological, Thriller",Movie,806,0
+31849,6114,8,"Drama, Historical, Seinen, Thriller",TV,798,5
+31698,3901,8,"Action, Comedy, Historical, Mystery, Seinen, Supernatural",Special,161,4
+6152,4106,8,"Action, Comedy, Sci-Fi",Movie,193,0
+56380,269,7,"Action, Comedy, Shounen, Super Power, Supernatural",TV,198,5
+21260,4059,10,"Drama, Romance, School, Slice of Life",Special,836,4
+70347,227,9,"Action, Comedy, Dementia, Mecha, Parody, Sci-Fi",OVA,118,3
+22482,696,6,"Comedy, Harem, Romance, Sci-Fi, Shounen, Space",TV,649,5
+11132,5680,9,"Comedy, Music, School, Slice of Life",TV,675,5
+47435,11013,7,"Comedy, Romance, Shounen, Supernatural",TV,719,5
+59378,28155,10,"Action, Adventure, Comedy, Drama",TV,5,5
+58517,105,7,"Comedy, Romance, Shounen, Slice of Life",TV,718,5
+11436,4196,7,"Action, Ecchi, Martial Arts, School, Super Power",TV,267,5
+18398,6443,4,"Action, Adventure, Comedy, Ecchi",OVA,17,3
+38670,1187,7,"Comedy, Drama, Sci-Fi",OVA,552,3
+379,11111,8,"Horror, Mystery, School, Supernatural, Thriller",TV,905,5
+17645,20031,8,"Comedy, Game, School, Seinen",TV,635,5
+44561,6336,8,"Action, Drama, Mecha, Military, Sci-Fi, Space",OVA,237,3
+1589,12445,9,"Horror, Mystery, Romance, School, Shounen, Supernatural",TV,904,5
+23997,16397,10,"Ecchi, Romance, School",TV,862,5
+8643,28891,10,"Comedy, Drama, School, Shounen, Sports",TV,550,5
+7732,1023,9,"Adventure, Drama, Psychological, Sci-Fi, Supernatural",OVA,452,3
+49662,28677,5,"Comedy, Harem, Mystery, Romance, School, Shounen, Supernatural",TV,639,5
+55537,14345,6,"Action, Psychological, Sci-Fi, Seinen",TV,360,5
+60637,523,8,"Adventure, Comedy, Supernatural",Movie,435,0
+48661,9041,9,"Action, Comedy, Harem, Mecha, Sci-Fi",TV,160,5
+1719,2927,9,"Drama, Romance, School",TV,830,5
+36794,30911,7,"Action, Adventure, Fantasy",TV,73,5
+38095,8247,7,"Action, Comedy, Shounen, Super Power, Supernatural",Movie,198,0
+4373,24415,9,"Comedy, School, Shounen, Sports",TV,732,5
+15687,25183,8,"Action, Drama, Seinen",TV,254,5
+23840,177,9,"Action, Adventure, Fantasy, Magic, Romance, Shounen, Supernatural",TV,83,5
+58667,317,7,"Action, Fantasy, Super Power",Movie,289,0
+71579,226,10,"Action, Drama, Horror, Psychological, Romance, Seinen, Supernatural",TV,228,5
+19545,849,9,"Comedy, Mystery, Parody, School, Sci-Fi, Slice of Life",TV,680,5
+63259,13411,5,"Action, Drama, Sci-Fi, Super Power",OVA,253,3
+34514,8934,5,"Action, Mecha, Romance, Shounen",TV,335,5
+64225,442,7,"Adventure, Comedy, Drama, Historical, Shounen, Supernatural",Movie,396,0
+40999,8769,7,"Comedy, Seinen, Slice of Life",TV,744,5
+48879,20785,8,"Magic, Romance, School, Sci-Fi, Supernatural",TV,915,5
+28622,30503,9,"Action, Adventure, Shounen, Supernatural",TV,112,5
+31340,73,8,"Action, Mecha, Military",TV,320,5
+59013,2104,8,"Comedy, Parody, Romance, School",TV,689,5
+67845,8841,6,"Action, Comedy, Ecchi, Harem, Magic, Supernatural",TV,139,5
+4244,523,7,"Adventure, Comedy, Supernatural",Movie,435,0
+16060,317,7,"Action, Fantasy, Super Power",Movie,289,0
+45816,20159,8,"Action, Adventure, Comedy, Fantasy, Kids",Special,23,4
+49714,8857,7,"Comedy, School, Slice of Life",OVA,733,3
+14078,2251,7,"Action, Comedy, Historical, Mystery, Seinen, Supernatural",TV,161,5
+49556,490,7,"Comedy, Parody, School",TV,690,5
+29965,11111,6,"Horror, Mystery, School, Supernatural, Thriller",TV,905,5
+60915,1535,10,"Mystery, Police, Psychological, Supernatural, Thriller",TV,927,5
+24797,15335,9,"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen",Movie,162,0
+35647,16239,7,"Action, Adventure, Comedy, Fantasy, Shounen, Super Power",Special,34,4
+28001,1719,6,"Action, Comedy, Drama, Magic, Seinen",Special,127,4
+30697,2923,8,"Comedy, Magic, School, Shoujo",TV,666,5
+12250,2104,6,"Comedy, Parody, Romance, School",TV,689,5
+66643,14833,8,"Adventure, Demons, Fantasy, Historical, Romance",TV,438,5
+1456,1011,8,"Adventure, Comedy, Martial Arts, Romance, Shounen, Supernatural",OVA,424,3
+24120,11577,8,"Sci-Fi, Thriller",Movie,957,0
+31028,157,4,"Comedy, Ecchi, Fantasy, Harem, Magic, Romance, School, Shounen, Super Power, Supernatural",TV,562,5
+48375,1432,6,"Action, Adventure, Comedy, Shounen",Movie,45,0
+17085,1571,8,"Comedy, Horror, Mystery, Shoujo, Supernatural",TV,657,5
+39506,228,10,"Horror, Mystery, Psychological, Supernatural",TV,902,5
+9426,1536,9,"Action, Comedy, Fantasy, School, Shounen, Supernatural",TV,157,5
+72768,31240,9,"Drama, Fantasy, Psychological, Thriller",TV,776,5
+41126,15895,8,"Romance, School, Shoujo",Special,945,4
+36560,14513,10,"Action, Adventure, Fantasy, Magic, Shounen",TV,84,5
+11,4059,7,"Drama, Romance, School, Slice of Life",Special,836,4
+55369,29758,5,"Action, Comedy, Martial Arts, Mystery, Super Power, Supernatural",TV,167,5
+60743,952,4,"Comedy, Magic",TV,662,5
+50673,587,6,"Comedy, Drama, Romance",TV,533,5
+40772,3667,9,"Action, Ecchi, Magic, Military, Sci-Fi",TV,266,5
+39335,820,9,"Drama, Military, Sci-Fi, Space",OVA,813,3
+26166,7079,6,"Action, Horror, Mystery, Supernatural",TV,309,5
+27786,22199,9,"Action, Adventure, Fantasy",TV,73,5
+37387,13601,8,"Action, Police, Psychological, Sci-Fi",TV,358,5
+16156,164,8,"Action, Adventure, Fantasy",Movie,73,0
+65440,12711,10,"Comedy, Harem, Music, Romance, School, Shoujo",TV,638,5
+51239,12355,9,"Fantasy, Slice of Life",Movie,883,0
+55227,79,7,"Comedy, Drama, Ecchi, Fantasy, Harem, Magic, Romance, School, Seinen",TV,499,5
+27462,4752,8,"Drama, Mystery, Romance, Shoujo, Supernatural, Vampire",TV,822,5
+39245,234,7,"Adventure, Shounen, Sports",TV,487,5
+50860,411,7,"Action, Adventure, Drama, Mecha, Sci-Fi, Shounen",TV,66,5
+72339,14741,10,"Comedy, Drama, Romance, School, Slice of Life",TV,539,5
+71216,12115,7,"Action, Adventure, Demons, Drama, Fantasy, Horror, Military, Seinen, Supernatural",Movie,50,0
+11743,9367,7,"Action, Drama, Ecchi, Harem, Martial Arts, Romance, Sci-Fi, Seinen",TV,210,5
+25462,606,10,"Adventure, Comedy, Historical, Martial Arts, Samurai",TV,419,5
+55010,5150,9,"Comedy, Romance, School, Shounen",TV,704,5
+66704,9136,9,"Comedy, Fantasy, Parody, Shounen, Supernatural",Special,629,4
+61046,4181,10,"Drama, Fantasy, Romance, Slice of Life, Supernatural",TV,779,5
+33927,12293,8,"Comedy, Ecchi, Fantasy, Harem, Magic, Romance",TV,561,5
+16581,2890,10,"Adventure, Fantasy",Movie,461,0
+12593,10716,8,"Action, Super Power, Supernatural",Movie,375,0
+40261,11933,9,"Comedy, Historical, Romance",TV,655,5
+38229,3784,9,"Action, Mecha, Sci-Fi",Movie,337,0
+48336,9989,9,"Drama, Slice of Life, Supernatural",TV,855,5
+16375,6,7,"Action, Comedy, Sci-Fi",TV,193,5
+59818,6682,3,"Action, Ecchi, Super Power, Supernatural",TV,272,5
+49765,1487,9,"Adventure, Comedy, Fantasy, Game, Magic, Sci-Fi",Special,403,4
+51638,121,10,"Action, Adventure, Comedy, Drama, Fantasy, Magic, Military, Shounen",TV,7,5
+51327,15117,7,"Comedy, Harem, Romance, Shounen, Supernatural",OVA,651,3
+27304,195,8,"Comedy, Drama, Romance, School, Sci-Fi",TV,535,5
+40607,71,7,"Action, Comedy, Mecha, Military, Sci-Fi",TV,173,5
+8421,4182,8,"Comedy, Parody, Sci-Fi",Special,694,4
+30160,3392,9,"Harem, Music, Romance, School, Shoujo",Special,889,4
+7135,4063,7,"Action, Comedy, Ecchi, Harem, Super Power",TV,141,5
+52414,3501,8,"Adventure, Fantasy, Historical, Romance",TV,465,5
+66605,537,7,"Action, Adventure, Martial Arts, Sci-Fi",OVA,101,3
+33059,9041,9,"Action, Comedy, Harem, Mecha, Sci-Fi",TV,160,5
+68091,7662,7,"Horror, Mystery, Shoujo, Supernatural",TV,906,5
+3419,7465,8,"Sci-Fi, Slice of Life",Movie,956,0
+50757,3247,5,"Comedy, Ecchi, Harem, Romance",OVA,577,3
+12138,5258,9,"Comedy, Drama, Shounen, Sports",TV,555,5
+18461,17265,9,"Action, Adventure, Fantasy, Game, Magic, Shounen",TV,74,5
+59617,11241,6,"Action, Adventure, Historical, Samurai, Seinen, Super Power",TV,97,5
+8197,1535,10,"Mystery, Police, Psychological, Supernatural, Thriller",TV,927,5
+40189,2476,10,"Drama, Harem, Romance, School",TV,788,5
+12271,22043,10,"Action, Adventure, Comedy, Fantasy, Magic, Shounen",TV,25,5
+14402,22729,6,"Action, Mecha, Sci-Fi",TV,337,5
+12938,4134,8,Comedy,Special,489,4
+57040,1066,9,"Comedy, Parody",Special,687,4
+61110,1535,10,"Mystery, Police, Psychological, Supernatural, Thriller",TV,927,5
+54074,4752,9,"Drama, Mystery, Romance, Shoujo, Supernatural, Vampire",TV,822,5
+52637,5681,8,"Comedy, Sci-Fi",Movie,737,0
+44122,17293,8,"Action, Music, Sci-Fi",Music,346,1
+12412,1530,8,"Drama, Romance, Slice of Life, Supernatural",TV,844,5
+24796,13161,7,"Action, Ecchi, Fantasy, Super Power",TV,260,5
+22389,13659,8,"Comedy, Seinen, Slice of Life",TV,744,5
+64263,19855,7,"Action, Supernatural",TV,377,5
+66782,1689,9,"Drama, Romance, Slice of Life",Movie,843,0
+70068,4224,9,"Comedy, Romance, School, Slice of Life",TV,707,5
+27247,59,10,"Comedy, Drama, Ecchi, Romance, Sci-Fi, Seinen",TV,503,5
+46601,8247,8,"Action, Comedy, Shounen, Super Power, Supernatural",Movie,198,0
+57723,71,6,"Action, Comedy, Mecha, Military, Sci-Fi",TV,173,5
+44220,5682,9,"Action, Drama, Seinen, Thriller",TV,255,5
+11664,18295,8,"Action, Mecha, Space",TV,341,5
+22351,6325,10,"Action, Comedy, Martial Arts, Shounen, Super Power",Movie,170,0
+51426,4795,8,"Adventure, Comedy, Fantasy, Kids",Movie,405,0
+2315,4898,8,"Action, Comedy, Demons, Fantasy, Historical, Shounen, Supernatural",TV,121,5
+1497,11615,7,"Comedy, School, Slice of Life",TV,733,5
+22155,2966,9,"Adventure, Fantasy, Historical, Romance",TV,465,5
+52232,17909,7,"Comedy, Drama, Fantasy, Slice of Life",TV,515,5
+14567,223,7,"Adventure, Comedy, Fantasy, Martial Arts, Shounen, Super Power",TV,412,5
+53708,2148,3,"Drama, Romance, Yaoi",OVA,847,3
+58197,14467,5,"Action, Super Power, Supernatural",TV,375,5
+69383,356,5,"Action, Fantasy, Magic, Romance, Supernatural",TV,280,5
+62906,1535,10,"Mystery, Police, Psychological, Supernatural, Thriller",TV,927,5
+10858,644,8,"Comedy, Drama, Josei, Romance, Slice of Life",Special,522,4
+28183,1195,7,"Action, Adventure, Comedy, Ecchi, Fantasy, Harem, Magic, Romance, School",TV,18,5
+71768,2476,7,"Drama, Harem, Romance, School",TV,788,5
+62685,25013,9,"Action, Adventure, Comedy, Fantasy, Romance, Shoujo",TV,29,5
+28154,1914,8,"Adventure, Comedy, Drama, Fantasy, Historical, Romance",TV,388,5
+41264,10408,9,"Drama, Romance, Shoujo, Supernatural",Movie,842,0
+50221,6028,6,"Comedy, Sci-Fi, Shounen",Movie,739,0
+16410,1361,7,Sci-Fi,Movie,954,0
+39746,29976,6,"Demons, Harem, Romance, Shoujo, Supernatural",TV,760,5
+7420,4087,10,"Action, Adventure",TV,1,5
+15025,12049,7,"Action, Adventure, Comedy, Fantasy, Magic, Shounen",Movie,25,0
+64144,355,8,"Action, Drama, Fantasy, Romance, School, Supernatural",TV,216,5
+13906,14289,9,"Romance, School, Shoujo",TV,945,5
+5504,7897,5,Ecchi,OVA,856,3
+65477,4181,8,"Drama, Fantasy, Romance, Slice of Life, Supernatural",TV,779,5
+17719,891,8,"Action, Adventure, Comedy, Fantasy, Sci-Fi, Shounen, Super Power",Movie,32,0
+63955,226,8,"Action, Drama, Horror, Psychological, Romance, Seinen, Supernatural",TV,228,5
+48391,2904,8,"Action, Drama, Mecha, Military, Sci-Fi, Super Power",TV,238,5
+31374,1366,8,"Adventure, Comedy, Mystery, Police, Shounen",Movie,427,0
+10519,477,7,"Fantasy, Sci-Fi, Shounen, Slice of Life",TV,879,5
+22857,13667,7,"Action, Adventure, Martial Arts, Shounen, Super Power",Movie,102,0
+61884,14407,8,"Action, Fantasy, Seinen, Supernatural",Movie,285,0
+53435,3712,7,"Action, Adventure, Comedy, Ecchi, Fantasy, Harem, Magic, Romance, School",TV,18,5
+29513,16782,10,"Drama, Psychological, Romance, Slice of Life",Movie,827,0
+60665,5341,8,"Adventure, Fantasy, Historical, Romance",TV,465,5
+13421,13333,9,"Music, School, Slice of Life",TV,923,5
+67639,21855,7,"Comedy, Mystery, Supernatural",TV,686,5
+39923,467,10,"Action, Mecha, Military, Police, Sci-Fi, Seinen",TV,323,5
+13286,10080,7,"Comedy, Harem, Romance, Shounen, Supernatural",TV,651,5
+53968,10588,9,"Adventure, Mystery, School, Sci-Fi, Super Power, Supernatural",TV,483,5
+2050,13391,8,"Action, Mecha, Sci-Fi",Movie,337,0
+1721,552,8,"Action, Adventure, Comedy, Fantasy, Kids",TV,23,5
+4468,204,6,"Action, Comedy, Ecchi, Harem, Super Power",TV,141,5
+40766,14397,10,"Drama, Game, Josei, Slice of Life, Sports",TV,782,5
+21659,17635,10,Romance,Special,942,4
+32710,2923,8,"Comedy, Magic, School, Shoujo",TV,666,5
+3594,249,9,"Action, Adventure, Comedy, Demons, Fantasy, Magic, Romance, Shounen, Supernatural",TV,3,5
+38466,894,7,"Adventure, Comedy, Fantasy, Sci-Fi, Shounen",Movie,415,0
+40436,13655,6,"Comedy, Drama, School, Slice of Life, Supernatural",TV,551,5
+62608,28223,9,"Drama, Game, Mystery, Psychological, Thriller",TV,783,5
+55669,6746,7,"Action, Mystery, Supernatural",TV,356,5
+64866,10863,8,"Sci-Fi, Thriller",Special,957,4
+42336,19,8,"Drama, Horror, Mystery, Police, Psychological, Seinen, Thriller",TV,801,5
+68797,6336,9,"Action, Drama, Mecha, Military, Sci-Fi, Space",OVA,237,3
+43493,21473,6,"Action, Fantasy, Seinen, Supernatural",Movie,285,0
+4274,10863,9,"Sci-Fi, Thriller",Special,957,4
+22026,15689,7,"Comedy, Romance, Supernatural",TV,722,5
+23475,1887,8,"Comedy, Parody, School, Slice of Life",TV,693,5
+12054,889,9,"Action, Seinen",TV,370,5
+19869,538,8,"Comedy, Harem, Romance, Sci-Fi, Shounen",TV,648,5
+49144,391,7,"Adventure, Fantasy, Shounen",OVA,474,3
+6771,323,7,"Drama, Mystery, Police, Psychological, Supernatural, Thriller",TV,820,5
+43534,4382,8,"Comedy, Mystery, Parody, Romance, School, Sci-Fi, Slice of Life",TV,679,5
+28531,8074,8,"Action, Ecchi, Horror, Supernatural",TV,265,5
+19509,481,5,"Adventure, Game, Shounen",TV,476,5
+3190,1118,7,"Action, Adventure, Comedy, Drama, Fantasy, Kids",Movie,6,0
+39573,18507,8,"Comedy, School, Slice of Life, Sports",TV,734,5
+34682,14293,5,"Romance, School, Sci-Fi",Movie,944,0
+60586,14967,9,"Comedy, Harem, Romance, School, Seinen, Slice of Life",TV,644,5
+303,28223,10,"Drama, Game, Mystery, Psychological, Thriller",TV,783,5
+1847,6802,9,"Military, Music, Sci-Fi, Slice of Life",TV,920,5
+20799,4814,10,"Comedy, Drama, Romance, Shounen Ai",TV,544,5
+35581,24703,7,"Action, Comedy, Demons, Ecchi, Harem, Romance, School",TV,119,5
+4845,6347,7,"Comedy, Romance, School, Super Power",TV,709,5
+36610,23945,6,"Comedy, Ecchi, Fantasy, Magic, School, Shounen",TV,570,5
+25411,8425,6,"Drama, Historical, Mystery, Romance",TV,792,5
+47208,17265,8,"Action, Adventure, Fantasy, Game, Magic, Shounen",TV,74,5
+69890,23673,7,"Comedy, Romance, School, Shoujo",TV,702,5
+14119,198,5,"Action, Mystery, Super Power",TV,353,5
+48058,10213,9,"Comedy, Ecchi, Harem, Martial Arts, Romance, School, Super Power",TV,575,5
+28880,2167,10,"Comedy, Drama, Romance, School, Slice of Life, Supernatural",TV,540,5
+11887,7593,7,"Comedy, Ecchi, Harem, Romance, School, Seinen",TV,581,5
+63865,18245,10,"Drama, Music, Romance, Slice of Life",TV,817,5
+69246,6033,8,"Action, Adventure, Comedy, Fantasy, Martial Arts, Shounen, Super Power",TV,27,5
+49378,907,6,"Comedy, School, Shoujo",TV,728,5
+67963,1559,9,"Action, Comedy, Martial Arts, School, Shounen",TV,169,5
+56492,15775,7,"Comedy, Seinen, Slice of Life",OVA,744,3
+28421,9958,9,"Comedy, Harem, Parody",Movie,640,0
+4845,4151,7,"Action, Adventure, Historical, Samurai, Supernatural",TV,98,5
+15160,318,7,"Comedy, Ecchi, Harem, Romance, Sci-Fi",TV,585,5
+71792,13331,7,"Action, Adventure, Seinen",TV,109,5
+57659,2144,9,"Action, Adventure",Movie,1,0
+10217,523,9,"Adventure, Comedy, Supernatural",Movie,435,0
+47071,28891,9,"Comedy, Drama, School, Shounen, Sports",TV,550,5
+6592,281,8,"Comedy, Mecha, Romance",OVA,671,3
+51887,121,8,"Action, Adventure, Comedy, Drama, Fantasy, Magic, Military, Shounen",TV,7,5
+54491,322,5,"Comedy, Drama, Josei, Romance, Slice of Life",TV,522,5
+10903,12429,6,"Action, Adventure, Sci-Fi",Special,108,4
+61118,899,7,"Adventure, Comedy, Fantasy, Sci-Fi, Shounen",Movie,415,0
+35358,3470,9,"Comedy, Romance, School, Shoujo",TV,702,5
+24337,12549,5,"Comedy, Ecchi, Romance, Supernatural",TV,609,5
+67070,204,5,"Action, Comedy, Ecchi, Harem, Super Power",TV,141,5
+1831,3782,7,"Action, Mystery, Romance, Supernatural, Thriller",Movie,349,0
+7731,903,8,"Action, Adventure, Comedy, Demons, Fantasy, Martial Arts, Shounen, Super Power",Movie,4,0
+15952,11235,8,"Comedy, Romance, School, Slice of Life",TV,707,5
+67401,4280,9,"Action, Mystery, Supernatural, Thriller",Movie,357,0
+59504,433,8,"Drama, Military, Romance, Sci-Fi",Movie,812,0
+17743,10711,7,"Comedy, School",ONA,724,2
+28507,5667,7,"Comedy, Ecchi, Harem, School, Sci-Fi, Shounen",OVA,590,3
+25802,3481,8,"Action, Mecha, Sci-Fi, Shounen",Movie,339,0
+27643,392,9,"Action, Comedy, Demons, Fantasy, Martial Arts, School, Shounen",TV,122,5
+67895,22101,8,"Adventure, Fantasy, Romance, Shoujo",TV,473,5
+11319,538,4,"Comedy, Harem, Romance, Sci-Fi, Shounen",TV,648,5
+15809,23333,7,"Action, Psychological, Sci-Fi, Super Power",TV,361,5
+66118,3457,8,"Drama, Mystery, Romance, Shoujo, Supernatural, Vampire",TV,822,5
+26259,1722,7,"Comedy, Ecchi, Fantasy, Harem, Romance",TV,563,5
+4280,5958,8,"Comedy, Ecchi, Harem, Romance, Sci-Fi, Shounen, Supernatural",TV,586,5
+25528,6947,8,"Comedy, Sci-Fi, Slice of Life",TV,740,5
+38691,2966,8,"Adventure, Fantasy, Historical, Romance",TV,465,5
+23560,2404,7,"Action, Horror, Shounen, Supernatural",TV,315,5
+22480,981,8,"Comedy, Ecchi, Harem, Romance, School, Shounen",OVA,583,3
+35831,1575,9,"Action, Mecha, Military, School, Sci-Fi, Super Power",TV,324,5
+23690,4063,7,"Action, Comedy, Ecchi, Harem, Super Power",TV,141,5
+61943,9756,8,"Drama, Magic, Psychological, Thriller",TV,806,5
+11684,7817,7,"Comedy, Ecchi, Romance, School, Seinen",TV,601,5
+67665,121,8,"Action, Adventure, Comedy, Drama, Fantasy, Magic, Military, Shounen",TV,7,5
+50360,2034,8,"Comedy, Romance, Shoujo",TV,715,5
+30235,10408,9,"Drama, Romance, Shoujo, Supernatural",Movie,842,0
+58787,1348,8,"Action, Adventure, Mecha, Sci-Fi, Shounen",OVA,105,3
+35623,2759,9,"Action, Mecha, Sci-Fi",Movie,337,0
+8840,10719,10,"Comedy, Ecchi, Harem, Romance, School, Seinen, Slice of Life",TV,582,5
+64623,3901,7,"Action, Comedy, Historical, Mystery, Seinen, Supernatural",Special,161,4
+66745,356,7,"Action, Fantasy, Magic, Romance, Supernatural",TV,280,5
+20958,857,3,"Action, Comedy, Ecchi, Shounen, Sports",TV,147,5
+23591,28297,8,"Comedy, Romance, Shoujo",TV,715,5
+681,4896,8,"Horror, Mystery, Psychological, Supernatural",TV,902,5
+28459,1018,7,"Adventure, Comedy, Fantasy, Magic, Shounen",TV,411,5
+37847,8769,9,"Comedy, Seinen, Slice of Life",TV,744,5
+58802,3759,7,"Comedy, Romance, School",OVA,698,3
+19875,16498,10,"Action, Drama, Fantasy, Shounen, Super Power",TV,220,5
+50603,14765,8,"Action, Comedy, Fantasy",TV,149,5
+23773,10162,8,"Josei, Slice of Life",TV,911,5
+7768,1818,8,"Action, Adventure, Demons, Fantasy, Shounen, Super Power, Supernatural",TV,53,5
+15837,19315,5,"Fantasy, Horror, Psychological",TV,872,5
+71868,5940,7,"Action, Adventure, Fantasy",TV,73,5
+39488,12859,10,"Action, Adventure, Comedy, Drama, Fantasy, Shounen",Movie,8,0
+12850,849,9,"Comedy, Mystery, Parody, School, Sci-Fi, Slice of Life",TV,680,5
+65634,10087,7,"Action, Fantasy, Supernatural",TV,290,5
+43769,21507,9,"Action, Comedy, Ecchi, Shounen, Supernatural",TV,148,5
+16919,25687,7,"Action, Adventure, Comedy, Drama",Movie,5,0
+23977,19285,8,"Action, Drama, Fantasy, Shounen, Super Power",Special,220,4
+55327,16498,8,"Action, Drama, Fantasy, Shounen, Super Power",TV,220,5
+25188,28755,7,"Action, Comedy, Martial Arts, Shounen, Super Power",Movie,170,0
+72158,6880,8,"Action, Horror, Sci-Fi",TV,311,5
+11892,3588,7,"Action, Adventure, Comedy, Fantasy, Shounen, Supernatural",TV,35,5
+18321,534,9,"Adventure, Comedy, Demons, Fantasy, Magic",TV,383,5
+49273,1575,10,"Action, Mecha, Military, School, Sci-Fi, Super Power",TV,324,5
+10932,13171,4,"Comedy, Supernatural",Movie,753,0
+25132,10620,7,"Action, Mystery, Psychological, Shounen, Supernatural, Thriller",TV,348,5
+47597,63,6,"Comedy, Ecchi, Harem, Romance, Sci-Fi",TV,585,5
+49417,3588,8,"Action, Adventure, Comedy, Fantasy, Shounen, Supernatural",TV,35,5
+58793,4814,10,"Comedy, Drama, Romance, Shounen Ai",TV,544,5
+52174,4246,6,"Adventure, Mecha, Romance, Sci-Fi",Movie,478,0
+36696,13659,7,"Comedy, Seinen, Slice of Life",TV,744,5
+28192,4901,8,"Action, Seinen",OVA,370,3
+72428,2251,9,"Action, Comedy, Historical, Mystery, Seinen, Supernatural",TV,161,5
+12309,1575,10,"Action, Mecha, Military, School, Sci-Fi, Super Power",TV,324,5
+9032,1388,7,Hentai,OVA,893,3
+36946,8074,9,"Action, Ecchi, Horror, Supernatural",TV,265,5
+894,7674,8,"Comedy, Romance, Shounen",TV,716,5
+11687,1366,7,"Adventure, Comedy, Mystery, Police, Shounen",Movie,427,0
+69016,31043,10,"Mystery, Psychological, Seinen, Supernatural",TV,930,5
+6592,191,7,"Comedy, Romance, Slice of Life",Special,720,4
+69112,11741,8,"Action, Fantasy, Supernatural, Thriller",TV,291,5
+61599,245,10,"Comedy, Drama, School, Shounen, Slice of Life",TV,549,5
+12006,2167,9,"Comedy, Drama, Romance, School, Slice of Life, Supernatural",TV,540,5
+49828,2472,8,"Action, Adventure, Comedy, Fantasy, Shounen",Movie,33,0
+55584,1277,7,"Adventure, Demons, Drama, Fantasy, Magic",OVA,437,3
+4199,31636,7,"Comedy, Shounen, Slice of Life",TV,748,5
+31898,21267,6,Slice of Life,TV,960,5
+66281,1286,6,"Mecha, Military, Sci-Fi",OVA,916,3
+58133,1915,10,"Action, Comedy, Drama, Magic, Super Power",TV,128,5
+11511,635,5,"Action, Adventure, Comedy, Drama, Shounen",TV,15,5
+44252,6351,7,"Drama, Romance, School",Special,830,4
+41050,14189,7,"Horror, Mystery, Romance, School, Shounen, Supernatural",Special,904,4
+44755,2966,7,"Adventure, Fantasy, Historical, Romance",TV,465,5
+8425,2476,10,"Drama, Harem, Romance, School",TV,788,5
+66274,8646,5,"Kids, Music",Music,912,1
+64968,11785,7,"Comedy, Parody, Sci-Fi",TV,694,5
+9265,853,9,"Comedy, Harem, Romance, School, Shoujo",TV,646,5
+49586,356,7,"Action, Fantasy, Magic, Romance, Supernatural",TV,280,5
+61869,33028,9,"Action, Horror, Mystery, Psychological",TV,307,5
+1442,31405,7,"Drama, Historical, Military",TV,791,5
+8711,7465,8,"Sci-Fi, Slice of Life",Movie,956,0
+23394,8277,9,"Action, Comedy, Ecchi, Harem, Samurai, School",TV,140,5
+68561,4282,9,"Action, Drama, Mystery, Romance, Supernatural, Thriller",Movie,246,0
+57641,3288,8,"Action, Mecha, Military, Space",OVA,329,3
+72208,11319,9,"Adventure, Ecchi, Fantasy, Magic, Romance",TV,460,5
+44654,10863,10,"Sci-Fi, Thriller",Special,957,4
+30008,10711,8,"Comedy, School",ONA,724,2
+18798,199,9,"Adventure, Drama, Supernatural",Movie,458,0
+30346,3247,10,"Comedy, Ecchi, Harem, Romance",OVA,577,3
+5413,7017,8,Comedy,Special,489,4
+62394,31338,8,"Action, Ecchi, Harem, Mecha, Romance, School, Sci-Fi",TV,262,5
+8824,10163,9,"Action, Mystery, Super Power, Thriller",TV,355,5
+57684,191,10,"Comedy, Romance, Slice of Life",Special,720,4
+23919,12565,6,"Action, Fantasy, Magic, Romance, Shounen, Supernatural",OVA,279,3
+3211,100,7,"Comedy, Drama, Fantasy, Magic, Romance, Shoujo, Super Power",TV,511,5
+69139,29325,8,"Mecha, Police, Psychological, Sci-Fi",TV,918,5
+19663,1723,3,"Drama, Fantasy, Romance, School",Movie,777,0
+63289,9065,10,"Action, Drama, Historical, Josei, Samurai, Supernatural",TV,222,5
+59271,1530,9,"Drama, Romance, Slice of Life, Supernatural",TV,844,5
+48602,6045,9,"Romance, School, Shoujo, Slice of Life",TV,947,5
+38997,3667,7,"Action, Ecchi, Magic, Military, Sci-Fi",TV,266,5
+29180,356,7,"Action, Fantasy, Magic, Romance, Supernatural",TV,280,5
+17282,239,10,"Drama, Mystery, Sci-Fi, Supernatural, Thriller",TV,824,5
+51138,884,10,"Action, Fantasy",Movie,273,0
+35992,5530,7,"Adventure, Fantasy, Mystery, Shounen, Supernatural",TV,470,5
+5203,6707,9,"Action, Comedy, Demons, Fantasy, Shounen, Supernatural",TV,123,5
+33887,1689,9,"Drama, Romance, Slice of Life",Movie,843,0
+71217,442,8,"Adventure, Comedy, Drama, Historical, Shounen, Supernatural",Movie,396,0
+9962,24655,4,"Harem, Romance, Sci-Fi",Movie,891,0
+61408,6956,7,"Comedy, Slice of Life",TV,751,5
+3703,17777,8,"Comedy, Ecchi, Romance, Shounen, Supernatural",TV,607,5
+41007,9969,8,"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen",TV,162,5
+57249,3470,7,"Comedy, Romance, School, Shoujo",TV,702,5
+37740,4898,9,"Action, Comedy, Demons, Fantasy, Historical, Shounen, Supernatural",TV,121,5
+57708,1066,5,"Comedy, Parody",Special,687,4
+69132,23755,9,"Action, Adventure, Ecchi, Fantasy, Shounen, Supernatural",TV,72,5
+1301,764,9,"Adventure, Comedy, Mecha, Sci-Fi, Shounen, Sports",TV,426,5
+55447,123,9,"Adventure, Comedy, Drama, Fantasy, Historical, Magic, Martial Arts, Romance, Shoujo",TV,387,5
+57938,538,5,"Comedy, Harem, Romance, Sci-Fi, Shounen",TV,648,5
+40679,226,6,"Action, Drama, Horror, Psychological, Romance, Seinen, Supernatural",TV,228,5
+49403,6166,7,"Comedy, Ecchi, Harem, Romance, Sci-Fi",TV,585,5
+58792,2762,10,"Adventure, Comedy, Romance, Shounen",TV,429,5
+50478,10589,9,"Action, Adventure, Martial Arts, Mystery, Shounen, Super Power",Movie,100,0
+67698,1140,8,"Adventure, Drama, Fantasy, Romance, Sci-Fi",Movie,443,0
+28456,400,7,"Action, Adventure, Comedy, Sci-Fi, Space",TV,44,5
+13479,24231,6,"Action, Adventure, Comedy, Fantasy, Romance, Shounen",TV,30,5
+68038,833,6,"Action, Comedy, Mecha, Sci-Fi, Shounen",TV,174,5
+28478,12685,8,"Comedy, Fantasy, Parody",OVA,628,3
+73272,3228,7,"Comedy, Parody, School",TV,690,5
+56089,4224,10,"Comedy, Romance, School, Slice of Life",TV,707,5
+21455,9120,9,"Action, Comedy, Demons, School, Shounen, Supernatural",Special,124,4
+247,245,8,"Comedy, Drama, School, Shounen, Slice of Life",TV,549,5
+58551,199,10,"Adventure, Drama, Supernatural",Movie,458,0
+37875,15335,10,"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen",Movie,162,0
+28585,849,8,"Comedy, Mystery, Parody, School, Sci-Fi, Slice of Life",TV,680,5
+6474,19163,5,"Comedy, Harem, Mecha, Romance, School, Sci-Fi",TV,637,5
+71291,29976,8,"Demons, Harem, Romance, Shoujo, Supernatural",TV,760,5
+39758,8425,9,"Drama, Historical, Mystery, Romance",TV,792,5
+16784,5667,7,"Comedy, Ecchi, Harem, School, Sci-Fi, Shounen",OVA,590,3
+14340,355,9,"Action, Drama, Fantasy, Romance, School, Supernatural",TV,216,5
+28883,16866,8,"Comedy, Historical, Romance, Shoujo",OVA,656,3
+21280,1840,7,"Action, Adventure, Comedy, Ecchi, Fantasy, Harem, Magic, Romance, School",TV,18,5
+1978,2001,8,"Action, Adventure, Comedy, Mecha, Sci-Fi",TV,41,5
+50173,10156,7,"Action, School, Sci-Fi, Super Power",TV,362,5
+39460,6205,10,"Action, Comedy, Ecchi, Romance, School, Shoujo Ai, Super Power",TV,144,5
+30056,9367,9,"Action, Drama, Ecchi, Harem, Martial Arts, Romance, Sci-Fi, Seinen",TV,210,5
+28731,10719,8,"Comedy, Ecchi, Harem, Romance, School, Seinen, Slice of Life",TV,582,5
+49567,20899,10,"Action, Adventure, Drama, Shounen, Supernatural",TV,70,5
+21330,18153,9,"Fantasy, Slice of Life, Supernatural",TV,884,5
+47351,5682,10,"Action, Drama, Seinen, Thriller",TV,255,5
+6916,564,8,"Comedy, Magic, Sci-Fi, Shounen",OVA,667,3
+34532,746,9,"Comedy, Drama, Romance, Yaoi",OVA,548,3
+47772,164,8,"Action, Adventure, Fantasy",Movie,73,0
+9554,3002,10,"Game, Psychological, Seinen, Thriller",TV,887,5
+1116,31798,7,"Drama, Sci-Fi",TV,851,5
+47793,3092,8,"Comedy, Drama, Romance, Shounen Ai",TV,544,5
+35247,3712,9,"Action, Adventure, Comedy, Ecchi, Fantasy, Harem, Magic, Romance, School",TV,18,5
+53359,6811,7,"Action, Adventure, Comedy, Demons, Fantasy, Magic, Romance, Shounen, Supernatural",TV,3,5
+25116,18671,10,"Comedy, Drama, Romance, School, Slice of Life",TV,539,5
+53315,1575,9,"Action, Mecha, Military, School, Sci-Fi, Super Power",TV,324,5
+29136,24765,6,"Horror, Mystery, Psychological, School, Slice of Life",TV,901,5
+44171,853,7,"Comedy, Harem, Romance, School, Shoujo",TV,646,5
+34305,23385,7,"Fantasy, Slice of Life, Supernatural",Special,884,4
+56843,3225,7,"Comedy, School, Slice of Life",TV,733,5
+52147,14289,8,"Romance, School, Shoujo",TV,945,5
+65043,23755,8,"Action, Adventure, Ecchi, Fantasy, Shounen, Supernatural",TV,72,5
+4811,914,9,"Comedy, Ecchi, School, Sports",TV,615,5
+65844,1727,7,"Drama, Fantasy, Music, Romance, School",TV,771,5
+40927,8074,8,"Action, Ecchi, Horror, Supernatural",TV,265,5
+27183,14921,7,"Fantasy, Magic",TV,876,5
+39337,9331,6,"Action, Shounen, Supernatural",TV,374,5
+17570,12355,9,"Fantasy, Slice of Life",Movie,883,0
+68210,376,7,"Drama, Ecchi, Horror, Psychological, Supernatural",Special,766,4
+69226,28825,9,"Comedy, School, Seinen, Slice of Life",TV,726,5
+25497,1519,10,"Action, Seinen",TV,370,5
+14649,986,9,"Adventure, Comedy, Fantasy, Sci-Fi, Shounen",Special,415,4
+45079,43,8,"Action, Mecha, Police, Psychological, Sci-Fi, Seinen",Movie,332,0
+21584,4884,8,"Adventure, Drama, Fantasy",TV,439,5
+20452,22535,9,"Action, Drama, Horror, Psychological, Sci-Fi, Seinen",TV,229,5
+65640,27821,7,"Action, Fantasy, Magic, Shounen, Supernatural",Special,281,4
+29409,813,10,"Action, Adventure, Comedy, Fantasy, Martial Arts, Shounen, Super Power",TV,27,5
+32360,4596,6,"Action, Mecha, Military, School, Super Power",OVA,325,3
+47341,1,7,"Action, Adventure, Comedy, Drama, Sci-Fi, Space",TV,14,5
+7593,456,9,"Comedy, School, Slice of Life",TV,733,5
+11598,4186,9,"Action, Adventure, Fantasy, School, Sci-Fi",TV,89,5
+35900,13759,10,"Comedy, Drama, Romance, School, Slice of Life",TV,539,5
+61460,4177,8,"Action, Military, Sci-Fi",ONA,345,2
+19778,4901,6,"Action, Seinen",OVA,370,3
+63076,25241,5,Comedy,ONA,489,2
+662,1726,6,"Action, Demons, Fantasy",TV,204,5
+30431,120,9,"Comedy, Drama, Fantasy, Romance, Shoujo, Slice of Life",TV,513,5
+60478,746,10,"Comedy, Drama, Romance, Yaoi",OVA,548,3
+39021,3731,9,"Comedy, Romance, Shoujo",TV,715,5
+102,99,7,"Comedy, Drama, Fantasy, Magic",TV,509,5
+26348,1887,7,"Comedy, Parody, School, Slice of Life",TV,693,5
+27976,31637,8,"Action, Adventure, Fantasy, Military",TV,88,5
+59233,1965,10,"Drama, Romance, Slice of Life, Supernatural",TV,844,5
+28240,1562,7,"Comedy, Shoujo",TV,745,5
+40768,857,9,"Action, Comedy, Ecchi, Shounen, Sports",TV,147,5
+30083,8726,9,"Comedy, Slice of Life",TV,751,5
+23257,3712,10,"Action, Adventure, Comedy, Ecchi, Fantasy, Harem, Magic, Romance, School",TV,18,5
+1721,2123,7,"Action, Adventure, Fantasy, Sci-Fi",Movie,90,0
+46583,28701,7,"Action, Fantasy, Magic, Shounen, Supernatural",TV,281,5
+67348,1121,7,"Adventure, Comedy, Drama, Fantasy, Kids",Movie,389,0
+18257,1571,7,"Comedy, Horror, Mystery, Shoujo, Supernatural",TV,657,5
+2873,7103,10,"Fantasy, Shoujo",TV,880,5
+50396,11759,10,"Action, Game, Romance, School, Sci-Fi",TV,293,5
+72158,20,9,"Action, Comedy, Martial Arts, Shounen, Super Power",TV,170,5
+25523,3457,6,"Drama, Mystery, Romance, Shoujo, Supernatural, Vampire",TV,822,5
+61368,25907,6,Sci-Fi,Movie,954,0
+26932,317,7,"Action, Fantasy, Super Power",Movie,289,0
+32340,11771,10,"Comedy, School, Shounen, Sports",TV,732,5
+25663,2993,7,"Comedy, Ecchi, Fantasy, Harem, Romance, School, Shounen, Vampire",TV,566,5
+62287,1195,10,"Action, Adventure, Comedy, Ecchi, Fantasy, Harem, Magic, Romance, School",TV,18,5
+35440,1575,10,"Action, Mecha, Military, School, Sci-Fi, Super Power",TV,324,5
+37189,13601,10,"Action, Police, Psychological, Sci-Fi",TV,358,5
+4063,1530,10,"Drama, Romance, Slice of Life, Supernatural",TV,844,5
+41557,19365,5,"Action, Comedy, Parody",TV,180,5
+11080,1890,6,"Drama, Fantasy, Music, Sci-Fi, Shoujo",Music,772,1
+9668,18897,9,"Comedy, Harem, Romance, School, Shounen",TV,647,5
+66731,346,7,"Drama, Harem, Romance, School, Slice of Life",TV,789,5
+721,3470,7,"Comedy, Romance, School, Shoujo",TV,702,5
+40485,274,7,"Action, Ecchi, Mecha, Sci-Fi, Super Power",TV,269,5
+45804,19221,8,"Comedy, Romance, School",TV,698,5
+40460,11499,8,"Comedy, Ecchi, Horror, Romance, Shounen, Supernatural",TV,593,5
+6390,3702,8,"Comedy, Music",OVA,673,3
+5245,11757,9,"Action, Adventure, Fantasy, Game, Romance",TV,75,5
+33571,4898,10,"Action, Comedy, Demons, Fantasy, Historical, Shounen, Supernatural",TV,121,5
+49420,2941,7,"Action, Mecha, Sci-Fi",Movie,337,0
+11456,1222,9,"Drama, Romance, Shoujo, Slice of Life",TV,841,5
+54381,523,10,"Adventure, Comedy, Supernatural",Movie,435,0
+65505,11771,9,"Comedy, School, Shounen, Sports",TV,732,5
+1329,9756,7,"Drama, Magic, Psychological, Thriller",TV,806,5
+23214,317,7,"Action, Fantasy, Super Power",Movie,289,0
+18535,12729,7,"Comedy, Demons, Ecchi, Romance, School",OVA,492,3
+3597,3292,8,"Comedy, School, Seinen",Special,725,4
+27776,760,7,"Adventure, Drama, Martial Arts, Romance, Shounen, Supernatural",Movie,449,0
+54526,223,8,"Adventure, Comedy, Fantasy, Martial Arts, Shounen, Super Power",TV,412,5
+16043,3652,6,"Comedy, Mystery, Psychological, Supernatural, Thriller",OVA,682,3
+31374,10536,7,"Comedy, Romance, Shoujo",Special,715,4
+73059,527,9,"Action, Adventure, Comedy, Fantasy, Kids",TV,23,5
+50045,3420,8,"Drama, Fantasy, Psychological, Supernatural, Thriller",TV,775,5
+8031,969,10,"Action, Adventure, Drama, Fantasy, Mystery, Romance, Shounen, Supernatural",TV,60,5
+21531,7674,9,"Comedy, Romance, Shounen",TV,716,5
+16207,345,7,"Drama, Historical, Romance, Seinen, Slice of Life",TV,796,5
+54744,20787,5,"Action, Mystery, Sci-Fi, Seinen",TV,350,5
+25577,4382,4,"Comedy, Mystery, Parody, Romance, School, Sci-Fi, Slice of Life",TV,679,5
+23066,7610,5,"Fantasy, Historical",Movie,867,0
+58485,621,8,"Action, Comedy, Horror, Mystery, Vampire",TV,164,5
+66769,463,5,"Action, Adventure, Comedy, Fantasy, Shounen, Super Power",Movie,34,0
+42470,16417,8,"Comedy, Slice of Life",TV,751,5
+56694,9617,7,"Comedy, Music, Slice of Life",Movie,677,0
+67565,25567,8,"Drama, Psychological, Sci-Fi, Shounen Ai",Special,828,4
+40390,11111,10,"Horror, Mystery, School, Supernatural, Thriller",TV,905,5
+66742,1089,8,"Action, Mecha, Military, Music, Romance, Sci-Fi, Space",Movie,321,0
+64677,28999,7,"Drama, School, Super Power",TV,850,5
+21195,226,10,"Action, Drama, Horror, Psychological, Romance, Seinen, Supernatural",TV,228,5
+58624,22199,10,"Action, Adventure, Fantasy",TV,73,5
+49296,4450,8,"Adventure, Comedy, Demons, Historical, Supernatural",Special,385,4
+47787,3407,8,"Action, Sci-Fi",TV,365,5
+47445,627,10,"Comedy, Drama, Shounen, Sports",TV,555,5
+64172,9041,7,"Action, Comedy, Harem, Mecha, Sci-Fi",TV,160,5
+1090,597,9,"Adventure, Drama, Fantasy",Movie,439,0
+37125,6746,10,"Action, Mystery, Supernatural",TV,356,5
+48259,1,10,"Action, Adventure, Comedy, Drama, Sci-Fi, Space",TV,14,5
+73041,11771,7,"Comedy, School, Shounen, Sports",TV,732,5
+1148,9253,10,"Sci-Fi, Thriller",TV,957,5
+20293,14227,9,"Comedy, Romance, School, Shoujo, Slice of Life",TV,703,5
+73356,101,7,"Drama, Romance, Slice of Life, Supernatural",TV,844,5
+58319,1688,9,"Magic, Romance, School",TV,914,5
+6242,9712,7,"Comedy, Parody, School, Shoujo Ai",TV,691,5
+35646,10080,8,"Comedy, Harem, Romance, Shounen, Supernatural",TV,651,5
+47787,4280,9,"Action, Mystery, Supernatural, Thriller",Movie,357,0
+22244,4744,6,"Comedy, Harem, Romance, School",TV,643,5
+43565,9919,9,"Action, Demons, Fantasy, Shounen, Supernatural",TV,207,5
+41235,9041,8,"Action, Comedy, Harem, Mecha, Sci-Fi",TV,160,5
+58789,743,8,"Drama, Romance, School, Slice of Life",Special,836,4
+15779,2476,7,"Drama, Harem, Romance, School",TV,788,5
+17700,21373,7,"Action, Comedy, Ecchi",Special,133,4
+21184,24075,9,"Adventure, Mystery, School, Sci-Fi, Super Power, Supernatural",TV,483,5
+45089,17505,7,"Action, Fantasy, Historical, Martial Arts, Samurai, Shounen, Super Power",TV,275,5
+26821,15809,8,"Comedy, Demons, Fantasy, Romance, Shounen",TV,495,5
+46345,11617,8,"Comedy, Demons, Ecchi, Harem, Romance, School",TV,491,5
+36427,23227,8,"Comedy, Romance, Seinen, Slice of Life",OVA,714,3
+28615,9756,10,"Drama, Magic, Psychological, Thriller",TV,806,5
+21572,31098,9,"Comedy, Demons, Shounen, Supernatural",TV,496,5
+61162,392,10,"Action, Comedy, Demons, Fantasy, Martial Arts, School, Shounen",TV,122,5
+49776,5940,4,"Action, Adventure, Fantasy",TV,73,5
+54684,189,9,"Comedy, Ecchi, Harem, Romance, Shounen, Slice of Life",TV,588,5
+49298,1214,7,"Comedy, Drama, Seinen, Slice of Life",TV,554,5
+39426,6974,7,"Comedy, Mystery, School, Sci-Fi, Supernatural",TV,685,5
+17095,62,8,"Drama, Harem, Magic, Romance",TV,785,5
+16180,21177,5,"Action, Historical, Mecha, Sci-Fi",TV,298,5
+16939,8247,8,"Action, Comedy, Shounen, Super Power, Supernatural",Movie,198,0
+30153,20583,10,"Comedy, Drama, School, Shounen, Sports",TV,550,5
+31808,31704,8,"Action, Comedy, Parody, Sci-Fi, Seinen, Super Power, Supernatural",OVA,181,3
+12480,12291,8,"Comedy, Romance, School, Seinen, Slice of Life",TV,701,5
+25497,20509,7,"Action, Comedy, Fantasy, Magic",TV,152,5
+67725,12067,9,"Action, Historical, Romance, Samurai",Special,301,4
+43857,430,9,"Comedy, Drama, Fantasy, Historical, Military, Shounen",Movie,508,0
+26996,1943,9,"Fantasy, Horror, Mystery, Psychological, Sci-Fi, Thriller",Movie,871,0
+6998,4382,5,"Comedy, Mystery, Parody, Romance, School, Sci-Fi, Slice of Life",TV,679,5
+65112,9253,7,"Sci-Fi, Thriller",TV,957,5
+53162,23251,9,"Comedy, Shounen, Supernatural",TV,750,5
+60707,1535,10,"Mystery, Police, Psychological, Supernatural, Thriller",TV,927,5
+51375,2237,7,"Comedy, Mystery",Special,678,4
+27557,15583,6,"Comedy, Harem, Mecha, Romance, School, Sci-Fi",TV,637,5
+58462,8557,7,"Comedy, Shounen, Slice of Life",TV,748,5
+41458,1535,9,"Mystery, Police, Psychological, Supernatural, Thriller",TV,927,5
+4945,853,10,"Comedy, Harem, Romance, School, Shoujo",TV,646,5
+57906,20,9,"Action, Comedy, Martial Arts, Shounen, Super Power",TV,170,5
+7087,164,9,"Action, Adventure, Fantasy",Movie,73,0
+4449,23945,9,"Comedy, Ecchi, Fantasy, Magic, School, Shounen",TV,570,5
+10654,25839,4,"Comedy, Harem, Romance, Shoujo, Slice of Life",ONA,650,2
+55726,10793,8,"Action, Drama, Sci-Fi, Super Power",TV,253,5
+33480,1372,7,"Action, Comedy, Police, Seinen",TV,182,5
+35018,6547,9,"Action, Comedy, Drama, School, Supernatural",TV,132,5
+46369,14967,8,"Comedy, Harem, Romance, School, Seinen, Slice of Life",TV,644,5
+60349,21743,9,"Action, Historical, Shoujo",TV,303,5
+18911,987,5,"Action, Adventure, Comedy, Fantasy, Martial Arts, Shounen, Super Power",Special,27,4
+37177,6675,10,"Action, Cars, Sci-Fi, Sports",Movie,117,0
+28311,1482,8,"Action, Adventure, Comedy, Shounen",TV,45,5
+4749,154,7,"Action, Adventure, Comedy, Drama, Shounen, Supernatural",TV,16,5
+40672,8861,8,"Drama, Ecchi, Harem, Romance",TV,765,5
+10965,196,7,"Comedy, Drama, Harem, School, Sci-Fi",TV,519,5
+29255,10379,8,"Drama, Fantasy, Shoujo, Slice of Life, Supernatural",TV,781,5
+5017,2349,7,"Hentai, Psychological",OVA,894,3
+18041,14513,9,"Action, Adventure, Fantasy, Magic, Shounen",TV,84,5
+5254,2418,9,"Action, Adventure, Historical, Samurai",Movie,96,0
+24825,16706,8,"Comedy, Harem, Romance, Shounen, Supernatural",TV,651,5
+40912,417,6,"Action, Fantasy, Magic",TV,277,5
+6442,48,8,"Adventure, Fantasy, Game, Magic, Mystery, Sci-Fi",TV,462,5
+58839,4224,10,"Comedy, Romance, School, Slice of Life",TV,707,5
+511,79,8,"Comedy, Drama, Ecchi, Fantasy, Harem, Magic, Romance, School, Seinen",TV,499,5
+50396,807,9,"Action, Adventure, Drama, Fantasy, Shounen",Movie,63,0
+64432,27775,9,"Drama, Romance, Sci-Fi",TV,838,5
+34325,10620,10,"Action, Mystery, Psychological, Shounen, Supernatural, Thriller",TV,348,5
+56277,12549,6,"Comedy, Ecchi, Romance, Supernatural",TV,609,5
+5573,3594,8,"Action, Adventure, Fantasy, Magic",TV,80,5
+70360,28223,6,"Drama, Game, Mystery, Psychological, Thriller",TV,783,5
+11867,25045,7,Comedy,ONA,489,2
+54079,330,9,"Comedy, Drama, Ecchi, Romance, Shounen",TV,504,5
+66974,3230,8,"Adventure, Comedy, Fantasy",TV,402,5
+72370,109,8,"Adventure, Comedy, Mecha, Sci-Fi",TV,425,5
+23201,4898,9,"Action, Comedy, Demons, Fantasy, Historical, Shounen, Supernatural",TV,121,5
+57214,18397,9,"Action, Drama, Fantasy, Shounen, Super Power",OVA,220,3
+57757,218,7,"Action, Comedy, Mecha, Military, Parody, Romance, Sci-Fi, Shounen, Space",TV,172,5
+7459,20057,9,"Comedy, Sci-Fi, Space",TV,742,5
+12730,251,9,"Adventure, Comedy, Demons, Fantasy, Shoujo",TV,384,5
+41690,1530,7,"Drama, Romance, Slice of Life, Supernatural",TV,844,5
+3482,13161,10,"Action, Ecchi, Fantasy, Super Power",TV,260,5
+47262,6381,8,"Action, Ecchi, Magic, Military, Sci-Fi",TV,266,5
+29069,741,5,"Comedy, Drama, Hentai, Romance, Yaoi",OVA,520,3
+66885,62,7,"Drama, Harem, Magic, Romance",TV,785,5
+8906,13125,9,"Drama, Horror, Mystery, Sci-Fi, Supernatural",TV,803,5
+8319,587,8,"Comedy, Drama, Romance",TV,533,5
+40655,119,8,"Comedy, Drama, Romance, Slice of Life",TV,547,5
+1425,18195,10,"Comedy, Drama, Romance, School, Slice of Life, Supernatural",TV,540,5
+25765,20541,7,"Comedy, Romance, School, Slice of Life",TV,707,5
+59383,223,8,"Adventure, Comedy, Fantasy, Martial Arts, Shounen, Super Power",TV,412,5
+8402,857,8,"Action, Comedy, Ecchi, Shounen, Sports",TV,147,5
+57868,290,9,"Action, Military, Romance, Sci-Fi, Space",TV,344,5
+41677,5909,5,"Comedy, Harem, Parody, School",TV,641,5
+8448,10156,7,"Action, School, Sci-Fi, Super Power",TV,362,5
+73133,746,5,"Comedy, Drama, Romance, Yaoi",OVA,548,3
+58811,846,6,"Comedy, Romance, School, Shounen",TV,704,5
+33226,4063,8,"Action, Comedy, Ecchi, Harem, Super Power",TV,141,5
+166,20507,7,"Action, Adventure, Shounen, Supernatural",TV,112,5
+59050,1827,7,"Action, Adventure, Fantasy, Historical",TV,77,5
+41458,18897,8,"Comedy, Harem, Romance, School, Shounen",TV,647,5
+22080,22789,9,"Comedy, Slice of Life",TV,751,5
+9032,743,7,"Drama, Romance, School, Slice of Life",Special,836,4
+27163,9617,7,"Comedy, Music, Slice of Life",Movie,677,0
+57319,552,7,"Action, Adventure, Comedy, Fantasy, Kids",TV,23,5
+41818,469,6,"Comedy, Romance, School, Shounen, Vampire",TV,706,5
+19995,18115,8,"Action, Adventure, Fantasy, Magic, Shounen",TV,84,5
+19265,9513,10,"Action, Comedy, Demons, School, Shounen, Supernatural",TV,124,5
+8149,22547,5,"Action, Adventure, Fantasy, Martial Arts",TV,86,5
+56374,8086,8,"Action, Adventure, Fantasy, Magic, Shounen",TV,84,5
+26451,18497,7,"Action, Comedy, Magic, Shounen, Super Power, Supernatural",TV,165,5
+71605,16662,9,"Drama, Historical, Romance",Movie,794,0
+29122,10793,7,"Action, Drama, Sci-Fi, Super Power",TV,253,5
+3573,18897,9,"Comedy, Harem, Romance, School, Shounen",TV,647,5
+32055,10719,10,"Comedy, Ecchi, Harem, Romance, School, Seinen, Slice of Life",TV,582,5
+72414,9515,8,"Comedy, Ecchi, Supernatural",OVA,620,3
+72337,4224,10,"Comedy, Romance, School, Slice of Life",TV,707,5
+18591,995,10,"Action, Comedy, Shounen, Sports",OVA,197,3
+16784,18095,7,"Comedy, Ecchi, Romance, School",TV,599,5
+28574,762,6,"Action, Adventure, Drama, Shounen, Supernatural",Special,70,4
+19675,24439,9,"Action, Fantasy, Shounen, Super Power, Supernatural, Vampire",TV,288,5
+27768,465,9,"Adventure, Comedy, Fantasy, Shounen",Movie,416,0
+65370,467,10,"Action, Mecha, Military, Police, Sci-Fi, Seinen",TV,323,5
+64938,5112,8,"Comedy, Ecchi, Fantasy, Romance",TV,572,5
+2783,19369,7,"Comedy, Fantasy, Harem, Parody",TV,624,5
+3338,23289,8,"Comedy, Romance, School",TV,698,5
+18813,15583,8,"Comedy, Harem, Mecha, Romance, School, Sci-Fi",TV,637,5
+505,366,7,"Action, Adventure, Comedy, Ecchi, Sci-Fi",OVA,20,3
+29496,1313,6,"Action, Adventure, Comedy, Drama, Fantasy, Kids",TV,6,5
+34822,523,10,"Adventure, Comedy, Supernatural",Movie,435,0
+58103,62,7,"Drama, Harem, Magic, Romance",TV,785,5
+23696,296,10,"Action, Adventure, Comedy, Fantasy, School, Sci-Fi, Shounen",TV,31,5
+35561,18229,9,"Adventure, Sci-Fi",TV,485,5
+58858,2966,9,"Adventure, Fantasy, Historical, Romance",TV,465,5
+56757,8705,4,Comedy,Special,489,4
+7490,2994,9,"Mystery, Police, Psychological, Supernatural, Thriller",Special,927,4
+26192,10740,7,"Adventure, Comedy, Drama, Fantasy, Kids",Movie,389,0
+50807,849,9,"Comedy, Mystery, Parody, School, Sci-Fi, Slice of Life",TV,680,5
+22467,4901,7,"Action, Seinen",OVA,370,3
+15740,27989,8,"Drama, Music, School",TV,819,5
+53337,1887,6,"Comedy, Parody, School, Slice of Life",TV,693,5
+57827,2001,10,"Action, Adventure, Comedy, Mecha, Sci-Fi",TV,41,5
+45184,4975,6,"Harem, Mystery, Psychological, Sci-Fi, Supernatural",TV,890,5
+7789,257,7,"Ecchi, Martial Arts, School, Super Power",TV,858,5
+16699,351,8,"Comedy, Magic, Shoujo",TV,668,5
+66819,33,9,"Action, Adventure, Demons, Drama, Fantasy, Horror, Military, Romance, Seinen, Supernatural",TV,49,5
+17320,2966,8,"Adventure, Fantasy, Historical, Romance",TV,465,5
+39008,135,10,"Comedy, Game, Shounen, Supernatural",TV,636,5
+2729,9181,6,"Comedy, Ecchi, Harem, School, Sci-Fi, Shounen",TV,590,5
+73323,20,10,"Action, Comedy, Martial Arts, Shounen, Super Power",TV,170,5
+2926,19769,9,"Action, Fantasy, Magic",TV,277,5
+73175,1734,3,"Comedy, Drama, Romance, School",ONA,534,2
+58180,8915,7,"Action, Historical, Mystery, Supernatural",TV,300,5
+21177,11759,8,"Action, Game, Romance, School, Sci-Fi",TV,293,5
+47074,2904,10,"Action, Drama, Mecha, Military, Sci-Fi, Super Power",TV,238,5
+45756,10080,9,"Comedy, Harem, Romance, Shounen, Supernatural",TV,651,5
+3479,33558,7,"Action, Fantasy",Special,273,4
+49059,5136,6,Action,Movie,0,0
+15221,6401,7,Music,Special,922,4
+27862,9874,8,"Fantasy, Magic",OVA,876,3
+6784,7193,10,"Drama, Historical, Psychological, Seinen, Thriller",TV,793,5
+2632,246,8,"Adventure, Comedy, Fantasy, Romance, Shounen",TV,414,5
+61348,4059,8,"Drama, Romance, School, Slice of Life",Special,836,4
+34691,16706,10,"Comedy, Harem, Romance, Shounen, Supernatural",TV,651,5
+47842,20,8,"Action, Comedy, Martial Arts, Shounen, Super Power",TV,170,5
+13131,25649,10,"Comedy, Drama, Romance, Shounen Ai",TV,544,5
+51075,167,9,"Adventure, Comedy, Drama, Fantasy, Mecha, Sci-Fi, Shounen",TV,392,5
+68086,9510,8,"Comedy, School, Slice of Life",TV,733,5
+11050,1117,7,"Adventure, Comedy, Drama, Fantasy, Kids",Movie,389,0
+31948,22547,6,"Action, Adventure, Fantasy, Martial Arts",TV,86,5
+49208,1710,5,"Action, Adventure, Comedy, Game, Mecha, Sci-Fi, Shounen",TV,36,5
+6200,297,7,"Action, Adventure, Comedy, Ecchi, Shounen",TV,21,5
+41181,189,5,"Comedy, Ecchi, Harem, Romance, Shounen, Slice of Life",TV,588,5
+48950,451,10,"Adventure, Comedy, Demons, Drama, Fantasy, Historical, Romance, Shounen, Supernatural",Movie,381,0
+24236,22839,10,"School, Slice of Life",Special,953,4
+20251,13093,9,"Ecchi, Mystery, Romance, Seinen",OVA,860,3
+50990,477,7,"Fantasy, Sci-Fi, Shounen, Slice of Life",TV,879,5
+51676,4087,7,"Action, Adventure",TV,1,5
+43642,73,8,"Action, Mecha, Military",TV,320,5
+43503,13333,7,"Music, School, Slice of Life",TV,923,5
+41320,245,7,"Comedy, Drama, School, Shounen, Slice of Life",TV,549,5
+11774,23283,10,"Psychological, Thriller",TV,941,5
+35928,12365,6,"Comedy, Drama, Romance, Shounen",TV,543,5
+22985,6746,8,"Action, Mystery, Supernatural",TV,356,5
+39654,5681,9,"Comedy, Sci-Fi",Movie,737,0
+35444,356,8,"Action, Fantasy, Magic, Romance, Supernatural",TV,280,5
+32117,5114,10,"Action, Adventure, Drama, Fantasy, Magic, Military, Shounen",TV,59,5
+20761,437,6,"Dementia, Drama, Horror, Psychological",Movie,755,0
+32478,16918,10,"Comedy, School, Shounen, Slice of Life",TV,731,5
+11546,72,9,"Action, Comedy, School",TV,186,5
+68947,24377,10,Hentai,OVA,893,3
+56562,6165,8,"Drama, Harem, Music, Romance",TV,786,5
+37870,223,9,"Adventure, Comedy, Fantasy, Martial Arts, Shounen, Super Power",TV,412,5
+48355,30,7,"Action, Dementia, Drama, Mecha, Psychological, Sci-Fi",TV,202,5
+64894,11757,10,"Action, Adventure, Fantasy, Game, Romance",TV,75,5
+39440,11499,10,"Comedy, Ecchi, Horror, Romance, Shounen, Supernatural",TV,593,5
+10844,2001,9,"Action, Adventure, Comedy, Mecha, Sci-Fi",TV,41,5
+69596,16904,7,"Action, Super Power, Supernatural",Movie,375,0
+72630,31848,8,"Comedy, Slice of Life",TV,751,5
+63185,28927,7,"Action, Drama, Shounen, Supernatural, Vampire",TV,256,5
+65159,23441,8,"Comedy, Romance, Shounen Ai",OVA,717,3
+43583,22433,7,"Action, Fantasy, Mecha, Military, Shounen",TV,282,5
+22949,11617,10,"Comedy, Demons, Ecchi, Harem, Romance, School",TV,491,5
+33739,23755,9,"Action, Adventure, Ecchi, Fantasy, Shounen, Supernatural",TV,72,5
+25114,227,9,"Action, Comedy, Dementia, Mecha, Parody, Sci-Fi",OVA,118,3
+47692,4382,9,"Comedy, Mystery, Parody, Romance, School, Sci-Fi, Slice of Life",TV,679,5
+38460,22535,8,"Action, Drama, Horror, Psychological, Sci-Fi, Seinen",TV,229,5
+2048,7311,8,"Comedy, Mystery, Romance, School, Sci-Fi, Supernatural",Movie,683,0
+26551,2167,10,"Comedy, Drama, Romance, School, Slice of Life, Supernatural",TV,540,5
+11755,10863,8,"Sci-Fi, Thriller",Special,957,4
+56695,5341,9,"Adventure, Fantasy, Historical, Romance",TV,465,5
+66731,667,7,"Comedy, Drama, Romance, School, Shoujo Ai, Slice of Life",TV,536,5
+8115,12883,8,"Comedy, Sci-Fi, Slice of Life, Sports",TV,741,5
+20192,22687,9,"Action, Drama, Horror, Sci-Fi, Seinen, Space",TV,232,5
+19391,7311,10,"Comedy, Mystery, Romance, School, Sci-Fi, Supernatural",Movie,683,0
+65085,15751,6,"Action, Comedy, Fantasy, Parody, Shounen",TV,155,5
+63992,3011,6,"Romance, School",OVA,943,3
+41782,3375,10,"Comedy, Drama, Romance, Yaoi",OVA,548,3
+39220,15673,8,Music,Music,922,1
+23512,7266,7,Hentai,OVA,893,3
+38429,27775,9,"Drama, Romance, Sci-Fi",TV,838,5
+45314,12149,10,"Music, Sci-Fi",TV,924,5
+30597,8630,6,"Action, Comedy, Romance, School",TV,183,5
+19598,6033,8,"Action, Adventure, Comedy, Fantasy, Martial Arts, Shounen, Super Power",TV,27,5
+27551,13601,9,"Action, Police, Psychological, Sci-Fi",TV,358,5
+68171,1571,10,"Comedy, Horror, Mystery, Shoujo, Supernatural",TV,657,5
+45017,11021,10,"Action, Mecha, Military, Sci-Fi",TV,326,5
+8429,11837,7,"Action, Drama, Horror, Romance, Sci-Fi, Seinen, Supernatural",TV,231,5
+29392,5681,10,"Comedy, Sci-Fi",Movie,737,0
+34261,8795,10,"Action, Comedy, Ecchi, Parody, Supernatural",TV,143,5
+37656,9756,8,"Drama, Magic, Psychological, Thriller",TV,806,5
+30695,7311,9,"Comedy, Mystery, Romance, School, Sci-Fi, Supernatural",Movie,683,0
+10438,1302,8,"Adventure, Drama, Sci-Fi, Space",Movie,457,0
+58839,3032,10,"Adventure, Drama, Sci-Fi, Shounen",Movie,455,0
+48888,450,9,"Adventure, Demons, Drama, Fantasy, Historical, Romance, Shounen, Supernatural",Movie,436,0
+13298,792,7,"Adventure, Comedy, Shounen",Movie,432,0
+518,7059,7,"Action, Drama, School, Slice of Life",OVA,250,3
+5741,8074,7,"Action, Ecchi, Horror, Supernatural",TV,265,5
+27233,48,10,"Adventure, Fantasy, Game, Magic, Mystery, Sci-Fi",TV,462,5
+17774,5277,6,"Action, Comedy, Ecchi, Harem, Super Power",TV,141,5
+41484,687,8,"Adventure, Comedy, Fantasy, Magic, Romance, Sci-Fi, Shoujo, Supernatural",TV,409,5
+61349,5525,6,"Action, Demons, Fantasy, Magic, Military, Shoujo",TV,206,5
+58661,1575,6,"Action, Mecha, Military, School, Sci-Fi, Super Power",TV,324,5
+67372,19685,8,"Comedy, Harem, Romance, School",TV,643,5
+73047,223,6,"Adventure, Comedy, Fantasy, Martial Arts, Shounen, Super Power",TV,412,5
+559,8740,10,"Action, Adventure, Comedy, Fantasy, Shounen, Super Power",OVA,34,3
+9032,11769,9,"Comedy, Ecchi, School, Seinen, Shoujo Ai",TV,612,5
+21832,17074,9,"Comedy, Mystery, Romance, Supernatural, Vampire",TV,684,5
+26511,2508,6,"Comedy, Parody, Slice of Life",TV,696,5
+43213,18753,8,"Comedy, Romance, School",OVA,698,3
+72095,8086,9,"Action, Adventure, Fantasy, Magic, Shounen",TV,84,5
+70397,1482,9,"Action, Adventure, Comedy, Shounen",TV,45,5
+26005,10611,8,"Comedy, Ecchi, Harem, Romance, School",TV,578,5
+446,10681,5,"Action, Horror, Supernatural, Vampire",Movie,316,0
+53589,981,9,"Comedy, Ecchi, Harem, Romance, School, Shounen",OVA,583,3
+11718,5784,6,"Drama, Romance, Sci-Fi, Yaoi",OVA,840,3
+38011,21855,10,"Comedy, Mystery, Supernatural",TV,686,5
+54667,134,9,"Action, Drama, Military, Psychological, Sci-Fi",TV,241,5
+64354,223,8,"Adventure, Comedy, Fantasy, Martial Arts, Shounen, Super Power",TV,412,5
+1865,20031,9,"Comedy, Game, School, Seinen",TV,635,5
+11611,11266,7,"Action, Demons, Fantasy, Shounen, Supernatural",Special,207,4
+21957,146,9,"Comedy, Drama, Magic, Romance, Sci-Fi",TV,523,5
+20204,13271,8,"Action, Adventure, Shounen, Super Power",Movie,111,0
+67976,199,6,"Adventure, Drama, Supernatural",Movie,458,0
+31855,24211,7,"Comedy, Fantasy, Shoujo",TV,631,5
+64982,28623,6,"Action, Drama, Fantasy, Horror",TV,211,5
+71253,20583,8,"Comedy, Drama, School, Shounen, Sports",TV,550,5
+7412,3712,8,"Action, Adventure, Comedy, Ecchi, Fantasy, Harem, Magic, Romance, School",TV,18,5
+19760,4752,9,"Drama, Mystery, Romance, Shoujo, Supernatural, Vampire",TV,822,5
+62519,28171,9,"Ecchi, School, Shounen",TV,864,5
+23583,7079,6,"Action, Horror, Mystery, Supernatural",TV,309,5
+1973,14741,6,"Comedy, Drama, Romance, School, Slice of Life",TV,539,5
+61770,13469,7,Slice of Life,OVA,960,3
+64523,57,10,"Comedy, Drama, Music, Shounen, Slice of Life",TV,526,5
+36665,14467,10,"Action, Super Power, Supernatural",TV,375,5
+33055,1313,7,"Action, Adventure, Comedy, Drama, Fantasy, Kids",TV,6,5
+17947,14467,10,"Action, Super Power, Supernatural",TV,375,5
+7180,18,6,"Action, Cars, Drama, Seinen, Sports",TV,116,5
+57467,15109,6,"Action, Comedy, Mystery, Shounen, Supernatural",TV,179,5
+73340,376,5,"Drama, Ecchi, Horror, Psychological, Supernatural",Special,766,4
+7760,1579,9,"Comedy, Drama, Harem, Magic, Music, Romance, School, Shoujo",TV,516,5
+3059,23441,9,"Comedy, Romance, Shounen Ai",OVA,717,3
+67009,1698,8,"Comedy, Drama, Josei, Music, Romance, Slice of Life",TV,521,5
+2941,12355,7,"Fantasy, Slice of Life",Movie,883,0
+6184,16916,10,"Comedy, School, Shounen, Sports",Special,732,4
+28343,5258,10,"Comedy, Drama, Shounen, Sports",TV,555,5
+35018,578,8,"Drama, Historical",Movie,790,0
+23417,3588,7,"Action, Adventure, Comedy, Fantasy, Shounen, Supernatural",TV,35,5
+46133,11111,6,"Horror, Mystery, School, Supernatural, Thriller",TV,905,5
+48715,9989,9,"Drama, Slice of Life, Supernatural",TV,855,5
+52971,746,7,"Comedy, Drama, Romance, Yaoi",OVA,548,3
+62457,3927,8,"Action, Drama, Mecha, Military, Sci-Fi, Space",TV,237,5
+58842,3228,6,"Comedy, Parody, School",TV,690,5
+16613,15315,9,"Comedy, Fantasy, Supernatural",TV,634,5
+25497,740,6,"Demons, Magic, Romance, Shoujo",TV,762,5
+54700,8536,7,"Comedy, Romance, School, Supernatural, Vampire",TV,710,5
+14762,33082,9,Action,Movie,0,0
+10447,2986,8,"Comedy, School, Seinen, Sports",TV,727,5
+46556,9989,5,"Drama, Slice of Life, Supernatural",TV,855,5
+24160,18247,7,"Action, Comedy, Harem, Mecha, Sci-Fi",TV,160,5
+17422,6702,7,"Action, Adventure, Comedy, Fantasy, Magic, Shounen",TV,25,5
+23838,2472,8,"Action, Adventure, Comedy, Fantasy, Shounen",Movie,33,0
+31447,225,6,"Action, Adventure, Comedy, Fantasy, Magic, Sci-Fi, Shounen, Super Power",TV,24,5
+41601,32729,9,"Drama, Romance, School, Sci-Fi, Shoujo",TV,832,5
+6515,2915,4,Drama,Movie,764,0
+59643,25397,5,"Action, Ecchi, Harem, Romance, School, Supernatural",TV,264,5
+60734,4548,6,"Action, Comedy, Magic, Shounen, Super Power, Supernatural",TV,165,5
+38105,5060,10,"Comedy, Historical, Parody",ONA,654,2
+54898,28223,9,"Drama, Game, Mystery, Psychological, Thriller",TV,783,5
+14013,31559,4,Sports,TV,961,5
+70725,7472,8,"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen",Movie,162,0
+45591,18153,7,"Fantasy, Slice of Life, Supernatural",TV,884,5
+26923,16524,8,"Action, Adventure, Mecha, Sci-Fi",TV,104,5
+63770,16353,8,"Comedy, Romance, School",TV,698,5
+66211,4010,8,"Demons, Hentai, School, Supernatural",OVA,761,3
+55603,4793,5,"Adventure, Comedy, Fantasy, Kids",Movie,405,0
+2194,16444,8,"Fantasy, Supernatural",OVA,885,3
+12233,14199,1,"Comedy, Ecchi, Harem, Romance, School",TV,578,5
+69583,11785,8,"Comedy, Parody, Sci-Fi",TV,694,5
+50761,517,7,"Comedy, Romance, School, Shounen",OVA,704,3
+2261,16498,9,"Action, Drama, Fantasy, Shounen, Super Power",TV,220,5
+43605,9756,9,"Drama, Magic, Psychological, Thriller",TV,806,5
+38698,14349,9,"Adventure, Comedy, Fantasy, Magic, School",Movie,410,0
+65512,22729,7,"Action, Mecha, Sci-Fi",TV,337,5
+6537,9938,5,"Historical, Seinen, Slice of Life",TV,899,5
+28697,30123,6,"Drama, Fantasy, Romance, Shoujo",TV,778,5
+18096,1482,9,"Action, Adventure, Comedy, Shounen",TV,45,5
+60559,1729,10,"Drama, School, Shoujo Ai, Slice of Life",OVA,849,3
+71779,6702,8,"Action, Adventure, Comedy, Fantasy, Magic, Shounen",TV,25,5
+8905,31994,8,"Dementia, Horror, Supernatural",TV,758,5
+3592,18195,8,"Comedy, Drama, Romance, School, Slice of Life, Supernatural",TV,540,5
+67626,987,8,"Action, Adventure, Comedy, Fantasy, Martial Arts, Shounen, Super Power",Special,27,4
+11420,4726,7,"Adventure, Fantasy",TV,461,5
+58429,8190,9,"Comedy, Josei, Romance",OVA,660,3
+47372,226,9,"Action, Drama, Horror, Psychological, Romance, Seinen, Supernatural",TV,228,5
+22821,442,6,"Adventure, Comedy, Drama, Historical, Shounen, Supernatural",Movie,396,0
+7808,11757,7,"Action, Adventure, Fantasy, Game, Romance",TV,75,5
+11776,226,3,"Action, Drama, Horror, Psychological, Romance, Seinen, Supernatural",TV,228,5
+43560,12175,8,"Drama, Romance, School",TV,830,5
+67451,570,7,"Drama, Military, Police, Psychological, Romance",Movie,811,0
+39861,8460,7,"Action, Shounen, Supernatural",OVA,374,3
+48216,7791,10,"Comedy, Music, School, Slice of Life",TV,675,5
+2848,300,6,"Action, Demons, Fantasy, Horror, Romance",OVA,205,3
+16485,3470,10,"Comedy, Romance, School, Shoujo",TV,702,5
+40683,19117,8,"Adventure, Drama, Romance",TV,453,5
+46299,265,8,"Comedy, Shounen, Sports",OVA,749,3
+48112,7059,6,"Action, Drama, School, Slice of Life",OVA,250,3
+58043,1869,8,"Comedy, Drama, Music, Romance, Shoujo, Slice of Life",Special,525,4
+28679,457,10,"Adventure, Fantasy, Historical, Mystery, Seinen, Slice of Life, Supernatural",TV,464,5
+72739,18153,5,"Fantasy, Slice of Life, Supernatural",TV,884,5
+58849,2385,7,"Comedy, Fantasy, Shounen",Movie,632,0
+861,3226,8,"Comedy, Drama, Shounen, Sports",TV,555,5
+15432,4654,8,"Action, Magic, Sci-Fi, Super Power",TV,319,5
+21129,758,7,"Action, Drama, Mecha, Psychological, Romance, Sci-Fi",Movie,240,0
+47075,6864,9,"Mystery, Supernatural",OVA,936,3
+20655,1138,6,"Adventure, Comedy, Sci-Fi, Shounen",TV,430,5
+28521,15605,8,"Harem, Romance, Shoujo",TV,892,5
+40834,5114,9,"Action, Adventure, Drama, Fantasy, Magic, Military, Shounen",TV,59,5
+51887,4224,9,"Comedy, Romance, School, Slice of Life",TV,707,5
+47159,7054,7,"Comedy, Romance, School, Shoujo",TV,702,5
+51876,8,7,"Adventure, Fantasy, Shounen, Supernatural",TV,475,5
+48353,2759,9,"Action, Mecha, Sci-Fi",Movie,337,0
+50745,11111,9,"Horror, Mystery, School, Supernatural, Thriller",TV,905,5
+1097,14513,8,"Action, Adventure, Fantasy, Magic, Shounen",TV,84,5
+611,31804,6,"Comedy, Seinen, Slice of Life",TV,744,5
+33480,277,7,"Comedy, Drama, Ecchi, Military, Romance, Sci-Fi",TV,502,5
+23727,1887,9,"Comedy, Parody, School, Slice of Life",TV,693,5
+57903,1033,6,"Action, Adventure, Drama, Fantasy, Historical, Romance",Movie,56,0
+18340,9930,8,Music,Music,922,1
+32710,4214,7,"Comedy, Ecchi, Fantasy, Harem, Romance, School, Vampire",TV,567,5
+11776,237,10,"Adventure, Drama, Mecha, Romance, Sci-Fi",TV,451,5
+48509,572,7,"Adventure, Fantasy",Movie,461,0
+22062,20973,6,"Action, Comedy, Fantasy",TV,149,5
+41027,11843,9,"Comedy, School, Shounen, Slice of Life",TV,731,5
+24533,2116,7,"Action, Shounen, Sports",TV,372,5
+49593,1,9,"Action, Adventure, Comedy, Drama, Sci-Fi, Space",TV,14,5
+22848,120,7,"Comedy, Drama, Fantasy, Romance, Shoujo, Slice of Life",TV,513,5
+45018,746,6,"Comedy, Drama, Romance, Yaoi",OVA,548,3
+18451,19163,9,"Comedy, Harem, Mecha, Romance, School, Sci-Fi",TV,637,5
+52697,13601,10,"Action, Police, Psychological, Sci-Fi",TV,358,5
+47765,29786,7,"Comedy, Ecchi, School",TV,610,5
+11108,853,10,"Comedy, Harem, Romance, School, Shoujo",TV,646,5
+21554,9515,1,"Comedy, Ecchi, Supernatural",OVA,620,3
+58024,1033,9,"Action, Adventure, Drama, Fantasy, Historical, Romance",Movie,56,0
+12310,32438,6,"Drama, Horror, Mystery, Psychological",TV,802,5
+24747,1546,9,"Adventure, Comedy, Ecchi, Fantasy, Harem, Magic, Romance, School, Supernatural",TV,400,5
+72030,13939,1,"Action, Game, Romance, School, Sci-Fi",OVA,293,3
+33650,6547,10,"Action, Comedy, Drama, School, Supernatural",TV,132,5
+53969,1,8,"Action, Adventure, Comedy, Drama, Sci-Fi, Space",TV,14,5
+52398,14467,7,"Action, Super Power, Supernatural",TV,375,5
+43812,31404,6,"Comedy, Ecchi, Game, Romance, School",TV,574,5
+6678,1559,10,"Action, Comedy, Martial Arts, School, Shounen",TV,169,5
+30444,25867,8,"Action, Adventure, Slice of Life, Super Power",TV,114,5
+29736,7791,7,"Comedy, Music, School, Slice of Life",TV,675,5
+21388,2167,10,"Comedy, Drama, Romance, School, Slice of Life, Supernatural",TV,540,5
+57302,4181,10,"Drama, Fantasy, Romance, Slice of Life, Supernatural",TV,779,5
+66301,2449,9,"Action, Mecha, Mystery, Police, Psychological, Sci-Fi, Seinen",Special,330,4
+44491,6213,8,"Action, Sci-Fi, Super Power",TV,369,5
+27501,1222,8,"Drama, Romance, Shoujo, Slice of Life",TV,841,5
+52090,4151,5,"Action, Adventure, Historical, Samurai, Supernatural",TV,98,5
+68349,5081,8,"Mystery, Romance, Supernatural, Vampire",TV,933,5
+29150,2472,7,"Action, Adventure, Comedy, Fantasy, Shounen",Movie,33,0
+58904,4999,8,"Comedy, Ecchi, Harem, Martial Arts, Romance, Shounen",TV,576,5
+50404,339,7,"Dementia, Drama, Mystery, Psychological, Sci-Fi, Supernatural",TV,757,5
+67324,1718,6,"Drama, Romance, Shoujo, Slice of Life",Special,841,4
+30350,8074,9,"Action, Ecchi, Horror, Supernatural",TV,265,5
+39326,26243,8,"Action, Drama, Shounen, Supernatural, Vampire",TV,256,5
+26559,1728,5,"Comedy, Shoujo, Slice of Life",TV,746,5
+49296,1261,10,"Action, Comedy, Mecha, Sci-Fi, Shounen, Super Power",TV,175,5
+20309,20,6,"Action, Comedy, Martial Arts, Shounen, Super Power",TV,170,5
+24554,14467,10,"Action, Super Power, Supernatural",TV,375,5
+30362,291,9,"Comedy, Drama, Harem, Romance, Supernatural",TV,518,5
+32023,4382,5,"Comedy, Mystery, Parody, Romance, School, Sci-Fi, Slice of Life",TV,679,5
+49639,13125,6,"Drama, Horror, Mystery, Sci-Fi, Supernatural",TV,803,5
+21244,10714,6,"Action, Super Power, Supernatural",Movie,375,0
+6162,1902,10,"Comedy, Fantasy",OVA,621,3
+54121,12031,8,"Action, Historical, Military, Seinen",TV,299,5
+25889,16518,6,"Adventure, Fantasy, Shounen",TV,474,5
+19593,573,8,"Action, Adventure, Comedy, Drama, Harem, Martial Arts, Mecha, Romance, Sci-Fi, Shounen",TV,10,5
+65414,934,8,"Horror, Mystery, Psychological, Supernatural, Thriller",TV,903,5
+6724,4999,8,"Comedy, Ecchi, Harem, Martial Arts, Romance, Shounen",TV,576,5
+18051,9760,6,"Adventure, Fantasy, Romance",Movie,471,0
+45732,16524,8,"Action, Adventure, Mecha, Sci-Fi",TV,104,5
+67745,1686,7,"Action, Adventure, Super Power",Movie,115,0
+56989,4186,7,"Action, Adventure, Fantasy, School, Sci-Fi",TV,89,5
+54914,19697,7,Comedy,Special,489,4
+12805,227,8,"Action, Comedy, Dementia, Mecha, Parody, Sci-Fi",OVA,118,3
+58216,237,10,"Adventure, Drama, Mecha, Romance, Sci-Fi",TV,451,5
+33055,482,7,"Action, Comedy, Fantasy, Game, Shounen",TV,150,5
+32858,10418,8,"Action, Horror, Sci-Fi",OVA,311,3
+36080,23283,9,"Psychological, Thriller",TV,941,5
+26845,392,8,"Action, Comedy, Demons, Fantasy, Martial Arts, School, Shounen",TV,122,5
+62309,178,10,"Comedy, Magic, Romance, School, Shoujo",TV,663,5
+44448,3594,8,"Action, Adventure, Fantasy, Magic",TV,80,5
+2859,9756,10,"Drama, Magic, Psychological, Thriller",TV,806,5
+45071,10794,8,"Action, Comedy, Harem, Mecha, Sci-Fi",OVA,160,3
+6344,3627,9,"Comedy, Drama, Fantasy, Harem, Romance",TV,507,5
+39286,5300,9,"Drama, Fantasy, Shoujo, Slice of Life, Supernatural",TV,781,5
+35362,27899,6,"Action, Drama, Horror, Mystery, Psychological, Seinen, Supernatural",TV,227,5
+26427,6694,7,Hentai,OVA,893,3
+62573,10715,10,"Action, Super Power, Supernatural",Movie,375,0
+6387,3455,8,"Comedy, Ecchi, Harem, Romance, School, Sci-Fi",TV,579,5
+14488,34240,8,"Music, Sci-Fi",Music,924,1
+55380,4059,7,"Drama, Romance, School, Slice of Life",Special,836,4
+63121,23623,9,"Comedy, School, Seinen, Slice of Life",TV,726,5
+2471,10165,10,"Comedy, School, Slice of Life",TV,733,5
+51269,10087,8,"Action, Fantasy, Supernatural",TV,290,5
+17079,2889,9,"Action, Adventure, Shounen, Supernatural",Movie,112,0
+5137,32681,5,"Action, Adventure, Comedy, Space",TV,48,5
+41659,853,9,"Comedy, Harem, Romance, School, Shoujo",TV,646,5
+528,532,8,"Drama, Magic, Romance, Shoujo",TV,807,5
+35154,23703,9,"Adventure, Sci-Fi",Special,485,4
+24327,1689,10,"Drama, Romance, Slice of Life",Movie,843,0
+10987,1852,7,"Comedy, School, Slice of Life",TV,733,5
+9920,23289,9,"Comedy, Romance, School",TV,698,5
+42688,13161,6,"Action, Ecchi, Fantasy, Super Power",TV,260,5
+31632,13601,10,"Action, Police, Psychological, Sci-Fi",TV,358,5
+44250,8525,9,"Comedy, Harem, Romance, Shounen, Supernatural",TV,651,5
+3439,14811,8,"Comedy, School, Slice of Life",TV,733,5
+57614,2418,9,"Action, Adventure, Historical, Samurai",Movie,96,0
+63800,19115,8,"Drama, Historical",Movie,790,0
+41498,10153,9,"Action, Comedy, Drama, Magic, Super Power",Movie,128,0
+5325,394,7,"Comedy, Drama, Harem, Romance, Slice of Life",TV,517,5
+21497,18507,6,"Comedy, School, Slice of Life, Sports",TV,734,5
+33213,20507,8,"Action, Adventure, Shounen, Supernatural",TV,112,5
+16661,437,8,"Dementia, Drama, Horror, Psychological",Movie,755,0
+70685,597,8,"Adventure, Drama, Fantasy",Movie,439,0
+52169,330,10,"Comedy, Drama, Ecchi, Romance, Shounen",TV,504,5
+42029,59,5,"Comedy, Drama, Ecchi, Romance, Sci-Fi, Seinen",TV,503,5
+24064,1535,10,"Mystery, Police, Psychological, Supernatural, Thriller",TV,927,5
+35064,8247,7,"Action, Comedy, Shounen, Super Power, Supernatural",Movie,198,0
+21926,23945,7,"Comedy, Ecchi, Fantasy, Magic, School, Shounen",TV,570,5
+64534,25183,7,"Action, Drama, Seinen",TV,254,5
+37862,164,10,"Action, Adventure, Fantasy",Movie,73,0
+60349,23317,8,"Comedy, Demons, Fantasy, Historical, Mystery, Shounen, Supernatural",OVA,493,3
+15617,17729,9,"Drama, Harem, Psychological, Romance, School",TV,787,5
+59406,3085,7,"Comedy, Ecchi, Sci-Fi",OVA,616,3
+25179,28701,9,"Action, Fantasy, Magic, Shounen, Supernatural",TV,281,5
+17659,28701,10,"Action, Fantasy, Magic, Shounen, Supernatural",TV,281,5
+1280,864,9,"Mecha, Military, Sci-Fi, Shounen, Space",OVA,917,3
+34228,20767,10,"Action, Adventure, Shounen",OVA,110,3
+64908,10163,9,"Action, Mystery, Super Power, Thriller",TV,355,5
+17365,5525,9,"Action, Demons, Fantasy, Magic, Military, Shoujo",TV,206,5
+17058,4182,10,"Comedy, Parody, Sci-Fi",Special,694,4
+25597,1350,7,"Action, Mecha, Police, Sci-Fi",OVA,333,3
+11782,11703,9,"Action, Comedy, School, Shounen, Super Power, Supernatural",TV,190,5
+60927,581,9,"Adventure, Comedy, Ecchi, Samurai",OVA,401,3
+27718,28819,5,"Comedy, Ecchi, Romance, School, Shounen",TV,602,5
+15222,3712,10,"Action, Adventure, Comedy, Ecchi, Fantasy, Harem, Magic, Romance, School",TV,18,5
+55307,481,6,"Adventure, Game, Shounen",TV,476,5
+56585,1535,10,"Mystery, Police, Psychological, Supernatural, Thriller",TV,927,5
+15716,2246,9,"Demons, Fantasy, Historical, Horror, Mystery, Seinen, Supernatural",TV,759,5
+3154,5112,6,"Comedy, Ecchi, Fantasy, Romance",TV,572,5
+50586,3712,7,"Action, Adventure, Comedy, Ecchi, Fantasy, Harem, Magic, Romance, School",TV,18,5
+66755,10161,7,"Action, Sci-Fi",TV,365,5
+49660,3318,9,"Drama, Romance",OVA,829,3
+73251,1292,10,"Action, Adventure, Samurai",TV,107,5
+24417,269,6,"Action, Comedy, Shounen, Super Power, Supernatural",TV,198,5
+14941,5681,9,"Comedy, Sci-Fi",Movie,737,0
+34295,12317,6,"Action, Comedy, Military, Seinen",ONA,177,2
+57564,3457,8,"Drama, Mystery, Romance, Shoujo, Supernatural, Vampire",TV,822,5
+1497,27441,7,"Comedy, Music",TV,673,5
+40683,18857,6,"Comedy, Romance, Seinen, Slice of Life",ONA,714,2
+11179,241,10,"Comedy, Ecchi, Fantasy, Harem, Romance, School",TV,564,5
+17026,5228,8,"Action, Cars, Drama, Seinen, Sports",OVA,116,3
+10194,21881,10,"Action, Adventure, Fantasy, Game, Romance",TV,75,5
+19199,15225,7,"Comedy, Harem, Romance, School, Seinen, Supernatural",TV,645,5
+41511,6594,8,"Action, Adventure, Historical, Martial Arts, Romance",TV,94,5
+42025,12189,7,"Mystery, School, Slice of Life",TV,934,5
+52702,2904,9,"Action, Drama, Mecha, Military, Sci-Fi, Super Power",TV,238,5
+68614,1559,9,"Action, Comedy, Martial Arts, School, Shounen",TV,169,5
+51806,1487,7,"Adventure, Comedy, Fantasy, Game, Magic, Sci-Fi",Special,403,4
+10532,73,6,"Action, Mecha, Military",TV,320,5
+34867,2476,10,"Drama, Harem, Romance, School",TV,788,5
+33152,16592,8,"Action, Horror, Mystery, Psychological",TV,307,5
+25867,10083,4,"Horror, Mystery, Supernatural, Vampire",Special,909,4
+49743,576,10,"Comedy, Fantasy, Harem, Magic, Romance, Shounen",TV,623,5
+58057,199,8,"Adventure, Drama, Supernatural",Movie,458,0
+69274,392,9,"Action, Comedy, Demons, Fantasy, Martial Arts, School, Shounen",TV,122,5
+73507,5772,7,"Comedy, Ecchi, Harem, Romance",Special,577,4
+49488,8516,9,"Comedy, Romance, School, Super Power",TV,709,5
+49105,3782,8,"Action, Mystery, Romance, Supernatural, Thriller",Movie,349,0
+7610,17831,7,"Comedy, Supernatural",TV,753,5
+70879,9736,8,"Comedy, Demons, Ecchi, Fantasy, Romance, Seinen",TV,490,5
+12585,20977,8,"Comedy, School, Seinen",OVA,725,3
+4412,2993,6,"Comedy, Ecchi, Fantasy, Harem, Romance, School, Shounen, Vampire",TV,566,5
+20527,48,5,"Adventure, Fantasy, Game, Magic, Mystery, Sci-Fi",TV,462,5
+44433,7337,6,"Comedy, Historical, Parody",Movie,654,0
+65207,12477,8,"Sci-Fi, Seinen",Movie,955,0
+56341,9919,10,"Action, Demons, Fantasy, Shounen, Supernatural",TV,207,5
+48145,10790,10,"Action, Comedy, Ecchi, Harem, Magic, Supernatural",TV,139,5
+30196,204,6,"Action, Comedy, Ecchi, Harem, Super Power",TV,141,5
+10370,17265,7,"Action, Adventure, Fantasy, Game, Magic, Shounen",TV,74,5
+16522,14397,8,"Drama, Game, Josei, Slice of Life, Sports",TV,782,5
+63590,5114,9,"Action, Adventure, Drama, Fantasy, Magic, Military, Shounen",TV,59,5
+19249,31,9,"Drama, Mecha, Psychological, Sci-Fi",Movie,809,0
+8289,1094,9,"Action, Adventure, Comedy, Fantasy, Shounen, Super Power",Special,34,4
+71947,18897,8,"Comedy, Harem, Romance, School, Shounen",TV,647,5
+64995,11757,10,"Action, Adventure, Fantasy, Game, Romance",TV,75,5
+25021,27833,9,"Action, Mystery, Supernatural",TV,356,5
+50470,969,5,"Action, Adventure, Drama, Fantasy, Mystery, Romance, Shounen, Supernatural",TV,60,5
+27913,30,8,"Action, Dementia, Drama, Mecha, Psychological, Sci-Fi",TV,202,5
+69609,199,10,"Adventure, Drama, Supernatural",Movie,458,0
+19429,6682,6,"Action, Ecchi, Super Power, Supernatural",TV,272,5
+19678,6381,8,"Action, Ecchi, Magic, Military, Sci-Fi",TV,266,5
+6939,14749,9,"Comedy, Harem, Romance, School",TV,643,5
+56720,1118,9,"Action, Adventure, Comedy, Drama, Fantasy, Kids",Movie,6,0
+21808,1195,10,"Action, Adventure, Comedy, Ecchi, Fantasy, Harem, Magic, Romance, School",TV,18,5
+39043,2025,9,"Action, Mystery, Sci-Fi, Super Power",TV,351,5
+1950,19285,5,"Action, Drama, Fantasy, Shounen, Super Power",Special,220,4
+54350,464,10,"Adventure, Comedy, Fantasy, Shounen",Movie,416,0
+47889,4181,10,"Drama, Fantasy, Romance, Slice of Life, Supernatural",TV,779,5
+61640,1593,7,"Comedy, School, Slice of Life",ONA,733,2
+34595,1887,10,"Comedy, Parody, School, Slice of Life",TV,693,5
+35247,21855,9,"Comedy, Mystery, Supernatural",TV,686,5
+5922,5356,7,"Action, Seinen",TV,370,5
+43958,12115,7,"Action, Adventure, Demons, Drama, Fantasy, Horror, Military, Seinen, Supernatural",Movie,50,0
+65883,2904,10,"Action, Drama, Mecha, Military, Sci-Fi, Super Power",TV,238,5
+12431,1444,5,"Adventure, Mecha, Sci-Fi, Space",OVA,479,3
+6850,125,8,"Comedy, Romance, School",TV,698,5
+31148,28617,6,"Comedy, Ecchi, Sci-Fi, Super Power, Supernatural",TV,617,5
+41080,18095,7,"Comedy, Ecchi, Romance, School",TV,599,5
+8073,2472,7,"Action, Adventure, Comedy, Fantasy, Shounen",Movie,33,0
+18101,6372,8,"Comedy, Drama, Mystery, Romance, Slice of Life, Thriller",Movie,530,0
+44356,147,9,"Drama, Romance, Slice of Life",TV,843,5
+6321,7,8,"Action, Drama, Magic, Mystery, Police, Supernatural",TV,234,5
+25761,9750,8,"Comedy, Ecchi, Romance, Shounen, Supernatural, Vampire",TV,608,5
+71475,22789,10,"Comedy, Slice of Life",TV,751,5
+64004,32093,10,"Comedy, School, Slice of Life",TV,733,5
+45603,10714,8,"Action, Super Power, Supernatural",Movie,375,0
+37426,4181,7,"Drama, Fantasy, Romance, Slice of Life, Supernatural",TV,779,5
+27272,523,9,"Adventure, Comedy, Supernatural",Movie,435,0
+22452,94,7,"Action, Drama, Mecha, Military, Romance, Sci-Fi, Space",TV,236,5
+61674,6,7,"Action, Comedy, Sci-Fi",TV,193,5
+25715,14467,8,"Action, Super Power, Supernatural",TV,375,5
+31220,7338,7,"Action, Mystery, Sci-Fi, Super Power",Special,351,4
+69359,28999,9,"Drama, School, Super Power",TV,850,5
+51307,15775,6,"Comedy, Seinen, Slice of Life",OVA,744,3
+63470,3457,9,"Drama, Mystery, Romance, Shoujo, Supernatural, Vampire",TV,822,5
+53784,9041,7,"Action, Comedy, Harem, Mecha, Sci-Fi",TV,160,5
+6937,279,8,"Fantasy, Historical, Horror, Mystery, Psychological, Supernatural",TV,869,5
+29283,587,6,"Comedy, Drama, Romance",TV,533,5
+62030,24765,8,"Horror, Mystery, Psychological, School, Slice of Life",TV,901,5
+26105,10161,10,"Action, Sci-Fi",TV,365,5
+44448,6421,7,"Adventure, Drama, Fantasy, Magic, Military, Shounen",Special,440,4
+51585,248,6,"Comedy, Ecchi, Harem, Romance, Shounen",TV,587,5
+20419,7791,10,"Comedy, Music, School, Slice of Life",TV,675,5
+3286,8086,9,"Action, Adventure, Fantasy, Magic, Shounen",TV,84,5
+57508,181,7,"Action, Ecchi, Mecha, Sci-Fi, Shounen, Space",TV,268,5
+57796,857,9,"Action, Comedy, Ecchi, Shounen, Sports",TV,147,5
+60481,2167,8,"Comedy, Drama, Romance, School, Slice of Life, Supernatural",TV,540,5
+34796,11577,9,"Sci-Fi, Thriller",Movie,957,0
+15181,9062,9,"Action, Comedy, School, Supernatural",Special,192,4
+52465,962,8,"Fantasy, Sci-Fi, Shounen, Slice of Life",TV,879,5
+39068,20507,7,"Action, Adventure, Shounen, Supernatural",TV,112,5
+39646,24705,6,"Action, Comedy, Fantasy, Romance, School, Shounen",TV,156,5
+58401,20,8,"Action, Comedy, Martial Arts, Shounen, Super Power",TV,170,5
+17595,9253,9,"Sci-Fi, Thriller",TV,957,5
+16135,192,9,"Adventure, Comedy, Romance",Special,428,4
+54707,6594,9,"Action, Adventure, Historical, Martial Arts, Romance",TV,94,5
+72538,8425,10,"Drama, Historical, Mystery, Romance",TV,792,5
+20324,61,8,"Action, Comedy, Fantasy, Magic, Romance, School, Shoujo",TV,153,5
+53379,4278,8,"Hentai, School",OVA,895,3
+5548,11577,8,"Sci-Fi, Thriller",Movie,957,0
+64968,3503,7,"Comedy, Ecchi, Harem, Romance, School, Shounen, Slice of Life, Supernatural",TV,584,5
+6945,7805,6,"Comedy, Romance",ONA,697,2
+33203,4134,8,Comedy,Special,489,4
+59629,949,6,"Action, Comedy, Drama, Mecha, Military, Sci-Fi, Shounen, Space",OVA,129,3
+27219,28603,6,"Comedy, Fantasy, Supernatural",Special,634,4
+52175,13391,6,"Action, Mecha, Sci-Fi",Movie,337,0
+65587,1535,10,"Mystery, Police, Psychological, Supernatural, Thriller",TV,927,5
+30737,31704,7,"Action, Comedy, Parody, Sci-Fi, Seinen, Super Power, Supernatural",OVA,181,3
+73020,10620,7,"Action, Mystery, Psychological, Shounen, Supernatural, Thriller",TV,348,5
+58232,195,9,"Comedy, Drama, Romance, School, Sci-Fi",TV,535,5
+32631,2104,9,"Comedy, Parody, Romance, School",TV,689,5
+51496,6,8,"Action, Comedy, Sci-Fi",TV,193,5
+606,2966,8,"Adventure, Fantasy, Historical, Romance",TV,465,5
+39248,1689,8,"Drama, Romance, Slice of Life",Movie,843,0
+50305,5958,8,"Comedy, Ecchi, Harem, Romance, Sci-Fi, Shounen, Supernatural",TV,586,5
+8006,9493,7,"Action, Comedy, Ecchi, Fantasy, Magic, Super Power, Supernatural",TV,138,5
+9522,12175,6,"Drama, Romance, School",TV,830,5
+33871,10030,8,"Comedy, Drama, Romance, Shounen",TV,543,5
+28937,12057,8,Hentai,OVA,893,3
+58778,620,6,"Drama, Fantasy, Horror, Mystery",TV,770,5
+22958,5681,10,"Comedy, Sci-Fi",Movie,737,0
+24911,816,6,"Comedy, Mecha, Military, Sci-Fi",OVA,670,3
+5244,133,5,"Comedy, Ecchi, Romance, School, Slice of Life",TV,603,5
+66533,93,9,"Action, Drama, Mecha, Military, Romance, Sci-Fi, Space",TV,236,5
+11398,465,7,"Adventure, Comedy, Fantasy, Shounen",Movie,416,0
+7782,15225,6,"Comedy, Harem, Romance, School, Seinen, Supernatural",TV,645,5
+33449,1589,10,"Drama, Seinen, Slice of Life",TV,854,5
+70900,121,10,"Action, Adventure, Comedy, Drama, Fantasy, Magic, Military, Shounen",TV,7,5
+41722,3935,7,"Action, Adventure, Historical, Mecha",TV,95,5
+15933,7088,8,"Action, Comedy, Ecchi, Fantasy, Harem, Magic, School, Shounen",TV,135,5
+9772,28423,8,"Comedy, Romance, School, Shounen, Supernatural",TV,705,5
+40689,1506,4,"Adventure, Comedy, Mystery, Police, Shounen",Movie,427,0
+14959,14713,6,"Comedy, Demons, Fantasy, Romance, Shoujo, Supernatural",TV,494,5
+26514,47,7,"Action, Adventure, Horror, Military, Sci-Fi, Supernatural",Movie,99,0
+40848,2025,9,"Action, Mystery, Sci-Fi, Super Power",TV,351,5
+46853,900,5,"Adventure, Comedy, Fantasy, Sci-Fi, Shounen",Movie,415,0
+5193,5342,8,"Action, Mecha, Supernatural",TV,342,5
+11989,813,8,"Action, Adventure, Comedy, Fantasy, Martial Arts, Shounen, Super Power",TV,27,5
+6420,1210,8,"Comedy, Drama, Psychological, Romance",TV,531,5
+56426,10578,6,"Action, Comedy, Ecchi, School, Supernatural",TV,146,5
+2662,6547,10,"Action, Comedy, Drama, School, Supernatural",TV,132,5
+48301,476,7,"Drama, Romance, Sports",TV,845,5
+1400,22189,7,"Comedy, Seinen",TV,743,5
+13479,4182,7,"Comedy, Parody, Sci-Fi",Special,694,4
+10176,693,6,"Action, Comedy, Drama, Ecchi, Police, Sci-Fi, Shounen",TV,125,5
+69007,31240,9,"Drama, Fantasy, Psychological, Thriller",TV,776,5
+21588,9047,7,"Action, Sci-Fi, Super Power",OVA,369,3
+6487,54,9,"Action, Drama, Mecha, Military, Police, Sci-Fi, Shounen",Movie,235,0
+11339,7148,8,"Comedy, Ecchi, Harem, Romance, School, Seinen",TV,581,5
+47221,4214,9,"Comedy, Ecchi, Fantasy, Harem, Romance, School, Vampire",TV,567,5
+58539,15315,9,"Comedy, Fantasy, Supernatural",TV,634,5
+35595,19221,8,"Comedy, Romance, School",TV,698,5
+68830,6,9,"Action, Comedy, Sci-Fi",TV,193,5
+17794,530,10,"Demons, Magic, Romance, Shoujo",TV,762,5
+19836,16894,7,"Comedy, School, Shounen, Sports",TV,732,5
+67593,2958,10,Hentai,OVA,893,3
+54877,10897,7,"Comedy, Romance, School, Seinen, Slice of Life",OVA,701,3
+51947,1210,7,"Comedy, Drama, Psychological, Romance",TV,531,5
+10264,133,5,"Comedy, Ecchi, Romance, School, Slice of Life",TV,603,5
+59095,2167,9,"Comedy, Drama, Romance, School, Slice of Life, Supernatural",TV,540,5
+7197,567,9,"Action, Mecha, Mystery, Psychological, Sci-Fi",TV,331,5
+25770,5667,6,"Comedy, Ecchi, Harem, School, Sci-Fi, Shounen",OVA,590,3
+68805,528,10,"Action, Adventure, Comedy, Drama, Fantasy, Kids",Movie,6,0
+40390,2188,9,Hentai,OVA,893,3
+6146,3252,8,"Mecha, Sci-Fi",Movie,919,0
+19135,4789,9,"Drama, Mystery, Romance, Supernatural",TV,823,5
+48717,479,8,"Adventure, Comedy, Drama, Shounen, Supernatural",TV,397,5
+27129,5678,10,"Comedy, Drama, Fantasy",TV,506,5
+60059,4898,9,"Action, Comedy, Demons, Fantasy, Historical, Shounen, Supernatural",TV,121,5
+7437,68,7,"Adventure, Comedy, Sci-Fi, Shounen, Super Power",TV,431,5
+39558,30296,8,"Action, Ecchi, Fantasy, Romance, School",TV,257,5
+61376,519,6,"Comedy, Drama, Romance, Shounen",TV,543,5
+4411,2472,6,"Action, Adventure, Comedy, Fantasy, Shounen",Movie,33,0
+57640,2970,7,"Adventure, Fantasy, Magic, Shounen",TV,468,5
+38978,14353,9,"Drama, Game, Mystery, Psychological, Thriller",Movie,783,0
+23727,376,9,"Drama, Ecchi, Horror, Psychological, Supernatural",Special,766,4
+4957,2993,6,"Comedy, Ecchi, Fantasy, Harem, Romance, School, Shounen, Vampire",TV,566,5
+54064,1121,7,"Adventure, Comedy, Drama, Fantasy, Kids",Movie,389,0
+26173,9926,4,"Comedy, Drama, Romance, Shounen Ai",TV,544,5
+64412,3287,1,"Mecha, Sci-Fi",OVA,919,3
+23869,5341,9,"Adventure, Fantasy, Historical, Romance",TV,465,5
+4346,14353,9,"Drama, Game, Mystery, Psychological, Thriller",Movie,783,0
+50246,30206,7,Comedy,Special,489,4
+66664,2418,10,"Action, Adventure, Historical, Samurai",Movie,96,0
+20481,232,8,"Adventure, Comedy, Drama, Fantasy, Magic, Romance, School, Shoujo",TV,390,5
+22815,18745,7,"Comedy, Josei, Slice of Life",OVA,661,3
+50885,7711,9,Fantasy,Movie,866,0
+66994,9107,5,"Action, Adventure, Comedy, Fantasy, Kids",TV,23,5
+64416,8841,7,"Action, Comedy, Ecchi, Harem, Magic, Supernatural",TV,139,5
+17994,5262,8,"Comedy, Magic, School, Shoujo",TV,666,5
+69007,19815,6,"Adventure, Comedy, Ecchi, Fantasy, Game, Supernatural",TV,399,5
+59177,641,9,"Comedy, Ecchi, Romance, Shounen",Special,606,4
+10382,60,6,"Action, Demons, Historical, Romance, Supernatural",TV,208,5
+56715,31964,10,"Action, Comedy, School, Shounen, Super Power",TV,189,5
+54930,2923,10,"Comedy, Magic, School, Shoujo",TV,666,5
+61338,13535,9,"Comedy, Parody, Shounen, Supernatural",TV,695,5
+11687,24347,9,"Shounen, Sports, Super Power",Movie,959,0
+57914,709,7,"Action, Adventure, Fantasy, Sci-Fi, Slice of Life",TV,91,5
+25967,949,8,"Action, Comedy, Drama, Mecha, Military, Sci-Fi, Shounen, Space",OVA,129,3
+43899,2904,10,"Action, Drama, Mecha, Military, Sci-Fi, Super Power",TV,238,5
+15611,7058,9,"Adventure, Drama, Fantasy, Shoujo, Shounen Ai",TV,445,5
+68459,71,8,"Action, Comedy, Mecha, Military, Sci-Fi",TV,173,5
+69015,26165,6,"Drama, Fantasy, Psychological, School, Seinen, Shoujo Ai",TV,773,5
+225,3588,7,"Action, Adventure, Comedy, Fantasy, Shounen, Supernatural",TV,35,5
+11578,19,10,"Drama, Horror, Mystery, Police, Psychological, Seinen, Thriller",TV,801,5
+71142,19151,8,"Action, Ecchi, Harem, Romance, School, Sports",TV,263,5
+71657,26243,9,"Action, Drama, Shounen, Supernatural, Vampire",TV,256,5
+24319,4811,8,"Comedy, Slice of Life",OVA,751,3
+26664,10798,8,"Mystery, Supernatural",TV,936,5
+8419,6512,8,"Comedy, Harem, Romance",TV,642,5
+11155,154,5,"Action, Adventure, Comedy, Drama, Shounen, Supernatural",TV,16,5
+66850,22199,2,"Action, Adventure, Fantasy",TV,73,5
+38648,11933,8,"Comedy, Historical, Romance",TV,655,5
+17420,228,8,"Horror, Mystery, Psychological, Supernatural",TV,902,5
+49122,6547,4,"Action, Comedy, Drama, School, Supernatural",TV,132,5
+71025,17729,7,"Drama, Harem, Psychological, Romance, School",TV,787,5
+1842,12175,9,"Drama, Romance, School",TV,830,5
+21979,30240,9,"Comedy, Ecchi, Romance, School, Seinen",TV,601,5
+51582,146,8,"Comedy, Drama, Magic, Romance, Sci-Fi",TV,523,5
+20566,225,7,"Action, Adventure, Comedy, Fantasy, Magic, Sci-Fi, Shounen, Super Power",TV,24,5
+5120,6205,9,"Action, Comedy, Ecchi, Romance, School, Shoujo Ai, Super Power",TV,144,5
+32516,891,7,"Action, Adventure, Comedy, Fantasy, Sci-Fi, Shounen, Super Power",Movie,32,0
+36455,530,9,"Demons, Magic, Romance, Shoujo",TV,762,5
+29364,416,7,"Action, Adventure, Comedy, Drama, Historical, Military, Romance",Movie,11,0
+48457,2964,8,"Drama, Sci-Fi, Shoujo Ai",TV,852,5
+5674,12403,6,"Comedy, School, Shoujo Ai, Slice of Life",TV,729,5
+1349,32668,9,"Action, School, Supernatural, Vampire",ONA,364,2
+34465,2001,10,"Action, Adventure, Comedy, Mecha, Sci-Fi",TV,41,5
+41050,527,7,"Action, Adventure, Comedy, Fantasy, Kids",TV,23,5
+56514,6114,10,"Drama, Historical, Seinen, Thriller",TV,798,5
+68001,16035,8,"Action, Fantasy, Mystery, Sci-Fi, Shoujo",TV,283,5
+31482,13055,7,"Comedy, Ecchi, Horror, Romance, Shounen, Supernatural",OVA,593,3
+1465,4898,5,"Action, Comedy, Demons, Fantasy, Historical, Shounen, Supernatural",TV,121,5
+45345,5630,7,"Action, Comedy, Drama, Mystery, Romance, Sci-Fi, Thriller",TV,130,5
+46775,30276,10,"Action, Comedy, Parody, Sci-Fi, Seinen, Super Power, Supernatural",TV,181,5
+62752,1738,7,"Action, Comedy, Martial Arts, Parody, Shounen",TV,168,5
+57267,6956,7,"Comedy, Slice of Life",TV,751,5
+22839,15335,9,"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen",Movie,162,0
+11198,133,7,"Comedy, Ecchi, Romance, School, Slice of Life",TV,603,5
+41653,7311,10,"Comedy, Mystery, Romance, School, Sci-Fi, Supernatural",Movie,683,0
+12758,329,7,"Drama, Romance, Sci-Fi, Seinen, Space",TV,839,5
+51115,1535,9,"Mystery, Police, Psychological, Supernatural, Thriller",TV,927,5
+16025,384,3,"Action, Drama, Horror, Psychological, Sci-Fi, Supernatural",TV,230,5
+52994,10790,7,"Action, Comedy, Ecchi, Harem, Magic, Supernatural",TV,139,5
+3309,587,10,"Comedy, Drama, Romance",TV,533,5
+46163,6774,10,"Comedy, Drama, Psychological, Seinen",TV,532,5
+57981,8619,4,"Ecchi, Music",Special,859,4
+71072,6114,8,"Drama, Historical, Seinen, Thriller",TV,798,5
+3013,19429,7,"Action, School, Shoujo Ai",TV,363,5
+60424,934,9,"Horror, Mystery, Psychological, Supernatural, Thriller",TV,903,5
+48612,9790,9,"Comedy, Drama, Ecchi, Harem, Romance, Sci-Fi, Shounen, Supernatural",Movie,501,0
+67099,20159,6,"Action, Adventure, Comedy, Fantasy, Kids",Special,23,4
+61149,31904,6,"Action, Shounen, Super Power",TV,373,5
+21458,6310,9,Comedy,Movie,489,0
+27648,11887,7,"Comedy, Drama, Romance, School, Slice of Life, Supernatural",TV,540,5
+23474,245,8,"Comedy, Drama, School, Shounen, Slice of Life",TV,549,5
+13202,4177,8,"Action, Military, Sci-Fi",ONA,345,2
+2049,880,4,"Comedy, Magic, Romance, Seinen, Supernatural",TV,664,5
+44864,245,10,"Comedy, Drama, School, Shounen, Slice of Life",TV,549,5
+48772,813,7,"Action, Adventure, Comedy, Fantasy, Martial Arts, Shounen, Super Power",TV,27,5
+22169,23283,9,"Psychological, Thriller",TV,941,5
+55760,11617,7,"Comedy, Demons, Ecchi, Harem, Romance, School",TV,491,5
+61577,790,9,"Mystery, Psychological, Sci-Fi",TV,929,5
+36310,853,10,"Comedy, Harem, Romance, School, Shoujo",TV,646,5
+69245,11759,7,"Action, Game, Romance, School, Sci-Fi",TV,293,5
+6294,1535,10,"Mystery, Police, Psychological, Supernatural, Thriller",TV,927,5
+48218,7817,5,"Comedy, Ecchi, Romance, School, Seinen",TV,601,5
+43951,11757,10,"Action, Adventure, Fantasy, Game, Romance",TV,75,5
+4618,4975,6,"Harem, Mystery, Psychological, Sci-Fi, Supernatural",TV,890,5
+20502,12355,9,"Fantasy, Slice of Life",Movie,883,0
+34796,5713,7,"Comedy, Slice of Life",OVA,751,3
+10989,20033,7,"Comedy, Music, Slice of Life",TV,677,5
+1719,953,10,"Action, Adventure, Drama, Mystery, Sci-Fi, Shoujo",TV,67,5
+30200,1575,8,"Action, Mecha, Military, School, Sci-Fi, Super Power",TV,324,5
+66151,8795,9,"Action, Comedy, Ecchi, Parody, Supernatural",TV,143,5
+8141,1535,8,"Mystery, Police, Psychological, Supernatural, Thriller",TV,927,5
+11250,2889,7,"Action, Adventure, Shounen, Supernatural",Movie,112,0
+5350,28701,9,"Action, Fantasy, Magic, Shounen, Supernatural",TV,281,5
+66055,5,8,"Action, Drama, Mystery, Sci-Fi, Space",Movie,247,0
+47019,29785,8,"Comedy, Fantasy, Romance, School, Shounen, Supernatural",TV,630,5
+14567,12967,6,"Action, Harem, Romance, Shoujo",TV,296,5
+13067,14467,9,"Action, Super Power, Supernatural",TV,375,5
+23045,395,7,"Action, Drama, Horror, Psychological, Sci-Fi, Supernatural",TV,230,5
+59268,20053,5,Magic,TV,913,5
+20501,19367,6,"Action, Adventure, Sci-Fi",TV,108,5
+30509,153,8,"Action, Adventure, Fantasy, Magic, Supernatural",TV,85,5
+66144,3485,3,"Comedy, Mecha, Sci-Fi",Special,672,4
+51298,2397,9,"Adventure, Comedy, Kids, Sci-Fi",Movie,421,0
+50532,746,8,"Comedy, Drama, Romance, Yaoi",OVA,548,3
+71893,14345,7,"Action, Psychological, Sci-Fi, Seinen",TV,360,5
+11602,905,8,"Adventure, Comedy, Fantasy, Sci-Fi, Shounen",Movie,415,0
+6968,1222,6,"Drama, Romance, Shoujo, Slice of Life",TV,841,5
+53363,59,10,"Comedy, Drama, Ecchi, Romance, Sci-Fi, Seinen",TV,503,5
+58683,584,8,"Adventure, Drama, Sci-Fi, Slice of Life",TV,456,5
+50623,391,10,"Adventure, Fantasy, Shounen",OVA,474,3
+5740,1066,8,"Comedy, Parody",Special,687,4
+41978,1190,7,"Adventure, Comedy, Shounen, Sports",OVA,433,3
+2140,18897,9,"Comedy, Harem, Romance, School, Shounen",TV,647,5
+16323,223,9,"Adventure, Comedy, Fantasy, Martial Arts, Shounen, Super Power",TV,412,5
+29577,16592,8,"Action, Horror, Mystery, Psychological",TV,307,5
+52769,3457,9,"Drama, Mystery, Romance, Shoujo, Supernatural, Vampire",TV,822,5
+65100,10620,7,"Action, Mystery, Psychological, Shounen, Supernatural, Thriller",TV,348,5
+44429,12365,9,"Comedy, Drama, Romance, Shounen",TV,543,5
+67303,5177,9,"Mystery, School, Thriller",OVA,935,3
+19530,10897,6,"Comedy, Romance, School, Seinen, Slice of Life",OVA,701,3
+28958,7059,6,"Action, Drama, School, Slice of Life",OVA,250,3
+43280,1575,8,"Action, Mecha, Military, School, Sci-Fi, Super Power",TV,324,5
+27225,431,7,"Adventure, Drama, Fantasy, Romance",Movie,442,0
+27760,10079,10,"Comedy, Ecchi, Harem, Romance, School",TV,578,5
+61344,5681,8,"Comedy, Sci-Fi",Movie,737,0
+23381,1195,7,"Action, Adventure, Comedy, Ecchi, Fantasy, Harem, Magic, Romance, School",TV,18,5
+38454,116,7,"Adventure, Comedy, Fantasy, Romance",TV,413,5
+31238,3366,8,"Action, Sci-Fi, Super Power",TV,369,5
+3615,763,5,"Action, Adventure, Comedy, Mecha, Sci-Fi",TV,41,5
+53003,15809,9,"Comedy, Demons, Fantasy, Romance, Shounen",TV,495,5
+29493,6862,7,"Comedy, Music, School, Slice of Life",Special,675,4
+6984,7264,5,Hentai,OVA,893,3
+3328,11597,6,"Comedy, Mystery, Supernatural",TV,686,5
+51310,431,10,"Adventure, Drama, Fantasy, Romance",Movie,442,0
+35455,1519,10,"Action, Seinen",TV,370,5
+16201,20541,8,"Comedy, Romance, School, Slice of Life",TV,707,5
+50250,1887,4,"Comedy, Parody, School, Slice of Life",TV,693,5
+25822,19133,5,"Comedy, Slice of Life",ONA,751,2
+28433,14131,4,"Military, School",TV,921,5
+29962,857,8,"Action, Comedy, Ecchi, Shounen, Sports",TV,147,5
+42134,276,7,"Comedy, Ecchi, Military, Romance, Sci-Fi",TV,597,5
+6708,11843,10,"Comedy, School, Shounen, Slice of Life",TV,731,5
+31695,2001,8,"Action, Adventure, Comedy, Mecha, Sci-Fi",TV,41,5
+57498,270,8,"Action, Horror, Seinen, Supernatural, Vampire",TV,314,5
+27366,9736,10,"Comedy, Demons, Ecchi, Fantasy, Romance, Seinen",TV,490,5
+17288,17247,7,"Action, Ecchi, Fantasy, School, Seinen",TV,258,5
+73424,2025,10,"Action, Mystery, Sci-Fi, Super Power",TV,351,5
+64008,22319,9,"Action, Drama, Horror, Mystery, Psychological, Seinen, Supernatural",TV,227,5
+39483,853,8,"Comedy, Harem, Romance, School, Shoujo",TV,646,5
+15290,237,8,"Adventure, Drama, Mecha, Romance, Sci-Fi",TV,451,5
+56369,11597,7,"Comedy, Mystery, Supernatural",TV,686,5
+19818,27899,9,"Action, Drama, Horror, Mystery, Psychological, Seinen, Supernatural",TV,227,5
+47385,10491,4,"Mystery, Parody",OVA,926,3
+50599,353,3,"Comedy, Magic, Shoujo",TV,668,5
+47360,47,8,"Action, Adventure, Horror, Military, Sci-Fi, Supernatural",Movie,99,0
+41018,10074,7,"Action, Adventure, Comedy, Shounen",Movie,45,0
+37108,1486,8,"Comedy, Drama, Romance, Shoujo",TV,541,5
+24540,834,9,"Adventure, Comedy, Drama, Fantasy, Shounen, Supernatural",Special,395,4
+23257,793,8,"Comedy, Drama, Mystery, Psychological, Supernatural",Movie,529,0
+3870,2904,10,"Action, Drama, Mecha, Military, Sci-Fi, Super Power",TV,238,5
+23106,6064,9,"Comedy, Parody",Special,687,4
+29127,10721,9,"Comedy, Drama, Mystery, Psychological",TV,528,5
+32630,15565,6,"Action, Ecchi, Harem, Martial Arts, School, Super Power",TV,261,5
+6843,3667,7,"Action, Ecchi, Magic, Military, Sci-Fi",TV,266,5
+8653,14813,10,"Comedy, Drama, Romance, School",TV,534,5
+43468,27787,7,"Comedy, Harem, Romance, School, Shounen",TV,647,5
+13116,20365,10,Music,Music,922,1
+7245,10161,7,"Action, Sci-Fi",TV,365,5
+68485,527,6,"Action, Adventure, Comedy, Fantasy, Kids",TV,23,5
+63472,189,6,"Comedy, Ecchi, Harem, Romance, Shounen, Slice of Life",TV,588,5
+44504,5678,9,"Comedy, Drama, Fantasy",TV,506,5
+15127,8440,10,Comedy,Special,489,4
+11097,32998,9,"Action, Drama, Historical",TV,221,5
+51991,356,8,"Action, Fantasy, Magic, Romance, Supernatural",TV,280,5
+61413,1195,9,"Action, Adventure, Comedy, Ecchi, Fantasy, Harem, Magic, Romance, School",TV,18,5
+11709,7875,8,Ecchi,Special,856,4
+52465,1575,9,"Action, Mecha, Military, School, Sci-Fi, Super Power",TV,324,5
+37003,14353,9,"Drama, Game, Mystery, Psychological, Thriller",Movie,783,0
+46256,32,9,"Dementia, Drama, Mecha, Psychological, Sci-Fi",Movie,756,0
+64570,20889,6,Psychological,Movie,939,0
+6530,1205,6,"Adventure, Fantasy",ONA,461,2
+51316,317,10,"Action, Fantasy, Super Power",Movie,289,0
+39055,25183,7,"Action, Drama, Seinen",TV,254,5
+29126,28171,9,"Ecchi, School, Shounen",TV,864,5
+54331,431,8,"Adventure, Drama, Fantasy, Romance",Movie,442,0
+20146,25159,5,"Comedy, Romance, School, Slice of Life, Supernatural",TV,708,5
+14555,1674,10,"Action, Shounen, Sports",TV,372,5
+52536,6425,8,"Comedy, Ecchi, Game",TV,573,5
+55839,9065,6,"Action, Drama, Historical, Josei, Samurai, Supernatural",TV,222,5
+27183,3939,9,Hentai,OVA,893,3
+61164,9515,7,"Comedy, Ecchi, Supernatural",OVA,620,3
+26616,16049,8,"Action, Sci-Fi, Super Power",TV,369,5
+54909,22,8,"Action, Comedy, School, Shounen, Sports",TV,188,5
+58401,133,7,"Comedy, Ecchi, Romance, School, Slice of Life",TV,603,5
+30904,6347,8,"Comedy, Romance, School, Super Power",TV,709,5
+32831,28223,8,"Drama, Game, Mystery, Psychological, Thriller",TV,783,5
+17692,12189,9,"Mystery, School, Slice of Life",TV,934,5
+34244,11739,7,"Comedy, Drama, Romance, School, Shounen, Slice of Life",TV,538,5
+66119,7311,10,"Comedy, Mystery, Romance, School, Sci-Fi, Supernatural",Movie,683,0
+44988,12189,7,"Mystery, School, Slice of Life",TV,934,5
+28856,9617,8,"Comedy, Music, Slice of Life",Movie,677,0
+7783,5112,7,"Comedy, Ecchi, Fantasy, Romance",TV,572,5
+47765,10800,8,"Drama, Game, Josei, Slice of Life, Sports",TV,782,5
+42193,31772,9,"Action, Comedy, Parody, Sci-Fi, Seinen, Super Power, Supernatural",Special,181,4
+51763,180,8,"Action, Ecchi, Mecha, Sci-Fi, Shounen, Space",TV,268,5
+11090,45,9,"Action, Adventure, Comedy, Historical, Romance, Samurai",TV,38,5
+46970,21881,6,"Action, Adventure, Fantasy, Game, Romance",TV,75,5
+39758,2409,7,"Adventure, Comedy, Fantasy, Magic",TV,407,5
+68056,1094,10,"Action, Adventure, Comedy, Fantasy, Shounen, Super Power",Special,34,4
+52045,14837,5,"Action, Adventure, Fantasy, Martial Arts, Shounen, Super Power",Movie,87,0
+70301,4565,10,"Action, Mecha, Sci-Fi, Space, Super Power",Movie,340,0
+36876,531,9,"Drama, Magic, Romance, Shoujo",Movie,807,0
+10149,3588,9,"Action, Adventure, Comedy, Fantasy, Shounen, Supernatural",TV,35,5
+41153,19815,10,"Adventure, Comedy, Ecchi, Fantasy, Game, Supernatural",TV,399,5
+16115,2759,8,"Action, Mecha, Sci-Fi",Movie,337,0
+71368,28623,9,"Action, Drama, Fantasy, Horror",TV,211,5
+69324,9989,8,"Drama, Slice of Life, Supernatural",TV,855,5
+60837,892,7,"Action, Adventure, Comedy, Fantasy, Sci-Fi, Shounen, Super Power",Movie,32,0
+58598,5678,7,"Comedy, Drama, Fantasy",TV,506,5
+49441,1546,8,"Adventure, Comedy, Ecchi, Fantasy, Harem, Magic, Romance, School, Supernatural",TV,400,5
+55681,31737,8,"Comedy, Ecchi, Fantasy, Harem, Romance, School, Sci-Fi, Supernatural",TV,565,5
+51681,2963,9,"Comedy, School, Slice of Life",TV,733,5
+39459,10408,9,"Drama, Romance, Shoujo, Supernatural",Movie,842,0
+57430,1889,10,"Mystery, Psychological, Supernatural, Thriller",TV,931,5
+72558,28701,10,"Action, Fantasy, Magic, Shounen, Supernatural",TV,281,5
+18065,6676,8,"Action, Mecha, Supernatural",TV,342,5
+38481,5958,8,"Comedy, Ecchi, Harem, Romance, Sci-Fi, Shounen, Supernatural",TV,586,5
+35110,2167,9,"Comedy, Drama, Romance, School, Slice of Life, Supernatural",TV,540,5
+19449,3366,6,"Action, Sci-Fi, Super Power",TV,369,5
+21536,4224,10,"Comedy, Romance, School, Slice of Life",TV,707,5
+3392,23945,7,"Comedy, Ecchi, Fantasy, Magic, School, Shounen",TV,570,5
+35951,813,7,"Action, Adventure, Comedy, Fantasy, Martial Arts, Shounen, Super Power",TV,27,5
+68607,586,8,"Fantasy, Historical, Horror",TV,868,5
+52684,5114,10,"Action, Adventure, Drama, Fantasy, Magic, Military, Shounen",TV,59,5
+10143,30276,8,"Action, Comedy, Parody, Sci-Fi, Seinen, Super Power, Supernatural",TV,181,5
+57945,5764,8,"Comedy, Ecchi, Fantasy, Harem, Magic",Special,560,4
+43886,7148,8,"Comedy, Ecchi, Harem, Romance, School, Seinen",TV,581,5
+48456,14829,6,"Action, Comedy, Fantasy, Magic",TV,152,5
+51348,3420,6,"Drama, Fantasy, Psychological, Supernatural, Thriller",TV,775,5
+18591,459,9,"Action, Adventure, Comedy, Fantasy, Shounen, Super Power",Movie,34,0
+45838,487,6,"Comedy, Ecchi, Fantasy, Harem, Romance, School",TV,564,5
+24026,356,8,"Action, Fantasy, Magic, Romance, Supernatural",TV,280,5
+37195,18897,9,"Comedy, Harem, Romance, School, Shounen",TV,647,5
+27172,14513,9,"Action, Adventure, Fantasy, Magic, Shounen",TV,84,5
+62444,11771,10,"Comedy, School, Shounen, Sports",TV,732,5
+31339,2006,7,"Adventure, Comedy, Fantasy, Game, Shounen",Movie,404,0
+40617,12189,10,"Mystery, School, Slice of Life",TV,934,5
+7436,1535,10,"Mystery, Police, Psychological, Supernatural, Thriller",TV,927,5
+7249,31704,8,"Action, Comedy, Parody, Sci-Fi, Seinen, Super Power, Supernatural",OVA,181,3
+1232,1530,10,"Drama, Romance, Slice of Life, Supernatural",TV,844,5
+29508,11617,10,"Comedy, Demons, Ecchi, Harem, Romance, School",TV,491,5
+33841,6547,9,"Action, Comedy, Drama, School, Supernatural",TV,132,5
+54194,4214,10,"Comedy, Ecchi, Fantasy, Harem, Romance, School, Vampire",TV,567,5
+7715,659,8,"Comedy, School, Slice of Life",Special,733,4
+8407,4884,7,"Adventure, Drama, Fantasy",TV,439,5
+28445,237,8,"Adventure, Drama, Mecha, Romance, Sci-Fi",TV,451,5
+41185,9919,8,"Action, Demons, Fantasy, Shounen, Supernatural",TV,207,5
+15012,16498,10,"Action, Drama, Fantasy, Shounen, Super Power",TV,220,5
+49032,24227,5,"Comedy, Harem, Romance, School, Shounen",OVA,647,3
+64318,28121,8,"Action, Adventure, Comedy, Fantasy, Romance",TV,28,5
+11318,23273,10,"Drama, Music, Romance, School, Shounen",TV,815,5
+37977,16498,10,"Action, Drama, Fantasy, Shounen, Super Power",TV,220,5
+129,4151,8,"Action, Adventure, Historical, Samurai, Supernatural",TV,98,5
+2289,9776,5,"Comedy, School, Seinen, Slice of Life",TV,726,5
+56775,11617,9,"Comedy, Demons, Ecchi, Harem, Romance, School",TV,491,5
+67203,101,7,"Drama, Romance, Slice of Life, Supernatural",TV,844,5
+32424,19919,8,"Parody, School, Slice of Life",TV,938,5
+45634,3392,9,"Harem, Music, Romance, School, Shoujo",Special,889,4
+3458,22043,9,"Action, Adventure, Comedy, Fantasy, Magic, Shounen",TV,25,5
+69850,14237,7,"Action, Sci-Fi, Slice of Life",TV,368,5
+40014,10490,10,"Action, Horror, School, Supernatural, Vampire",TV,310,5
+33631,22147,10,"Comedy, Magic",TV,662,5
+42033,9756,8,"Drama, Magic, Psychological, Thriller",TV,806,5
+9062,6702,9,"Action, Adventure, Comedy, Fantasy, Magic, Shounen",TV,25,5
+64999,23673,8,"Comedy, Romance, School, Shoujo",TV,702,5
+39836,1132,4,"Action, Adventure, Comedy, Drama, Fantasy, Shounen",TV,8,5
+5815,1117,6,"Adventure, Comedy, Drama, Fantasy, Kids",Movie,389,0
+59403,1107,4,"Action, Adventure, Demons, Drama, Horror, Super Power",Movie,51,0
+38804,1921,6,"Action, Adventure, Comedy, Drama, Romance, Sci-Fi",Movie,12,0
+22373,10162,9,"Josei, Slice of Life",TV,911,5
+16205,13939,6,"Action, Game, Romance, School, Sci-Fi",OVA,293,3
+819,6880,9,"Action, Horror, Sci-Fi",TV,311,5
+39670,3858,5,"Adventure, Comedy, Drama",TV,386,5
+22834,101,4,"Drama, Romance, Slice of Life, Supernatural",TV,844,5
+18283,23605,8,Action,ONA,0,2
+45064,17157,6,"Comedy, Drama, Ecchi",OVA,498,3
+50594,1575,7,"Action, Mecha, Military, School, Sci-Fi, Super Power",TV,324,5
+55071,523,8,"Adventure, Comedy, Supernatural",Movie,435,0
+36372,12231,7,"Action, Adventure, Comedy, Fantasy, Martial Arts, Sci-Fi, Shounen, Super Power",Special,26,4
+34071,11617,9,"Comedy, Demons, Ecchi, Harem, Romance, School",TV,491,5
+904,5681,8,"Comedy, Sci-Fi",Movie,737,0
+40911,13837,9,"Comedy, Mystery, Police, Shounen, Sports",OVA,681,3
+71078,15379,7,"Comedy, Drama, Romance, School",TV,534,5
+65255,14749,6,"Comedy, Harem, Romance, School",TV,643,5
+57662,764,8,"Adventure, Comedy, Mecha, Sci-Fi, Shounen, Sports",TV,426,5
+47071,15125,5,"Comedy, School, Shounen, Sports",TV,732,5
+32920,12189,7,"Mystery, School, Slice of Life",TV,934,5
+25182,1535,10,"Mystery, Police, Psychological, Supernatural, Thriller",TV,927,5
+72021,5034,7,"Action, Horror",TV,304,5
+40217,15487,10,"Comedy, School, Shounen, Sports",Special,732,4
+41636,1006,9,"Action, Comedy, Romance, School, Sci-Fi, Shounen, Space",Movie,184,0
+21926,9289,10,"Comedy, Drama, Seinen, Slice of Life",TV,554,5
+71670,12355,10,"Fantasy, Slice of Life",Movie,883,0
+1661,4181,9,"Drama, Fantasy, Romance, Slice of Life, Supernatural",TV,779,5
+5029,2787,10,"Action, Drama, Fantasy, Romance, School, Supernatural",TV,216,5
+15952,1,10,"Action, Adventure, Comedy, Drama, Sci-Fi, Space",TV,14,5
+58731,849,9,"Comedy, Mystery, Parody, School, Sci-Fi, Slice of Life",TV,680,5
+44516,2175,9,"Adventure, Drama, Fantasy",Movie,439,0
+23398,788,7,"Comedy, Ecchi, Harem, School",OVA,589,3
+69456,32542,8,"Comedy, School, Seinen",TV,725,5
+60680,1555,8,"Comedy, Harem, Romance, School",TV,643,5
+33279,14289,6,"Romance, School, Shoujo",TV,945,5
+5056,4664,5,"Action, Comedy, Samurai",Special,185,4
+31073,13587,7,"Adventure, Mystery, School, Sci-Fi, Super Power, Supernatural",Special,483,4
+5262,1107,7,"Action, Adventure, Demons, Drama, Horror, Super Power",Movie,51,0
+24573,1722,9,"Comedy, Ecchi, Fantasy, Harem, Romance",TV,563,5
+24667,1118,5,"Action, Adventure, Comedy, Drama, Fantasy, Kids",Movie,6,0
+10894,427,9,"Comedy, Drama, Fantasy, Shoujo",TV,514,5
+50994,8063,6,"Comedy, Drama, Romance, Shounen Ai",OVA,544,3
+37396,3972,8,"Action, Game, Shounen",TV,295,5
+45224,444,7,"Drama, Romance, School, Shoujo, Shoujo Ai",TV,834,5
+26612,8425,9,"Drama, Historical, Mystery, Romance",TV,792,5
+45201,17157,5,"Comedy, Drama, Ecchi",OVA,498,3
+57921,1818,7,"Action, Adventure, Demons, Fantasy, Shounen, Super Power, Supernatural",TV,53,5
+33645,21881,8,"Action, Adventure, Fantasy, Game, Romance",TV,75,5
+4537,7791,6,"Comedy, Music, School, Slice of Life",TV,675,5
+61704,1575,10,"Action, Mecha, Military, School, Sci-Fi, Super Power",TV,324,5
+59408,4136,6,"Comedy, Ecchi, School, Slice of Life",ONA,614,2
+17810,1535,9,"Mystery, Police, Psychological, Supernatural, Thriller",TV,927,5
+58370,2472,8,"Action, Adventure, Comedy, Fantasy, Shounen",Movie,33,0
+72677,2403,5,"Comedy, Ecchi, School",TV,610,5
+27526,877,10,"Comedy, Drama, Music, Romance, Shoujo, Slice of Life",TV,525,5
+35762,4059,6,"Drama, Romance, School, Slice of Life",Special,836,4
+62830,11977,8,"Drama, Magic, Psychological, Thriller",Movie,806,0
+59841,3226,9,"Comedy, Drama, Shounen, Sports",TV,555,5
+73236,834,8,"Adventure, Comedy, Drama, Fantasy, Shounen, Supernatural",Special,395,4
+7081,21339,9,"Action, Military, Police, Sci-Fi",Movie,343,0
+19995,2589,7,"Action, Comedy, Shounen",Special,196,4
+10903,3092,10,"Comedy, Drama, Romance, Shounen Ai",TV,544,5
+58448,17831,7,"Comedy, Supernatural",TV,753,5
+5332,807,6,"Action, Adventure, Drama, Fantasy, Shounen",Movie,63,0
+26112,356,9,"Action, Fantasy, Magic, Romance, Supernatural",TV,280,5
+23853,4182,7,"Comedy, Parody, Sci-Fi",Special,694,4
+57447,3174,7,"Comedy, Romance, Slice of Life, Supernatural",Special,721,4
+18850,16742,9,"Comedy, School, Shounen, Slice of Life",TV,731,5
+47767,26057,7,"Comedy, Ecchi, Fantasy, Magic",OVA,569,3
+28690,5940,5,"Action, Adventure, Fantasy",TV,73,5
+21587,874,8,"Adventure, Comedy, Drama, Fantasy, Shounen",TV,394,5
+29255,7465,9,"Sci-Fi, Slice of Life",Movie,956,0
+46309,10161,9,"Action, Sci-Fi",TV,365,5
+56706,232,10,"Adventure, Comedy, Drama, Fantasy, Magic, Romance, School, Shoujo",TV,390,5
+6340,1965,8,"Drama, Romance, Slice of Life, Supernatural",TV,844,5
+61135,20899,3,"Action, Adventure, Drama, Shounen, Supernatural",TV,70,5
+23727,8768,9,"Romance, School, Shoujo",Special,945,4
+68153,22763,7,"Drama, Mystery, Seinen, Supernatural",Special,825,4
+12880,10711,6,"Comedy, School",ONA,724,2
+3833,1118,9,"Action, Adventure, Comedy, Drama, Fantasy, Kids",Movie,6,0
+71466,3297,10,"Fantasy, Sci-Fi, Shounen, Slice of Life",TV,879,5
+11414,269,8,"Action, Comedy, Shounen, Super Power, Supernatural",TV,198,5
+47302,5081,8,"Mystery, Romance, Supernatural, Vampire",TV,933,5
+11793,4026,8,"Action, Adventure, Fantasy, Kids",Movie,79,0
+13124,13667,4,"Action, Adventure, Martial Arts, Shounen, Super Power",Movie,102,0
+24707,4760,3,Ecchi,Special,856,4
+2726,8142,7,"Drama, Slice of Life, Supernatural",Movie,855,0
+33847,11319,8,"Adventure, Ecchi, Fantasy, Magic, Romance",TV,460,5
+41314,4334,6,"Action, Sci-Fi, Shounen",TV,367,5
+48319,4565,9,"Action, Mecha, Sci-Fi, Space, Super Power",Movie,340,0
+17483,22101,6,"Adventure, Fantasy, Romance, Shoujo",TV,473,5
+25920,3167,10,"Sci-Fi, Slice of Life",ONA,956,2
+38612,21603,8,"Comedy, Romance, Sci-Fi, Super Power, Supernatural",TV,712,5
+22083,6045,7,"Romance, School, Shoujo, Slice of Life",TV,947,5
+58253,120,9,"Comedy, Drama, Fantasy, Romance, Shoujo, Slice of Life",TV,513,5
+49536,54,7,"Action, Drama, Mecha, Military, Police, Sci-Fi, Shounen",Movie,235,0
+16956,6,8,"Action, Comedy, Sci-Fi",TV,193,5
+41131,550,7,"Action, Comedy, Fantasy, Game, Shounen",TV,150,5
+46031,934,8,"Horror, Mystery, Psychological, Supernatural, Thriller",TV,903,5
+30103,164,8,"Action, Adventure, Fantasy",Movie,73,0
+40162,1530,9,"Drama, Romance, Slice of Life, Supernatural",TV,844,5
+73164,10152,7,"Romance, Shoujo",Special,949,4
+60528,17265,10,"Action, Adventure, Fantasy, Game, Magic, Shounen",TV,74,5
+17977,1691,8,"Action, Fantasy, Magic, Romance, Shounen",TV,278,5
+21458,278,8,"Action, Comedy, Sci-Fi, Shounen",TV,194,5
+33863,14353,10,"Drama, Game, Mystery, Psychological, Thriller",Movie,783,0
+25428,520,8,"Romance, Shoujo",Movie,949,0
+41662,759,8,"Comedy, Drama",Movie,497,0
+57202,22265,7,"Comedy, School, Slice of Life, Sports",TV,734,5
+12114,6444,8,"Adventure, Fantasy, Shounen, Supernatural",TV,475,5
+38052,9989,10,"Drama, Slice of Life, Supernatural",TV,855,5
+27268,597,7,"Adventure, Drama, Fantasy",Movie,439,0
+24448,3712,8,"Action, Adventure, Comedy, Ecchi, Fantasy, Harem, Magic, Romance, School",TV,18,5
+39990,10213,7,"Comedy, Ecchi, Harem, Martial Arts, Romance, School, Super Power",TV,575,5
+24489,463,7,"Action, Adventure, Comedy, Fantasy, Shounen, Super Power",Movie,34,0
+51012,5,9,"Action, Drama, Mystery, Sci-Fi, Space",Movie,247,0
+1549,21273,10,"Comedy, Slice of Life",TV,751,5
+4133,1698,8,"Comedy, Drama, Josei, Music, Romance, Slice of Life",TV,521,5
+9811,29786,10,"Comedy, Ecchi, School",TV,610,5
+29907,469,8,"Comedy, Romance, School, Shounen, Vampire",TV,706,5
+16175,23209,7,"Drama, Fantasy, School, Slice of Life",TV,780,5
+66823,4280,8,"Action, Mystery, Supernatural, Thriller",Movie,357,0
+35558,4224,10,"Comedy, Romance, School, Slice of Life",TV,707,5
+12138,14527,8,"Action, Comedy, Ecchi, Martial Arts, School, Shounen, Super Power",TV,142,5
+43652,8754,6,"Comedy, Slice of Life",Special,751,4
+9143,12189,8,"Mystery, School, Slice of Life",TV,934,5
+36038,4722,5,"Comedy, Drama, Romance, Shoujo",TV,541,5
+31811,225,8,"Action, Adventure, Comedy, Fantasy, Magic, Sci-Fi, Shounen, Super Power",TV,24,5
+41303,5162,8,"Comedy, School, Slice of Life",TV,733,5
+16758,2002,7,"Action, Mecha, Military, Sci-Fi, Space",TV,327,5
+32733,11757,7,"Action, Adventure, Fantasy, Game, Romance",TV,75,5
+43427,14345,8,"Action, Psychological, Sci-Fi, Seinen",TV,360,5
+23285,44,7,"Action, Drama, Historical, Martial Arts, Romance, Samurai",OVA,223,3
+71901,11499,4,"Comedy, Ecchi, Horror, Romance, Shounen, Supernatural",TV,593,5
+11124,9989,8,"Drama, Slice of Life, Supernatural",TV,855,5
+28594,3089,9,"Drama, Military",Movie,810,0
+49176,441,6,"Dementia, Drama, Fantasy, Romance, Shoujo",Movie,754,0
+30062,11319,10,"Adventure, Ecchi, Fantasy, Magic, Romance",TV,460,5
+41326,4059,6,"Drama, Romance, School, Slice of Life",Special,836,4
+29359,1575,10,"Action, Mecha, Military, School, Sci-Fi, Super Power",TV,324,5
+65809,14467,6,"Action, Super Power, Supernatural",TV,375,5
+23281,24701,9,"Adventure, Fantasy, Historical, Mystery, Seinen, Slice of Life, Supernatural",TV,464,5
+39656,19815,7,"Adventure, Comedy, Ecchi, Fantasy, Game, Supernatural",TV,399,5
+71582,2904,10,"Action, Drama, Mecha, Military, Sci-Fi, Super Power",TV,238,5
+22365,3210,8,"Comedy, Romance, Yaoi",OVA,723,3
+6056,12531,8,"Drama, Josei, Music, Romance, School",TV,804,5
+59042,1813,7,"Comedy, Parody, Slice of Life",OVA,696,3
+60743,10568,10,Mystery,TV,925,5
+5878,7593,7,"Comedy, Ecchi, Harem, Romance, School, Seinen",TV,581,5
+26613,8425,9,"Drama, Historical, Mystery, Romance",TV,792,5
+67621,3001,7,"Comedy, School, Supernatural",TV,736,5
+68377,9919,6,"Action, Demons, Fantasy, Shounen, Supernatural",TV,207,5
+59536,981,8,"Comedy, Ecchi, Harem, Romance, School, Shounen",OVA,583,3
+32145,31764,9,"Action, Adventure, Fantasy, Military",TV,88,5
+52948,67,9,"Action, Adventure, Fantasy, Historical, Romance, Samurai, Supernatural",TV,78,5
+11602,22319,8,"Action, Drama, Horror, Mystery, Psychological, Seinen, Supernatural",TV,227,5
+3479,28623,8,"Action, Drama, Fantasy, Horror",TV,211,5
+12157,154,8,"Action, Adventure, Comedy, Drama, Shounen, Supernatural",TV,16,5
+31809,6347,10,"Comedy, Romance, School, Super Power",TV,709,5
+41862,6610,7,"Action, Mystery, Sci-Fi, Thriller",Movie,352,0
+32256,8022,8,Comedy,Special,489,4
+68281,1041,6,"Drama, Music, Romance, Sports, Yaoi",OVA,818,3
+26481,19383,6,"Dementia, Horror, Supernatural",TV,758,5
+30956,904,7,"Action, Adventure, Comedy, Fantasy, Martial Arts, Shounen, Super Power",Movie,27,0
+51882,1366,7,"Adventure, Comedy, Mystery, Police, Shounen",Movie,427,0
+32065,11757,8,"Action, Adventure, Fantasy, Game, Romance",TV,75,5
+29974,10080,9,"Comedy, Harem, Romance, Shounen, Supernatural",TV,651,5
+6931,7054,8,"Comedy, Romance, School, Shoujo",TV,702,5
+69513,10073,7,"Action, Ecchi, Seinen, Super Power, Supernatural",TV,271,5
+22613,15793,6,"Action, Music, Sci-Fi",TV,346,5
+25056,7593,7,"Comedy, Ecchi, Harem, Romance, School, Seinen",TV,581,5
+57309,6802,8,"Military, Music, Sci-Fi, Slice of Life",TV,920,5
+13637,1535,9,"Mystery, Police, Psychological, Supernatural, Thriller",TV,927,5
+44293,31637,6,"Action, Adventure, Fantasy, Military",TV,88,5
+47216,6324,6,"Action, Comedy, Demons, Ecchi, Harem, Romance, Supernatural",TV,120,5
+58557,1361,6,Sci-Fi,Movie,954,0
+4148,898,6,"Adventure, Comedy, Fantasy, Sci-Fi, Shounen",Movie,415,0
+44836,529,9,"Drama, Romance, School, Sci-Fi",TV,831,5
+44025,21659,9,"Action, Comedy, School, Super Power",Special,191,4
+32351,6372,8,"Comedy, Drama, Mystery, Romance, Slice of Life, Thriller",Movie,530,0
+5210,6500,10,"Action, Ecchi, Seinen, Super Power, Supernatural",TV,271,5
+57753,202,9,"Action, Adventure, Drama, Fantasy, Mystery, Sci-Fi",TV,61,5
+50145,3588,7,"Action, Adventure, Comedy, Fantasy, Shounen, Supernatural",TV,35,5
+22434,19363,9,"Comedy, School, Shounen, Slice of Life",TV,731,5
+22697,7588,8,"Historical, Samurai, Seinen",TV,898,5
+45470,11111,5,"Horror, Mystery, School, Supernatural, Thriller",TV,905,5
+38307,23233,7,"Action, Demons, Ecchi, Fantasy, Harem, Romance",TV,203,5
+42720,356,8,"Action, Fantasy, Magic, Romance, Supernatural",TV,280,5
+60399,23227,7,"Comedy, Romance, Seinen, Slice of Life",OVA,714,3
+12725,6864,7,"Mystery, Supernatural",OVA,936,3
+39139,59,10,"Comedy, Drama, Ecchi, Romance, Sci-Fi, Seinen",TV,503,5
+38526,4059,10,"Drama, Romance, School, Slice of Life",Special,836,4
+45222,11553,7,"Comedy, Romance, School, Slice of Life",Special,707,4
+59456,916,6,"Action, Comedy, Horror, Mystery, Police, Supernatural",TV,163,5
+26837,3848,9,"Action, Adventure, Comedy, Fantasy, Shounen, Super Power",Movie,34,0
+19867,8525,9,"Comedy, Harem, Romance, Shounen, Supernatural",TV,651,5
+1885,261,10,"Comedy, Harem, Romance, Slice of Life",TV,652,5
+19342,22319,7,"Action, Drama, Horror, Mystery, Psychological, Seinen, Supernatural",TV,227,5
+67348,905,8,"Adventure, Comedy, Fantasy, Sci-Fi, Shounen",Movie,415,0
+34569,18247,7,"Action, Comedy, Harem, Mecha, Sci-Fi",TV,160,5
+3553,2418,9,"Action, Adventure, Historical, Samurai",Movie,96,0
+34766,16417,9,"Comedy, Slice of Life",TV,751,5
+59182,2025,9,"Action, Mystery, Sci-Fi, Super Power",TV,351,5
+65174,30276,10,"Action, Comedy, Parody, Sci-Fi, Seinen, Super Power, Supernatural",TV,181,5
+62393,16498,8,"Action, Drama, Fantasy, Shounen, Super Power",TV,220,5
+34938,10110,4,"Comedy, Ecchi, Harem, Romance, School",TV,578,5
+44164,14467,8,"Action, Super Power, Supernatural",TV,375,5
+70052,12189,8,"Mystery, School, Slice of Life",TV,934,5
+56967,10020,9,"Comedy, Seinen, Slice of Life",ONA,744,2
+45756,16498,8,"Action, Drama, Fantasy, Shounen, Super Power",TV,220,5
+28551,7054,9,"Comedy, Romance, School, Shoujo",TV,702,5
+11482,1698,5,"Comedy, Drama, Josei, Music, Romance, Slice of Life",TV,521,5
+634,11977,8,"Drama, Magic, Psychological, Thriller",Movie,806,0
+57976,1887,6,"Comedy, Parody, School, Slice of Life",TV,693,5
+17065,5081,9,"Mystery, Romance, Supernatural, Vampire",TV,933,5
+30219,20787,8,"Action, Mystery, Sci-Fi, Seinen",TV,350,5
+24418,18055,8,"Action, Fantasy, Shoujo, Supernatural",TV,286,5
+13110,16035,7,"Action, Fantasy, Mystery, Sci-Fi, Shoujo",TV,283,5
+50022,1117,5,"Adventure, Comedy, Drama, Fantasy, Kids",Movie,389,0
+39081,11757,9,"Action, Adventure, Fantasy, Game, Romance",TV,75,5
+25856,395,2,"Action, Drama, Horror, Psychological, Sci-Fi, Supernatural",TV,230,5
+11318,19647,9,"Comedy, Drama, Shounen, Sports",TV,555,5
+12233,1364,7,"Adventure, Comedy, Mystery, Police, Shounen",Movie,427,0
+36608,8740,8,"Action, Adventure, Comedy, Fantasy, Shounen, Super Power",OVA,34,3
+16706,16934,7,"Comedy, School",Special,724,4
+31320,22663,6,"Action, Fantasy, Harem, Romance, School, Supernatural",TV,274,5
+65588,904,10,"Action, Adventure, Comedy, Fantasy, Martial Arts, Shounen, Super Power",Movie,27,0
+3788,11933,8,"Comedy, Historical, Romance",TV,655,5
+53713,389,6,"Action, Fantasy, Sci-Fi",OVA,284,3
+51428,2167,6,"Comedy, Drama, Romance, School, Slice of Life, Supernatural",TV,540,5
+58919,543,7,"Action, Drama, Fantasy, Horror, Romance, Sci-Fi, Vampire",Movie,212,0
+25688,32,10,"Dementia, Drama, Mecha, Psychological, Sci-Fi",Movie,756,0
+16218,916,7,"Action, Comedy, Horror, Mystery, Police, Supernatural",TV,163,5
+41442,14175,8,"Comedy, Drama, Slice of Life",Movie,556,0
+66115,2889,8,"Action, Adventure, Shounen, Supernatural",Movie,112,0
+71792,15307,6,"Fantasy, Kids, Magic, Shoujo",Movie,875,0
+40267,740,8,"Demons, Magic, Romance, Shoujo",TV,762,5
+29626,3702,7,"Comedy, Music",OVA,673,3
+25751,288,8,"Action, Adventure, Comedy, Sci-Fi, Shounen, Sports",TV,43,5
+57660,59,10,"Comedy, Drama, Ecchi, Romance, Sci-Fi, Seinen",TV,503,5
+62101,11843,8,"Comedy, School, Shounen, Slice of Life",TV,731,5
+27278,31240,9,"Drama, Fantasy, Psychological, Thriller",TV,776,5
+68582,223,8,"Adventure, Comedy, Fantasy, Martial Arts, Shounen, Super Power",TV,412,5
+22797,617,8,"Adventure, Fantasy, Historical, Horror, Romance, Shounen, Supernatural",Movie,463,0
+44178,57,7,"Comedy, Drama, Music, Shounen, Slice of Life",TV,526,5
+29906,6884,7,Fantasy,Special,866,4
+1903,2251,10,"Action, Comedy, Historical, Mystery, Seinen, Supernatural",TV,161,5
+42626,11577,9,"Sci-Fi, Thriller",Movie,957,0
+27395,15687,8,"Comedy, School",ONA,724,2
+50888,7858,8,"Comedy, Ecchi, Harem, Sci-Fi, Shounen, Supernatural",OVA,591,3
+35896,6920,3,"Action, Drama, Horror, Vampire",TV,233,5
+67531,8425,8,"Drama, Historical, Mystery, Romance",TV,792,5
+49666,268,8,"Adventure, Comedy, Ecchi",OVA,398,3
+31241,228,8,"Horror, Mystery, Psychological, Supernatural",TV,902,5
+52194,2167,10,"Comedy, Drama, Romance, School, Slice of Life, Supernatural",TV,540,5
+18362,1535,7,"Mystery, Police, Psychological, Supernatural, Thriller",TV,927,5
+71794,11813,10,"Action, Comedy, Martial Arts, School, Shounen",OVA,169,3
+10431,2494,6,"Comedy, Ecchi, Fantasy, Harem",TV,559,5
+63938,1167,7,"Action, Historical, Seinen",TV,302,5
+3738,13759,10,"Comedy, Drama, Romance, School, Slice of Life",TV,539,5
+18312,6746,10,"Action, Mystery, Supernatural",TV,356,5
+6735,195,9,"Comedy, Drama, Romance, School, Sci-Fi",TV,535,5
+49112,243,9,"Comedy, Music, Romance, Shoujo, Shounen Ai",TV,674,5
+71284,30831,9,"Adventure, Comedy, Fantasy, Supernatural",TV,417,5
+8568,12967,6,"Action, Harem, Romance, Shoujo",TV,296,5
+9595,2606,8,"Action, Adventure, Comedy, Fantasy, Shounen",Movie,33,0
+68391,466,7,"Action, Adventure, Comedy, Fantasy, Shounen, Super Power",OVA,34,3
+35284,469,8,"Comedy, Romance, School, Shounen, Vampire",TV,706,5
+53521,72,10,"Action, Comedy, School",TV,186,5
+41535,32282,10,"Ecchi, School, Shounen",TV,864,5
+17088,14513,7,"Action, Adventure, Fantasy, Magic, Shounen",TV,84,5
+55505,72,8,"Action, Comedy, School",TV,186,5
+65491,31953,8,"Comedy, Slice of Life",TV,751,5
+55248,20899,10,"Action, Adventure, Drama, Shounen, Supernatural",TV,70,5
+23005,10620,10,"Action, Mystery, Psychological, Shounen, Supernatural, Thriller",TV,348,5
+57552,1698,9,"Comedy, Drama, Josei, Music, Romance, Slice of Life",TV,521,5
+3476,31793,5,"Comedy, Magic",TV,662,5
+33891,25157,9,"Action, Comedy, Ecchi, Fantasy, Harem, Magic, Romance, School, Shounen, Supernatural",TV,134,5
+19655,269,9,"Action, Comedy, Shounen, Super Power, Supernatural",TV,198,5
+8364,1257,8,"Adventure, Sci-Fi, Shounen",OVA,486,3
+38704,11457,8,"Fantasy, Shoujo, Supernatural",TV,881,5
+109,9367,8,"Action, Drama, Ecchi, Harem, Martial Arts, Romance, Sci-Fi, Seinen",TV,210,5
+34130,6702,8,"Action, Adventure, Comedy, Fantasy, Magic, Shounen",TV,25,5
+44963,32,10,"Dementia, Drama, Mecha, Psychological, Sci-Fi",Movie,756,0
+54722,268,10,"Adventure, Comedy, Ecchi",OVA,398,3
+15277,17895,5,"Comedy, Romance, Seinen",TV,713,5
+14959,4477,7,"Comedy, Josei, Music, Romance, Slice of Life",TV,659,5
+66310,1998,8,"Adventure, Music, Police, Romance, Sci-Fi",Music,480,1
+58003,44,8,"Action, Drama, Historical, Martial Arts, Romance, Samurai",OVA,223,3
+18912,227,9,"Action, Comedy, Dementia, Mecha, Parody, Sci-Fi",OVA,118,3
+67916,713,7,"Drama, Romance, Supernatural",Movie,846,0
+73020,585,9,"Adventure, Drama, Fantasy, Romance, Slice of Life",Movie,444,0
+52371,64,7,"Action, Comedy, Drama, Magic, Seinen",TV,127,5
+8006,8100,8,"Action, Psychological, Sci-Fi",Movie,359,0
+49011,13659,7,"Comedy, Seinen, Slice of Life",TV,744,5
+18863,26243,9,"Action, Drama, Shounen, Supernatural, Vampire",TV,256,5
+22895,3588,10,"Action, Adventure, Comedy, Fantasy, Shounen, Supernatural",TV,35,5
+26982,11235,5,"Comedy, Romance, School, Slice of Life",TV,707,5
+8087,19775,3,"Action, Mecha, Sci-Fi, Seinen, Space",TV,338,5
+27866,28677,9,"Comedy, Harem, Mystery, Romance, School, Shounen, Supernatural",TV,639,5
+40049,19775,9,"Action, Mecha, Sci-Fi, Seinen, Space",TV,338,5
+31789,10447,7,"Action, Comedy, Drama, Fantasy, Mecha, Romance, Sci-Fi",TV,126,5
+62426,24833,9,"Action, Comedy, School, Shounen",TV,187,5
+61833,9513,8,"Action, Comedy, Demons, School, Shounen, Supernatural",TV,124,5
+70037,25879,10,"Comedy, Romance, Slice of Life",TV,720,5
+32746,121,7,"Action, Adventure, Comedy, Drama, Fantasy, Magic, Military, Shounen",TV,7,5
+38858,1575,10,"Action, Mecha, Military, School, Sci-Fi, Super Power",TV,324,5
+27062,2236,9,"Adventure, Drama, Romance, Sci-Fi",Movie,454,0
+68909,17901,7,"Fantasy, Music",Music,877,1
+11208,2969,10,"Action, Mecha, Military, Sci-Fi",Movie,326,0
+20049,5114,7,"Action, Adventure, Drama, Fantasy, Magic, Military, Shounen",TV,59,5
+37248,2225,7,"Drama, Historical, Slice of Life",TV,799,5
+1348,1237,10,"Action, Adventure, Comedy, Fantasy, Shounen, Super Power",Special,34,4
+58696,1813,9,"Comedy, Parody, Slice of Life",OVA,696,3
+39021,21177,7,"Action, Historical, Mecha, Sci-Fi",TV,298,5
+813,4975,6,"Harem, Mystery, Psychological, Sci-Fi, Supernatural",TV,890,5
+56277,7148,7,"Comedy, Ecchi, Harem, Romance, School, Seinen",TV,581,5
+21340,6948,6,"Mystery, Romance, Supernatural",Special,932,4
+35428,14345,7,"Action, Psychological, Sci-Fi, Seinen",TV,360,5
+39836,144,7,"Drama, Romance, Slice of Life, Supernatural",TV,844,5
+70645,22147,7,"Comedy, Magic",TV,662,5
+6219,61,9,"Action, Comedy, Fantasy, Magic, Romance, School, Shoujo",TV,153,5
+24234,10686,10,"Action, Adventure, Martial Arts, Shounen, Super Power",Movie,102,0
+11809,34240,9,"Music, Sci-Fi",Music,924,1
+8231,11005,6,"Ecchi, Fantasy, School, Seinen, Supernatural, Vampire",OVA,857,3
+23659,4835,5,"Action, Comedy, Shounen, Super Power, Supernatural",Movie,198,0
+13334,30276,7,"Action, Comedy, Parody, Sci-Fi, Seinen, Super Power, Supernatural",TV,181,5
+9647,6324,8,"Action, Comedy, Demons, Ecchi, Harem, Romance, Supernatural",TV,120,5
+22507,12413,9,"Action, Adventure, Seinen",TV,109,5
+1957,21881,10,"Action, Adventure, Fantasy, Game, Romance",TV,75,5
+25058,486,10,"Action, Adventure, Slice of Life",TV,113,5
+23351,906,10,"Adventure, Comedy, Fantasy, Sci-Fi, Shounen",Movie,415,0
+40033,4789,8,"Drama, Mystery, Romance, Supernatural",TV,823,5
+44788,7674,9,"Comedy, Romance, Shounen",TV,716,5
+12560,10418,8,"Action, Horror, Sci-Fi",OVA,311,3
+72019,11757,9,"Action, Adventure, Fantasy, Game, Romance",TV,75,5
+65488,267,9,"Action, Drama, Sci-Fi, Seinen, Super Power",TV,252,5
+8946,7054,9,"Comedy, Romance, School, Shoujo",TV,702,5
+43772,8995,8,"Action, Adventure, Fantasy, Magic, Martial Arts, Shounen",OVA,81,3
+40389,93,8,"Action, Drama, Mecha, Military, Romance, Sci-Fi, Space",TV,236,5
+57617,454,8,"Comedy, Fantasy, Game",OVA,622,3
+22870,1292,7,"Action, Adventure, Samurai",TV,107,5
+53976,8460,7,"Action, Shounen, Supernatural",OVA,374,3
+49533,6512,9,"Comedy, Harem, Romance",TV,642,5
+54509,415,8,"Comedy, Slice of Life",Movie,751,0
+58113,31859,7,"Action, Adventure, Drama, Fantasy",TV,55,5
+6476,762,8,"Action, Adventure, Drama, Shounen, Supernatural",Special,70,4
+38285,10793,8,"Action, Drama, Sci-Fi, Super Power",TV,253,5
+48129,7769,8,"Comedy, Parody, Romance",TV,688,5
+57914,1732,10,"Comedy, Ecchi, Fantasy, Romance",OVA,572,3
+65428,9331,6,"Action, Shounen, Supernatural",TV,374,5
+38691,9181,8,"Comedy, Ecchi, Harem, School, Sci-Fi, Shounen",TV,590,5
+58485,11783,7,"Action, Adventure, Fantasy, Magic",TV,80,5
+15432,15633,5,"Action, Comedy, Ecchi, School, Shounen, Super Power, Supernatural",OVA,145,3
+14645,22071,7,"Comedy, Romance, Slice of Life",Special,720,4
+11810,11737,8,"Action, Demons, Fantasy, Shounen, Supernatural",Movie,207,0
+60986,10213,9,"Comedy, Ecchi, Harem, Martial Arts, Romance, School, Super Power",TV,575,5
+20887,523,8,"Adventure, Comedy, Supernatural",Movie,435,0
+3096,2236,9,"Adventure, Drama, Romance, Sci-Fi",Movie,454,0
+384,1951,8,"Adventure, Fantasy, Horror, Sci-Fi, Supernatural",Movie,466,0
+33352,21995,7,"Comedy, Drama, Romance, School, Shoujo, Slice of Life",TV,537,5
+29490,1292,10,"Action, Adventure, Samurai",TV,107,5
+5515,199,9,"Adventure, Drama, Supernatural",Movie,458,0
+5061,7769,7,"Comedy, Parody, Romance",TV,688,5
+746,6372,7,"Comedy, Drama, Mystery, Romance, Slice of Life, Thriller",Movie,530,0
+63812,457,9,"Adventure, Fantasy, Historical, Mystery, Seinen, Slice of Life, Supernatural",TV,464,5
+42195,23273,10,"Drama, Music, Romance, School, Shounen",TV,815,5
+15351,17074,9,"Comedy, Mystery, Romance, Supernatural, Vampire",TV,684,5
+55100,7724,10,"Mystery, Supernatural, Thriller, Vampire",TV,937,5
+8448,205,8,"Action, Adventure, Comedy, Historical, Samurai, Shounen",TV,39,5
+51882,8841,8,"Action, Comedy, Ecchi, Harem, Magic, Supernatural",TV,139,5
+66981,790,8,"Mystery, Psychological, Sci-Fi",TV,929,5
+38373,13125,8,"Drama, Horror, Mystery, Sci-Fi, Supernatural",TV,803,5
+43247,11111,10,"Horror, Mystery, School, Supernatural, Thriller",TV,905,5
+66393,93,7,"Action, Drama, Mecha, Military, Romance, Sci-Fi, Space",TV,236,5
+25970,12239,2,"Ecchi, Seinen, Yuri",Special,865,4
+18799,25183,4,"Action, Drama, Seinen",TV,254,5
+14105,9513,7,"Action, Comedy, Demons, School, Shounen, Supernatural",TV,124,5
+40054,6895,9,"Action, Drama, Historical, Josei, Samurai, Supernatural",TV,222,5
+73197,16866,7,"Comedy, Historical, Romance, Shoujo",OVA,656,3
+15348,30240,7,"Comedy, Ecchi, Romance, School, Seinen",TV,601,5
+14551,3167,9,"Sci-Fi, Slice of Life",ONA,956,2
+14046,199,9,"Adventure, Drama, Supernatural",Movie,458,0
+42669,11319,8,"Adventure, Ecchi, Fantasy, Magic, Romance",TV,460,5
+71363,28907,10,"Action, Adventure, Fantasy, Military",TV,88,5
+52763,8479,8,"Comedy, Historical, Parody",ONA,654,2
+294,31289,8,"Action, Adventure, Comedy, Drama, Fantasy, Shounen, Super Power",Special,9,4
+5356,28617,7,"Comedy, Ecchi, Sci-Fi, Super Power, Supernatural",TV,617,5
+60823,372,7,"Comedy, Drama, Fantasy, Magic, Romance, Shoujo",Movie,510,0
+48606,2251,9,"Action, Comedy, Historical, Mystery, Seinen, Supernatural",TV,161,5
+22004,9919,9,"Action, Demons, Fantasy, Shounen, Supernatural",TV,207,5
+61097,3701,9,"Adventure, Mystery, Romance, Sci-Fi",TV,482,5
+13894,5530,7,"Adventure, Fantasy, Mystery, Shounen, Supernatural",TV,470,5
+33480,18753,7,"Comedy, Romance, School",OVA,698,3
+25645,2563,7,"Fantasy, Sci-Fi, Shounen, Slice of Life",OVA,879,3
+47253,8247,7,"Action, Comedy, Shounen, Super Power, Supernatural",Movie,198,0
+5834,881,10,"Comedy, Ecchi, Romance, School",OVA,599,3
+16275,4224,9,"Comedy, Romance, School, Slice of Life",TV,707,5
+39808,14467,9,"Action, Super Power, Supernatural",TV,375,5
+7969,452,6,"Adventure, Comedy, Demons, Drama, Fantasy, Historical, Romance, Shounen, Super Power",Movie,380,0
+29842,1535,9,"Mystery, Police, Psychological, Supernatural, Thriller",TV,927,5
+49883,28999,9,"Drama, School, Super Power",TV,850,5
+49094,357,3,"Comedy, Ecchi, Magic",OVA,594,3
+72347,400,9,"Action, Adventure, Comedy, Sci-Fi, Space",TV,44,5
+13877,981,8,"Comedy, Ecchi, Harem, Romance, School, Shounen",OVA,583,3
+66646,7724,8,"Mystery, Supernatural, Thriller, Vampire",TV,937,5
+45513,8630,9,"Action, Comedy, Romance, School",TV,183,5
+5075,2404,5,"Action, Horror, Shounen, Supernatural",TV,315,5
+71766,13659,7,"Comedy, Seinen, Slice of Life",TV,744,5
+15063,11981,9,"Drama, Magic, Psychological, Thriller",Movie,806,0
+8212,6974,8,"Comedy, Mystery, School, Sci-Fi, Supernatural",TV,685,5
+15145,27989,10,"Drama, Music, School",TV,819,5
+41445,8516,8,"Comedy, Romance, School, Super Power",TV,709,5
+63602,5680,10,"Comedy, Music, School, Slice of Life",TV,675,5
+11999,2236,7,"Adventure, Drama, Romance, Sci-Fi",Movie,454,0
+41818,193,6,"Comedy, Drama, Ecchi, Harem, Magic, Romance, School",TV,500,5
+24152,6637,10,"Action, Comedy, Drama, Mystery, Romance, Thriller",Movie,131,0
+14810,10805,4,"Comedy, Music, Shounen, Supernatural",OVA,676,3
+46,9331,6,"Action, Shounen, Supernatural",TV,374,5
+53166,228,7,"Horror, Mystery, Psychological, Supernatural",TV,902,5
+63214,18897,8,"Comedy, Harem, Romance, School, Shounen",TV,647,5
+36561,1726,7,"Action, Demons, Fantasy",TV,204,5
+23015,21681,8,"Comedy, School, Seinen, Slice of Life",TV,726,5
+47588,2167,9,"Comedy, Drama, Romance, School, Slice of Life, Supernatural",TV,540,5
+53419,384,7,"Action, Drama, Horror, Psychological, Sci-Fi, Supernatural",TV,230,5
+23434,169,6,"Action, Horror, Mystery, Romance, Super Power, Supernatural, Vampire",TV,308,5
+49595,182,8,"Adventure, Fantasy, Mecha, Romance, Shoujo",TV,469,5
+18523,18671,9,"Comedy, Drama, Romance, School, Slice of Life",TV,539,5
+11798,10711,10,"Comedy, School",ONA,724,2
+55919,28701,6,"Action, Fantasy, Magic, Shounen, Supernatural",TV,281,5
+12915,28755,8,"Action, Comedy, Martial Arts, Shounen, Super Power",Movie,170,0
+37640,13659,7,"Comedy, Seinen, Slice of Life",TV,744,5
+55210,904,5,"Action, Adventure, Comedy, Fantasy, Martial Arts, Shounen, Super Power",Movie,27,0
+48891,777,6,"Action, Horror, Military, Seinen, Supernatural, Vampire",OVA,306,3
+73282,8277,5,"Action, Comedy, Ecchi, Harem, Samurai, School",TV,140,5
+60798,9863,10,"Comedy, School, Shounen",TV,730,5
+3037,408,7,"Action, Adventure, Drama, Fantasy, Sci-Fi",OVA,62,3
+48057,10620,10,"Action, Mystery, Psychological, Shounen, Supernatural, Thriller",TV,348,5
+5356,5030,7,"Comedy, Parody, School, Shoujo Ai",TV,691,5
+26970,11843,8,"Comedy, School, Shounen, Slice of Life",TV,731,5
+51841,329,8,"Drama, Romance, Sci-Fi, Seinen, Space",TV,839,5
+32121,5114,10,"Action, Adventure, Drama, Fantasy, Magic, Military, Shounen",TV,59,5
+53072,27821,8,"Action, Fantasy, Magic, Shounen, Supernatural",Special,281,4
+12737,18,10,"Action, Cars, Drama, Seinen, Sports",TV,116,5
+44945,10589,7,"Action, Adventure, Martial Arts, Mystery, Shounen, Super Power",Movie,100,0
+56128,6746,10,"Action, Mystery, Supernatural",TV,356,5
+41941,523,7,"Adventure, Comedy, Supernatural",Movie,435,0
+45394,18897,8,"Comedy, Harem, Romance, School, Shounen",TV,647,5
+35552,14355,1,"Adventure, Comedy, Slice of Life",TV,434,5
+55489,732,9,"Action, Horror, Sci-Fi, Supernatural, Vampire",Movie,313,0
+28110,10790,2,"Action, Comedy, Ecchi, Harem, Magic, Supernatural",TV,139,5
+20881,12175,10,"Drama, Romance, School",TV,830,5
+44352,24687,9,"Adventure, Fantasy, Historical, Mystery, Seinen, Slice of Life, Supernatural",Special,464,4
+45332,461,10,"Action, Adventure, Comedy, Fantasy, Shounen, Super Power",Movie,34,0
+35682,30503,9,"Action, Adventure, Shounen, Supernatural",TV,112,5
+50976,4382,7,"Comedy, Mystery, Parody, Romance, School, Sci-Fi, Slice of Life",TV,679,5
+14587,28025,9,"Comedy, Mystery, Supernatural",TV,686,5
+27040,28025,9,"Comedy, Mystery, Supernatural",TV,686,5
+50510,3791,8,"Shounen, Sports",Special,958,4
+44873,6098,7,"Comedy, Romance, School, Slice of Life",TV,707,5
+42635,3467,5,"Comedy, Romance",TV,697,5
+53804,15439,9,"Fantasy, Shounen Ai",OVA,882,3
+22477,16706,7,"Comedy, Harem, Romance, Shounen, Supernatural",TV,651,5
+23997,19685,10,"Comedy, Harem, Romance, School",TV,643,5
+25800,2581,9,"Action, Drama, Mecha, Military, Sci-Fi, Space",TV,237,5
+64097,27899,9,"Action, Drama, Horror, Mystery, Psychological, Seinen, Supernatural",TV,227,5
+8820,30524,6,"Horror, Mystery, Supernatural, Thriller",TV,908,5
+13440,9982,6,"Comedy, Ecchi, Fantasy, Magic, Shounen",OVA,571,3
+57817,469,7,"Comedy, Romance, School, Shounen, Vampire",TV,706,5
+784,17074,8,"Comedy, Mystery, Romance, Supernatural, Vampire",TV,684,5
+55877,2418,8,"Action, Adventure, Historical, Samurai",Movie,96,0
+32496,32013,7,"Comedy, School, Slice of Life",TV,733,5
+20501,1002,10,"Action, Comedy, Mecha, Sci-Fi, Space",OVA,176,3
+58519,857,5,"Action, Comedy, Ecchi, Shounen, Sports",TV,147,5
+52361,189,8,"Comedy, Ecchi, Harem, Romance, Shounen, Slice of Life",TV,588,5
+23439,20021,6,"Action, Adventure, Fantasy, Game, Romance",Special,75,4
+439,15417,10,"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen",TV,162,5
+62367,21603,9,"Comedy, Romance, Sci-Fi, Super Power, Supernatural",TV,712,5
+65870,9926,7,"Comedy, Drama, Romance, Shounen Ai",TV,544,5
+43230,15117,9,"Comedy, Harem, Romance, Shounen, Supernatural",OVA,651,3
+51491,26,7,"Action, Drama, Psychological, Sci-Fi",TV,248,5
+59439,61,9,"Action, Comedy, Fantasy, Magic, Romance, School, Shoujo",TV,153,5
+50374,1303,8,"Action, Drama, Sci-Fi",OVA,251,3
+52701,31478,9,"Action, Comedy, Mystery, Seinen, Supernatural",TV,178,5
+63446,9253,9,"Sci-Fi, Thriller",TV,957,5
+40471,1953,8,"Comedy, School, Slice of Life",Special,733,4
+41631,6702,6,"Action, Adventure, Comedy, Fantasy, Magic, Shounen",TV,25,5
+38384,5764,2,"Comedy, Ecchi, Fantasy, Harem, Magic",Special,560,4
+34880,16498,8,"Action, Drama, Fantasy, Shounen, Super Power",TV,220,5
+51491,276,8,"Comedy, Ecchi, Military, Romance, Sci-Fi",TV,597,5
+69321,14833,6,"Adventure, Demons, Fantasy, Historical, Romance",TV,438,5
+64788,10336,8,"Action, Adventure, Sci-Fi",TV,108,5
+64105,433,8,"Drama, Military, Romance, Sci-Fi",Movie,812,0
+18943,1535,10,"Mystery, Police, Psychological, Supernatural, Thriller",TV,927,5
+16299,790,9,"Mystery, Psychological, Sci-Fi",TV,929,5
+24991,11111,9,"Horror, Mystery, School, Supernatural, Thriller",TV,905,5
+70548,21561,7,"Comedy, Supernatural",TV,753,5
+51739,3954,9,"Comedy, School",Special,724,4
+72341,2001,10,"Action, Adventure, Comedy, Mecha, Sci-Fi",TV,41,5
+10497,3447,9,"Comedy, Mecha, Sci-Fi",Special,672,4
+59138,997,7,"Adventure, Comedy, Drama, Fantasy, Magic, Romance, Shoujo",Movie,391,0
+6434,6633,9,"Action, Adventure, Ecchi, Fantasy",TV,71,5
+39463,2654,8,"Adventure, Fantasy, Kids, Shounen",Movie,467,0
+35500,1210,9,"Comedy, Drama, Psychological, Romance",TV,531,5
+41514,7088,7,"Action, Comedy, Ecchi, Fantasy, Harem, Magic, School, Shounen",TV,135,5
+66404,433,6,"Drama, Military, Romance, Sci-Fi",Movie,812,0
+58501,1575,10,"Action, Mecha, Military, School, Sci-Fi, Super Power",TV,324,5
+28355,5265,10,"Action, Adventure, Comedy",TV,2,5
+63990,5671,7,"Game, School, Slice of Life",TV,888,5
+23276,5764,7,"Comedy, Ecchi, Fantasy, Harem, Magic",Special,560,4
+49004,1726,6,"Action, Demons, Fantasy",TV,204,5
+49390,7728,7,"Action, Seinen, Supernatural, Vampire",Special,371,4
+68391,8740,9,"Action, Adventure, Comedy, Fantasy, Shounen, Super Power",OVA,34,3
+70350,30279,9,"Comedy, School, Shoujo Ai, Slice of Life",TV,729,5
+50690,874,9,"Adventure, Comedy, Drama, Fantasy, Shounen",TV,394,5
+45396,3002,10,"Game, Psychological, Seinen, Thriller",TV,887,5
+66291,4765,7,"Action, Drama, Military, Sci-Fi",OVA,243,3
+22461,222,9,"Action, Adventure, Comedy, Mystery, Sci-Fi",TV,42,5
+46232,4535,9,"Romance, School, Shoujo Ai",ONA,946,2
+49714,6920,5,"Action, Drama, Horror, Vampire",TV,233,5
+33226,18153,7,"Fantasy, Slice of Life, Supernatural",TV,884,5
+33871,8769,8,"Comedy, Seinen, Slice of Life",TV,744,5
+69078,11741,10,"Action, Fantasy, Supernatural, Thriller",TV,291,5
+24280,898,10,"Adventure, Comedy, Fantasy, Sci-Fi, Shounen",Movie,415,0
+32870,3588,8,"Action, Adventure, Comedy, Fantasy, Shounen, Supernatural",TV,35,5
+41797,25389,8,"Action, Adventure, Comedy, Fantasy, Martial Arts, Shounen, Super Power",Movie,27,0
+6228,32828,6,"Comedy, Seinen, Slice of Life",TV,744,5
+8287,22877,7,"Action, Comedy, Ecchi, Fantasy, Harem, Romance, School, Supernatural",TV,137,5
+58598,433,9,"Drama, Military, Romance, Sci-Fi",Movie,812,0
+31458,19117,9,"Adventure, Drama, Romance",TV,453,5
+56426,30311,7,"Comedy, Sports",Special,752,4
+14476,10162,8,"Josei, Slice of Life",TV,911,5
+42961,18713,6,"Comedy, Parody, Sci-Fi",OVA,694,3
+72375,7338,7,"Action, Mystery, Sci-Fi, Super Power",Special,351,4
+29161,1482,9,"Action, Adventure, Comedy, Shounen",TV,45,5
+32596,10408,5,"Drama, Romance, Shoujo, Supernatural",Movie,842,0
+41244,21185,8,"Romance, School, Shounen, Sports",TV,948,5
+69037,488,8,"Comedy, Slice of Life",TV,751,5
+21752,31374,7,"Comedy, Parody, School, Shounen",TV,692,5
+56775,6811,7,"Action, Adventure, Comedy, Demons, Fantasy, Magic, Romance, Shounen, Supernatural",TV,3,5
+56321,14345,9,"Action, Psychological, Sci-Fi, Seinen",TV,360,5
+40084,28249,7,"Action, Adventure, Drama, Fantasy, Historical, Shounen",TV,57,5
+12233,21189,5,"Drama, Music",Movie,814,0
+1938,30524,7,"Horror, Mystery, Supernatural, Thriller",TV,908,5
+35162,431,9,"Adventure, Drama, Fantasy, Romance",Movie,442,0
+3615,6213,10,"Action, Sci-Fi, Super Power",TV,369,5
+30388,10213,7,"Comedy, Ecchi, Harem, Martial Arts, Romance, School, Super Power",TV,575,5
+56899,19103,7,Hentai,OVA,893,3
+40175,10418,8,"Action, Horror, Sci-Fi",OVA,311,3
+34256,30250,9,"Action, Ecchi, School, Shounen",OVA,270,3
+14490,10080,6,"Comedy, Harem, Romance, Shounen, Supernatural",TV,651,5
+67494,5680,9,"Comedy, Music, School, Slice of Life",TV,675,5
+46129,339,8,"Dementia, Drama, Mystery, Psychological, Sci-Fi, Supernatural",TV,757,5
+23991,7059,9,"Action, Drama, School, Slice of Life",OVA,250,3
+66198,4725,6,"Action, Super Power, Supernatural, Thriller",TV,376,5
+36310,24833,8,"Action, Comedy, School, Shounen",TV,187,5
+73272,22319,7,"Action, Drama, Horror, Mystery, Psychological, Seinen, Supernatural",TV,227,5
+19915,889,10,"Action, Seinen",TV,370,5
+38379,16498,7,"Action, Drama, Fantasy, Shounen, Super Power",TV,220,5
+64532,3588,8,"Action, Adventure, Comedy, Fantasy, Shounen, Supernatural",TV,35,5
+25712,199,10,"Adventure, Drama, Supernatural",Movie,458,0
+19342,18397,6,"Action, Drama, Fantasy, Shounen, Super Power",OVA,220,3
+18477,1,9,"Action, Adventure, Comedy, Drama, Sci-Fi, Space",TV,14,5
+17265,43,10,"Action, Mecha, Police, Psychological, Sci-Fi, Seinen",Movie,332,0
+53423,50,10,"Comedy, Magic, Romance, Seinen, Supernatural",TV,664,5
+63662,9617,7,"Comedy, Music, Slice of Life",Movie,677,0
+54816,28497,7,"Action, Adventure, Fantasy, Magic, Mystery",TV,82,5
+13317,186,8,"Action, Cars, Drama, Seinen, Sports",TV,116,5
+13772,22433,6,"Action, Fantasy, Mecha, Military, Shounen",TV,282,5
+35691,19429,3,"Action, School, Shoujo Ai",TV,363,5
